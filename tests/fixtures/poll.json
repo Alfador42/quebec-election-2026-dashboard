@@ -1,0 +1,10 @@
+{
+  "pollster":"Léger","sponsor":"Synthetic fixture — NOT REAL POLLING DATA","jurisdiction":"CA-QC",
+  "publicationDate":"2026-09-06","fieldStart":"2026-09-03","fieldEnd":"2026-09-05","sampleSize":1000,
+  "mode":"online","population":"Synthetic eligible adult population","basis":"decided","scenario":"actual",
+  "question":"Synthetic provincial voting intention test question",
+  "marginOfError":{"value":null,"confidence":null,"applicability":"not-applicable","note":"Synthetic non-probability panel"},
+  "undecided":null,"notes":[],"extraction":{"method":"test-fixture","version":"1","locator":"Synthetic fixture"},
+  "sources":[{"url":"https://example.org/synthetic","role":"primary","evidenceHash":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}],
+  "blocks":[{"questionType":"voting-intention","geography":{"level":"province","label":"Québec","definition":"Province"},"dimensions":[],"baseN":800,"basis":"decided","reportedValues":{"PQ":"30%","CAQ":"20%","PLQ":"25%","QS":"10%","PCQ":"14%","Other":"1%"}}]
+}

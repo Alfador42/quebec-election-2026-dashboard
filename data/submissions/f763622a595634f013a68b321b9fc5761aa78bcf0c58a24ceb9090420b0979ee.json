@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "basis": "decided-leaning",
+  "notes": [
+    "Use actual unweighted sample 651, not the weighted total 600 shown in earlier tables.",
+    "Decided base n=521 is as labelled on page 37; weighted versus unweighted status of that base is not stated there.",
+    "Green (PVQ) is a separate category and is not folded into Other.",
+    "Undecided is the reported all-respondent figure from page 33. Secondary field dates/sample totals differ from original methodology."
+  ],
+  "pollster": "Innovative Research",
+  "sponsor": null,
+  "publicationDate": "2026-02-20",
+  "publicationDateBasis": "primary article publication metadata",
+  "fieldStart": "2026-01-16",
+  "fieldEnd": "2026-02-01",
+  "sampleSize": 651,
+  "mode": "Online panel (Canada 20/20 and Lucid)",
+  "population": "Québec citizens aged 18 and over",
+  "undecided": 10,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability panel; report says a sampling margin cannot be calculated."
+  },
+  "extraction": {
+    "method": "reviewed-pdf-chart",
+    "version": "manual-1",
+    "locator": "PDF page 37 decided vote chart, page 45 methodology, page 33 undecided; primary article date"
+  },
+  "sources": [
+    {
+      "url": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf",
+      "role": "primary",
+      "evidenceHash": "ec36e02c517d9f237482db25329ff0ec295d6a51bc54a9297f8bc9f7973a0c77"
+    },
+    {
+      "url": "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
+      "role": "primary",
+      "evidenceHash": "8a1f5f697830eff028333917d9412fb0deb1a93f4224e63490c983953ea6c7d1"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, not a regional subsample"
+      },
+      "dimensions": [],
+      "baseN": 521,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PLQ": "26%",
+        "CAQ": "14%",
+        "PQ": "31%",
+        "QS": "6%",
+        "PVQ": "4%",
+        "PCQ": "18%",
+        "OTHER": "1%"
+      }
+    }
+  ]
+}

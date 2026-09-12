@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "halfLifeDays": 14,
+  "maxAgeDays": 28,
+  "sampleCap": 2000,
+  "minimumFirms": 2,
+  "requiredParties": [
+    "PQ",
+    "CAQ",
+    "PLQ",
+    "QS",
+    "PCQ"
+  ],
+  "allowedBases": [
+    "decided",
+    "decided-leaning"
+  ],
+  "totalTolerance": 3,
+  "historySemantics": "retrospective-publication-eligible"
+}

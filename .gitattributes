@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Evidence is an immutable byte stream; line-ending normalization would invalidate SHA-256.
+data/evidence/** -text

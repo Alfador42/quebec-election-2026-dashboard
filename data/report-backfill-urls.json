@@ -1,0 +1,30 @@
+[
+  {
+    "sourceId": "pallas",
+    "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf"
+  },
+  {
+    "sourceId": "leger",
+    "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/5.%20%C3%89tudes%20M%C3%A9diatiques%20Mai/Leger%20-%20Rapport%20-%20Intentions%20de%20vote%20Quebec%2019%20mai%202026.pdf"
+  },
+  {
+    "sourceId": "leger",
+    "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf"
+  },
+  {
+    "sourceId": "liaison",
+    "url": "https://press.liaisonstrategies.ca/content/files/2026/05/2026.05.05---Quebec.pdf"
+  },
+  {
+    "sourceId": "leger",
+    "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/6.%20%C3%89tudes%20M%C3%A9diatiques%20Juin%202026/Qu%C3%A9bec%20Polls/Rapport%20-%20Leger-%20Intentions%20de%20vote%20(16%20juin%202026).pdf"
+  },
+  {
+    "sourceId": "liaison",
+    "url": "https://press.liaisonstrategies.ca/content/files/2026/05/2026.05.05---Quebec-1.pdf"
+  },
+  {
+    "sourceId": "innovative",
+    "url": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf"
+  }
+]

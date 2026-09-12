@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf",
+    "finalUrl": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf",
+    "sourceId": "pallas",
+    "role": "primary",
+    "retrievedAt": "2026-09-12T23:20:45.458Z",
+    "sha256": "683b0a66ac86184631771a88009a1139589b15316ec760fe37fe897bd52d28a1",
+    "contentType": "application/pdf",
+    "byteLength": 1639992,
+    "file": "data/evidence/683b0a66ac86184631771a88009a1139589b15316ec760fe37fe897bd52d28a1.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/5.%20%C3%89tudes%20M%C3%A9diatiques%20Mai/Leger%20-%20Rapport%20-%20Intentions%20de%20vote%20Quebec%2019%20mai%202026.pdf",
+    "finalUrl": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/5.%20%C3%89tudes%20M%C3%A9diatiques%20Mai/Leger%20-%20Rapport%20-%20Intentions%20de%20vote%20Quebec%2019%20mai%202026.pdf",
+    "sourceId": "leger",
+    "role": "primary",
+    "retrievedAt": "2026-09-12T23:20:48.582Z",
+    "sha256": "fdb300f94f5da1ca05e3c02cfde7d26d3910ffba14a372148bb5af5b48ed2a8f",
+    "contentType": "application/pdf",
+    "byteLength": 1226834,
+    "file": "data/evidence/fdb300f94f5da1ca05e3c02cfde7d26d3910ffba14a372148bb5af5b48ed2a8f.pdf",
+    "status": 200
+  },
+  {
+    "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf",
+    "finalUrl": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf",
+    "sourceId": "leger",
+    "role": "primary",
+    "retrievedAt": "2026-09-12T23:20:51.594Z",
+    "sha256": "fc97a47252449cc2f51b882d61d8a3cc3fb11d111a109483dbacd739bd31b863",
+    "contentType": "application/pdf",
+    "byteLength": 1176544,
+    "file": "data/evidence/fc97a47252449cc2f51b882d61d8a3cc3fb11d111a109483dbacd739bd31b863.pdf",
+    "status": 200
+  },
+  {
+    "sourceId": "liaison",
+    "url": "https://press.liaisonstrategies.ca/content/files/2026/05/2026.05.05---Quebec.pdf",
+    "error": "Blocked by robots.txt"
+  },
+  {
+    "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/6.%20%C3%89tudes%20M%C3%A9diatiques%20Juin%202026/Qu%C3%A9bec%20Polls/Rapport%20-%20Leger-%20Intentions%20de%20vote%20(16%20juin%202026).pdf",
+    "finalUrl": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/6.%20%C3%89tudes%20M%C3%A9diatiques%20Juin%202026/Qu%C3%A9bec%20Polls/Rapport%20-%20Leger-%20Intentions%20de%20vote%20(16%20juin%202026).pdf",
+    "sourceId": "leger",
+    "role": "primary",
+    "retrievedAt": "2026-09-12T23:20:55.115Z",
+    "sha256": "5ae1a7f6f312d402af168aea26e40ec0770b76a386909836b39d277f8d88cd32",
+    "contentType": "application/pdf",
+    "byteLength": 1169250,
+    "file": "data/evidence/5ae1a7f6f312d402af168aea26e40ec0770b76a386909836b39d277f8d88cd32.pdf",
+    "status": 200
+  },
+  {
+    "sourceId": "liaison",
+    "url": "https://press.liaisonstrategies.ca/content/files/2026/05/2026.05.05---Quebec-1.pdf",
+    "error": "Blocked by robots.txt"
+  },
+  {
+    "url": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf",
+    "finalUrl": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf",
+    "sourceId": "innovative",
+    "role": "primary",
+    "retrievedAt": "2026-09-12T23:20:56.395Z",
+    "sha256": "ec36e02c517d9f237482db25329ff0ec295d6a51bc54a9297f8bc9f7973a0c77",
+    "contentType": "application/pdf",
+    "byteLength": 1214365,
+    "file": "data/evidence/ec36e02c517d9f237482db25329ff0ec295d6a51bc54a9297f8bc9f7973a0c77.pdf",
+    "status": 200
+  }
+]

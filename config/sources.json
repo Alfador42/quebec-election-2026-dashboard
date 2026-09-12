@@ -1,0 +1,159 @@
+[
+  {
+    "id": "leger",
+    "publisher": "Léger",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
+      "https://leger360.com/fr/"
+    ],
+    "hosts": [
+      "leger360.com",
+      "documents.leger360.com"
+    ],
+    "notes": "HTML discovery; report tables require reviewed extraction."
+  },
+  {
+    "id": "pallas",
+    "publisher": "Pallas Data",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://pallas-data.ca/",
+      "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/"
+    ],
+    "hosts": [
+      "pallas-data.ca"
+    ],
+    "notes": "WordPress releases; translated denominator and headline/body conflicts require report verification."
+  },
+  {
+    "id": "liaison",
+    "publisher": "Liaison Strategies",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://press.liaisonstrategies.ca/",
+      "https://press.liaisonstrategies.ca/quebec-le-pq-et-les-liberaux-sont-coude-a-coude-la-caq-gagne-du-terrain/"
+    ],
+    "hosts": [
+      "press.liaisonstrategies.ca",
+      "storage.ghost.io"
+    ],
+    "notes": "Ghost pages and PDFs."
+  },
+  {
+    "id": "innovative",
+    "publisher": "Innovative Research",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://innovativeresearch.ca/insights-news/public-affairs-research/"
+    ],
+    "hosts": [
+      "innovativeresearch.ca"
+    ],
+    "notes": "Review all vs decided denominators."
+  },
+  {
+    "id": "mainstreet",
+    "publisher": "Mainstreet Research",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://www.mainstreetresearch.ca/polling"
+    ],
+    "hosts": [
+      "www.mainstreetresearch.ca",
+      "mainstreetresearch.ca"
+    ],
+    "notes": "Some releases may have access restrictions."
+  },
+  {
+    "id": "synopsis",
+    "publisher": "Synopsis Recherche",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": false,
+    "urls": [],
+    "hosts": [],
+    "notes": "Canonical polling endpoint unresolved; discovered via secondary inventories."
+  },
+  {
+    "id": "ipsos",
+    "publisher": "Ipsos",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://www.ipsos.com/en-ca/support-independence-alberta-reaches-levels-similar-quebec"
+    ],
+    "hosts": [
+      "www.ipsos.com"
+    ],
+    "notes": "Do not mix sovereignty or federal polls."
+  },
+  {
+    "id": "angus-reid",
+    "publisher": "Angus Reid Institute",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://angusreid.org/"
+    ],
+    "hosts": [
+      "angusreid.org"
+    ],
+    "notes": "Monitor for eligible provincial releases."
+  },
+  {
+    "id": "qc125",
+    "publisher": "Qc125",
+    "role": "secondary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://qc125.com/"
+    ],
+    "hosts": [
+      "qc125.com",
+      "www.qc125.com"
+    ],
+    "notes": "Discovery only; never import projections."
+  },
+  {
+    "id": "lequebecvote",
+    "publisher": "Le Québec Vote",
+    "role": "secondary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://lequebecvote.ca/sondages"
+    ],
+    "hosts": [
+      "lequebecvote.ca"
+    ],
+    "notes": "Historical inventory; follow each poll's references; firm mode is not historical evidence."
+  },
+  {
+    "id": "poliwave",
+    "publisher": "Poliwave",
+    "role": "secondary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://www.poliwave.com/ca/qc/polls/pollsters?lang=en"
+    ],
+    "hosts": [
+      "www.poliwave.com"
+    ],
+    "notes": "Cross-checks and new firm detection only."
+  }
+]

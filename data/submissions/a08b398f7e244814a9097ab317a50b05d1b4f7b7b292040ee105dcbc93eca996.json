@@ -1,0 +1,65 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "basis": "decided-leaning",
+  "notes": [
+    "Use decimal results from the original decided-and-leaning table rather than rounded release headline values.",
+    "Undecided 7.5% is from the pre-leaner all-voter table on page 8; after the leaner question, 4.6% remains undecided on page 10.",
+    "Report dated September 6; website release dated September 7. Sponsor not identified conclusively in the report methodology."
+  ],
+  "pollster": "Pallas Data",
+  "sponsor": null,
+  "publicationDate": "2026-09-07",
+  "publicationDateBasis": "primary release date",
+  "fieldStart": "2026-09-05",
+  "fieldEnd": "2026-09-05",
+  "sampleSize": 1100,
+  "mode": "IVR telephone (landline and mobile)",
+  "population": "Québec residents aged 18 and over",
+  "undecided": 7.5,
+  "marginOfError": {
+    "value": 3,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "Reported full-sample margin; subgroup margins are larger."
+  },
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "pallas-table-1",
+    "locator": "PDF pages 3 (method), 8/10 (undecided bases), 12 (total decided and leaning); primary release date"
+  },
+  "sources": [
+    {
+      "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf",
+      "role": "primary",
+      "evidenceHash": "683b0a66ac86184631771a88009a1139589b15316ec760fe37fe897bd52d28a1"
+    },
+    {
+      "url": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
+      "role": "primary",
+      "evidenceHash": "6a7f1c7d36f23782489233aab9a0b735f27d052ae2a12fbfcea620b35f9b482c"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, not a regional subsample"
+      },
+      "dimensions": [],
+      "baseN": 1040,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "CAQ": "23.6%",
+        "PLQ": "20%",
+        "QS": "10.6%",
+        "PQ": "28.8%",
+        "PCQ": "15.4%",
+        "OTHER": "1.5%"
+      }
+    }
+  ]
+}

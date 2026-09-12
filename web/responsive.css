@@ -1,0 +1,11 @@
+/* Keep the election calendar visible on compact screens too. */
+@media(max-width:800px){
+  .heading{display:block}
+  .countdown{display:flex;flex-wrap:wrap;text-align:left;gap:8px;margin-top:20px}
+  .countdown strong{font-size:26px}
+  .countdown span{font-size:11px}
+  .countdown small{width:100%;margin:0;font-size:12px}
+  nav{gap:18px;flex-wrap:wrap;overflow:visible;padding:8px 0}
+  nav button{padding:6px 0}
+  .edition{white-space:nowrap}
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://lequebecvote.ca/sondages/pallas-data-2026-01-10",
+  "finalUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-01-10",
+  "sourceId": "lequebecvote",
+  "role": "secondary",
+  "retrievedAt": "2026-09-12T23:10:07.023Z",
+  "sha256": "1e192086bb7b8fc45b51a7d0909e1cd2a875ae72339c22f0b0c846adb29a713f",
+  "contentType": "text/html; charset=utf-8",
+  "byteLength": 413582,
+  "file": "data/evidence/1e192086bb7b8fc45b51a7d0909e1cd2a875ae72339c22f0b0c846adb29a713f.html",
+  "status": 200
+}

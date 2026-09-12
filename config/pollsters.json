@@ -1,0 +1,58 @@
+[
+  {
+    "id": "leger",
+    "name": "Léger",
+    "aliases": [
+      "Leger"
+    ]
+  },
+  {
+    "id": "pallas",
+    "name": "Pallas Data",
+    "aliases": [
+      "Pallas"
+    ]
+  },
+  {
+    "id": "liaison",
+    "name": "Liaison Strategies",
+    "aliases": [
+      "Liaison",
+      "Liaison Stratégies"
+    ]
+  },
+  {
+    "id": "innovative",
+    "name": "Innovative Research",
+    "aliases": [
+      "Innovative Research Group",
+      "Innovative"
+    ]
+  },
+  {
+    "id": "mainstreet",
+    "name": "Mainstreet Research",
+    "aliases": [
+      "Mainstreet"
+    ]
+  },
+  {
+    "id": "synopsis",
+    "name": "Synopsis Recherche",
+    "aliases": [
+      "Synopsis"
+    ]
+  },
+  {
+    "id": "ipsos",
+    "name": "Ipsos",
+    "aliases": []
+  },
+  {
+    "id": "angus-reid",
+    "name": "Angus Reid Institute",
+    "aliases": [
+      "Angus Reid"
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "PQ",
+    "name": "Parti québécois",
+    "color": "#1765ad",
+    "aliases": [
+      "Parti Quebecois",
+      "Parti Québécois"
+    ]
+  },
+  {
+    "id": "CAQ",
+    "name": "Coalition avenir Québec",
+    "color": "#008b99",
+    "aliases": [
+      "Coalition Avenir Québec",
+      "Coalition avenir Quebec"
+    ]
+  },
+  {
+    "id": "PLQ",
+    "name": "Parti libéral du Québec",
+    "color": "#c4343c",
+    "aliases": [
+      "QLP",
+      "Liberal",
+      "Liberals",
+      "Parti libéral du Québec"
+    ]
+  },
+  {
+    "id": "QS",
+    "name": "Québec solidaire",
+    "color": "#d96b25",
+    "aliases": [
+      "Quebec solidaire"
+    ]
+  },
+  {
+    "id": "PCQ",
+    "name": "Parti conservateur du Québec",
+    "color": "#314d98",
+    "aliases": [
+      "Conservative",
+      "Parti conservateur du Québec"
+    ]
+  },
+  {
+    "id": "PVQ",
+    "name": "Parti vert du Québec",
+    "color": "#438147",
+    "aliases": [
+      "Green",
+      "Verts"
+    ]
+  },
+  {
+    "id": "OTHER",
+    "name": "Other",
+    "color": "#7d8189",
+    "aliases": [
+      "Other",
+      "Autres",
+      "un autre parti"
+    ]
+  },
+  {
+    "id": "IND",
+    "name": "Independents",
+    "color": "#535862",
+    "aliases": [
+      "Independent",
+      "Indépendants"
+    ]
+  }
+]

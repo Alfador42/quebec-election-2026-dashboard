@@ -1,0 +1,65 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "basis": "decided-leaning",
+  "notes": [
+    "Values from the total decided column, following the leaner question. All-respondent and hypothetical leadership columns are excluded.",
+    "Undecided refers to the reported Ne sait pas row, excluding refusal and non-voting responses.",
+    "Field dates come from report methodology; publication date comes from the primary release, not the report cover or secondary tracker date."
+  ],
+  "pollster": "Léger",
+  "sponsor": "Sondage Léger/Le Journal/TVA",
+  "publicationDate": "2026-08-11",
+  "publicationDateBasis": "primary article publication metadata",
+  "fieldStart": "2026-08-07",
+  "fieldEnd": "2026-08-09",
+  "sampleSize": 998,
+  "mode": "Online panel (LEO)",
+  "population": "Québec residents aged 18 and over eligible to vote",
+  "undecided": 12,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability online panel. The source gives a probability-sample comparison only; no actual sampling margin is assigned."
+  },
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "leger-table-1",
+    "locator": "PDF page 7, VOTEP table, total decided column; methodology page and linked article publication metadata"
+  },
+  "sources": [
+    {
+      "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf",
+      "role": "primary",
+      "evidenceHash": "fc97a47252449cc2f51b882d61d8a3cc3fb11d111a109483dbacd739bd31b863"
+    },
+    {
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
+      "role": "primary",
+      "evidenceHash": "b14f4ec39a321a6d11bc8a330729f1b22740c0f2203eef93567bd5958c6aea2e"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, not a regional subsample"
+      },
+      "dimensions": [],
+      "baseN": 818,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "30%",
+        "CAQ": "20%",
+        "PLQ": "24%",
+        "PCQ": "13%",
+        "QS": "11%",
+        "OTHER": "2%"
+      }
+    }
+  ]
+}

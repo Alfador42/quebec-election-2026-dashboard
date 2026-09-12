@@ -1,0 +1,65 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "basis": "decided-leaning",
+  "notes": [
+    "Values from the total decided column, following the leaner question. All-respondent and hypothetical leadership columns are excluded.",
+    "Undecided refers to the reported Ne sait pas row, excluding refusal and non-voting responses.",
+    "Field dates come from report methodology; publication date comes from the primary release, not the report cover or secondary tracker date."
+  ],
+  "pollster": "Léger",
+  "sponsor": "Sondage Léger/Québecor",
+  "publicationDate": "2026-03-04",
+  "publicationDateBasis": "primary article publication metadata",
+  "fieldStart": "2026-02-27",
+  "fieldEnd": "2026-03-02",
+  "sampleSize": 1041,
+  "mode": "Online panel (LEO)",
+  "population": "Québec residents aged 18 and over eligible to vote",
+  "undecided": 12,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability online panel. The source gives a probability-sample comparison only; no actual sampling margin is assigned."
+  },
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "leger-table-1",
+    "locator": "PDF page 8, VOTEP table, total decided column; methodology page and linked article publication metadata"
+  },
+  "sources": [
+    {
+      "url": "https://leger360.com/wp-content/uploads/2026/03/Leger_PolitiqueQC_V1_4mars2026.pdf",
+      "role": "primary",
+      "evidenceHash": "ce41fcf709968a7ee09e8265774a076421234722c40ba074167796a26aacda84"
+    },
+    {
+      "url": "https://leger360.com/fr/quebec-politique-volonte-changement-baisse-appui-a-la-souverainete/",
+      "role": "primary",
+      "evidenceHash": "6ed6dea0db9da89e6986ca22c92b716c0b019f117c762e68205436d36af5c0f9"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, not a regional subsample"
+      },
+      "dimensions": [],
+      "baseN": 803,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "31%",
+        "CAQ": "13%",
+        "PLQ": "30%",
+        "PCQ": "15%",
+        "QS": "9%",
+        "OTHER": "1%"
+      }
+    }
+  ]
+}

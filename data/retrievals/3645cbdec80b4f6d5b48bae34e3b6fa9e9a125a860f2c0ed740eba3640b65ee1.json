@@ -1,0 +1,12 @@
+{
+  "url": "https://lequebecvote.ca/sondages/leger-2026-06-14",
+  "finalUrl": "https://lequebecvote.ca/sondages/leger-2026-06-14",
+  "sourceId": "lequebecvote",
+  "role": "secondary",
+  "retrievedAt": "2026-09-12T23:09:42.779Z",
+  "sha256": "a41b8d6e523357904034715adde229fff322bc236b05e4e7f187d50fd073f6c4",
+  "contentType": "text/html; charset=utf-8",
+  "byteLength": 413346,
+  "file": "data/evidence/a41b8d6e523357904034715adde229fff322bc236b05e4e7f187d50fd073f6c4.html",
+  "status": 200
+}

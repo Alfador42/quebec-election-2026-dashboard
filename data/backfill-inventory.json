@@ -1,0 +1,351 @@
+[
+  {
+    "id": "9f0555fde7671cd95b7e89cc",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/innovative-research-2026-01-24",
+    "inventoryTitle": "Innovative Research — 24 janvier 2026",
+    "evidenceHash": "4d901f1ec2aea55443c195af5fb5e684fb8f0a173d85ee9de0c2b3421dd7c384",
+    "referenceUrls": [
+      "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
+      "https://qc125.com/20260124-inn.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "b07fea0dc57a36b9691e8dad"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "379f45c42501b342a85c6734",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-01-28",
+    "inventoryTitle": "Léger — 28 janvier 2026",
+    "evidenceHash": "e400249254e1f4a4a10551575f739fe0e954a8610efc3524296593fce6513b98",
+    "referenceUrls": [
+      "https://qc125.com/proj/2026-01-28-leger.pdf",
+      "https://qc125.com/20260128-leg.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "768ccbbcfe93a5d03c3a71ab",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-03-01",
+    "inventoryTitle": "Léger — 1 mars 2026",
+    "evidenceHash": "98389aea602321053c090a3d4307b4d011ecd21f32259c51a4c1f8166f4aad9f",
+    "referenceUrls": [
+      "https://leger360.com/wp-content/uploads/2026/03/Leger_PolitiqueQC_V1_4mars2026.pdf",
+      "https://qc125.com/20260301-leg.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "2365c24f0f18857d6e898ad4"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "c74c49f2a8856d32115eeee9",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-03-21",
+    "inventoryTitle": "Léger — 21 mars 2026",
+    "evidenceHash": "f5963e85752acccaafe316d133720aebde59379ea475e1beb30d22def34b5e16",
+    "referenceUrls": [
+      "https://qc125.com/20260321-leg.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "4c0c5a8a76d5aaf18454ecb7",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-04-04",
+    "inventoryTitle": "Léger — 4 avril 2026",
+    "evidenceHash": "e5618a7f9905d94c701833e36eb26c4d925dd44fcc64b5ff21aa3b911ee2bbcb",
+    "referenceUrls": [
+      "https://qc125.com/20260404-leg.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "738d403918e1ce182abcff55",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-04-19",
+    "inventoryTitle": "Léger — 19 avril 2026",
+    "evidenceHash": "ddd6d167a45aaf1dd0caf25708bd40bf8f5dce8b8be1b1f31ec28cad72a7894d",
+    "referenceUrls": [
+      "https://qc125.com/20260419-leg.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "3067c1a346bb882d9cda6ff7",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-05-17",
+    "inventoryTitle": "Léger — 17 mai 2026",
+    "evidenceHash": "018b4552b612d53af8078bfd8691c9ee3ef68f171f7e73e6fb58ce3acd1aa6f6",
+    "referenceUrls": [
+      "https://leger360.com/fr/intentions-de-vote-au-quebec-lutte-a-trois-mai-2026/",
+      "https://qc125.com/20260517-leg.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "ab7b396ebb6aa55465445e4b"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "822ee1e4bfd91ab07957eb1d",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-06-14",
+    "inventoryTitle": "Léger — 14 juin 2026",
+    "evidenceHash": "a41b8d6e523357904034715adde229fff322bc236b05e4e7f187d50fd073f6c4",
+    "referenceUrls": [
+      "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-le-pq-reste-en-tete-mais-rien-nest-encore-joue/",
+      "https://qc125.com/20260614-leg.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "474e843cff6f6b1ed437683d"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "c02725ba5d526d6a185c0fa7",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-08-08",
+    "inventoryTitle": "Léger — 8 août 2026",
+    "evidenceHash": "7f9901274bb8846c6edc66dd75de8ecbabd3074ab424ee6ef592475fa6324b5b",
+    "referenceUrls": [
+      "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
+      "https://qc125.com/20260808-leg.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "e49901c3a9e0992104d1b289"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "e4f90e6e6afbcd4da0e977e4",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-08-23",
+    "inventoryTitle": "Léger — 23 août 2026",
+    "evidenceHash": "618bbabd02086298dddec71c073ba7e8d0504902c1a2aeddf264fb3def9876df",
+    "referenceUrls": [
+      "https://qc125.com/proj/2026-08-23-leger.pdf",
+      "https://qc125.com/20260823-leg.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "525b4cf09308d80fd954a1e8",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-08-30",
+    "inventoryTitle": "Léger — 30 août 2026",
+    "evidenceHash": "704c498f4a9910dfedaf35fd22a385f424e38282e8d621b49c7623bdb77b6037",
+    "referenceUrls": [
+      "https://leger360.com/wp-content/uploads/2026/08/Rapport-intentions-de-vote-31-aout-2026-VF.pdf",
+      "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-pq-en-tete-caq-deuxieme-rang/",
+      "https://qc125.com/20260830-leg.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "e4325ea59acfb4fa08270ce3"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "dd9437ca6c0dddcffe82b705",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/leger-2026-09-05",
+    "inventoryTitle": "Léger — 5 septembre 2026",
+    "evidenceHash": "2ebcdd0c5467b9a87a16ed23d90122e9e43fba55e17d463bb02e3aceb9a17c6c",
+    "referenceUrls": [
+      "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
+      "https://qc125.com/20260905-leg.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "84137275f83e1c3ce985380d"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "c263204ce24fe78a0a78b97c",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/liaison-strategies-2026-04-27",
+    "inventoryTitle": "Liaison Strategies — 27 avril 2026",
+    "evidenceHash": "440f966d73b3d85b24c16c233257622e91eb097384fe57a1562325a4fdf78a9c",
+    "referenceUrls": [
+      "https://press.liaisonstrategies.ca/quebec-pq-and-liberals-neck-and-neck-caq-gains-ground/",
+      "https://qc125.com/20260427-lia.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "10260450bdf430fef402b7d3",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/mainstreet-research-2026-05-15",
+    "inventoryTitle": "Mainstreet Research — 15 mai 2026",
+    "evidenceHash": "25d4f670be8fe5a55391563a67e6e122acf11a43ab9a2621b59457b49e25c078",
+    "referenceUrls": [
+      "https://qc125.com/20260515-mai.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "19133a3f884cf7c8f9b2988f",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-01-10",
+    "inventoryTitle": "Pallas Data — 10 janvier 2026",
+    "evidenceHash": "1e192086bb7b8fc45b51a7d0909e1cd2a875ae72339c22f0b0c846adb29a713f",
+    "referenceUrls": [
+      "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+      "https://qc125.com/20260110-pal.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "721342c3771c5b4cdc75049d",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-02-22",
+    "inventoryTitle": "Pallas Data — 22 février 2026",
+    "evidenceHash": "fce750d630d400180e4f159615b190ff188e499c94dd3046309561b6d8171238",
+    "referenceUrls": [
+      "https://pallas-data.ca/fr/2026/02/27/sondage-pallas-quebec-pq-30-plq-27-cpq-16-caq-14-qs-10/",
+      "https://qc125.com/20260222-pal.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "5d2bf6192311eaa2ef0a42ae",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-04-14",
+    "inventoryTitle": "Pallas Data — 14 avril 2026",
+    "evidenceHash": "0574189172ef41771eec2f43e71c14e94ada098656c220d1ebd9898f4637fed1",
+    "referenceUrls": [
+      "https://pallas-data.ca/fr/2026/04/22/sondage-pallas-quebec-plq-32-pq-29-caq-14-pcq-qs-11/",
+      "https://qc125.com/20260414-pal.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "94f5a1b9e55b8eceafd14e4b",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-05-08",
+    "inventoryTitle": "Pallas Data — 8 mai 2026",
+    "evidenceHash": "60ff4840e22b669cf07b4f4a42ac6ca32e352c42fbc0cc7751624d2b9cc79d95",
+    "referenceUrls": [
+      "https://pallas-data.ca/2026/05/14/pallas-quebec-poll-pq-29-plq-28-caq-19-pcq-14-qs-8/",
+      "https://qc125.com/20260508-pal.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "eb582a4d66dcb39d244e7667",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-06-11",
+    "inventoryTitle": "Pallas Data — 11 juin 2026",
+    "evidenceHash": "953ef4119a51d707ce7c63dc59f2189a04f0aabfa5526a6ebcfa66d88b9fc6c0",
+    "referenceUrls": [
+      "https://pallas-data.ca/category/polls/",
+      "https://qc125.com/20260611-pal.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "dfac249417cbafe04f786ebc",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-08-02",
+    "inventoryTitle": "Pallas Data — 2 août 2026",
+    "evidenceHash": "d75a6a69acfdbeaa6f4b662cae1b9edca5d0aeb12df7cb1825a6db4e855b9a6f",
+    "referenceUrls": [
+      "https://pallas-data.ca/2026/08/13/pallas-quebec-poll-pq-31-plq-27-caq-19-pcq-14-qs-9/",
+      "https://qc125.com/20260802-pal.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "99611b8d94ec86ba9edeac51",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-08-29",
+    "inventoryTitle": "Pallas Data — 29 août 2026",
+    "evidenceHash": "df97149ff9e527fdd4fa0f71928517edbcd4fd4a288d10206be5bd00c0b452b4",
+    "referenceUrls": [
+      "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+      "https://qc125.com/20260829-pal.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "bc77684abced7337387f4d7c",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/pallas-data-2026-09-05",
+    "inventoryTitle": "Pallas Data — 5 septembre 2026",
+    "evidenceHash": "71a8a697dcdd0c6fa46c38cee3e4d86ad7c13c7c2aea3e2f8fc77aaf8bea553d",
+    "referenceUrls": [
+      "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
+      "https://qc125.com/20260905-pal.htm"
+    ],
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "881eb47a24e449e758774b99"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "9dfb5d13a2e297d505aa44b6",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/synopsis-recherche-2026-05-09",
+    "inventoryTitle": "Synopsis Recherche — 9 mai 2026",
+    "evidenceHash": "eedb3e94593c7d698eb7bdd1f15761babe566a42603b2d055e4b3259abea690e",
+    "referenceUrls": [
+      "https://qc125.com/20260509-syn.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "c575e1b871bba99a622f11d7",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/synopsis-recherche-2026-06-07",
+    "inventoryTitle": "Synopsis Recherche — 7 juin 2026",
+    "evidenceHash": "fc66aa6bcbac224b3d55513ccfd8d69251e6e6ec955cc64946377c1d3805b5b6",
+    "referenceUrls": [
+      "https://qc125.com/proj/2026-06-07-synopsis.pdf",
+      "https://qc125.com/20260607-syn.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "9fa106b993a4387308496978",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/synopsis-recherche-2026-08-08",
+    "inventoryTitle": "Synopsis Recherche — 8 août 2026",
+    "evidenceHash": "f9322eaaf04c296cdb8f9b6ad1a243106a4588216a1b462d5e3ffcd69cddd057",
+    "referenceUrls": [
+      "https://qc125.com/20260808-syn.htm"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  },
+  {
+    "id": "47455f3913fe0f7e6a1d776e",
+    "inventoryUrl": "https://lequebecvote.ca/sondages/synopsis-recherche-2026-08-25",
+    "inventoryTitle": "Synopsis Recherche — 25 août 2026",
+    "evidenceHash": "484b17fde327af2ab92752b9521f0ab495e636da52a35f22f30f34ec06fc7ea3",
+    "referenceUrls": [
+      "https://qc125.com/20260825-syn.htm",
+      "https://qc125.com/proj/2026-08-25-synopsis.pdf"
+    ],
+    "status": "needs-primary-reconciliation",
+    "possibleAcceptedEvents": [],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+  }
+]

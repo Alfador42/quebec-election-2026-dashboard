@@ -1,0 +1,60 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "basis": "decided-leaning",
+  "notes": [
+    "Provincial paragraph only; the immediately following federal figures are excluded.",
+    "Age eligibility and sponsor not stated in retrieved HTML; preserve this limitation.",
+    "PDF attachment retrieval was blocked by robots.txt; accepted values are explicitly stated in the primary HTML release."
+  ],
+  "pollster": "Liaison Strategies",
+  "sponsor": null,
+  "publicationDate": "2026-05-05",
+  "publicationDateBasis": "dated primary release",
+  "fieldStart": "2026-04-26",
+  "fieldEnd": "2026-04-27",
+  "sampleSize": 1000,
+  "mode": "IVR telephone (random digit dialing)",
+  "population": "Québec respondents; primary release does not specify age eligibility",
+  "undecided": null,
+  "marginOfError": {
+    "value": 3.1,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "Full-sample reported margin, 19 times out of 20."
+  },
+  "extraction": {
+    "method": "reviewed-primary-html",
+    "version": "manual-1",
+    "locator": "Release dated May 5: provincial voting paragraph and following sample/methodology paragraph"
+  },
+  "sources": [
+    {
+      "url": "https://press.liaisonstrategies.ca/quebec-le-pq-et-les-liberaux-sont-coude-a-coude-la-caq-gagne-du-terrain/",
+      "role": "primary",
+      "evidenceHash": "1b9a48c93a8b0e9ef93fbed384ad90a1a7721bbb0a36203a25362e1eb0f0df27"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, not a regional subsample"
+      },
+      "dimensions": [],
+      "baseN": null,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "32%",
+        "PLQ": "32%",
+        "CAQ": "16%",
+        "PCQ": "11%",
+        "QS": "7%",
+        "OTHER": "2%"
+      }
+    }
+  ]
+}

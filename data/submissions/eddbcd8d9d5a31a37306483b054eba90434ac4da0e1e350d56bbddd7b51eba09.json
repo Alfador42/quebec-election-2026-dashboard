@@ -1,0 +1,75 @@
+{
+  "pollster": "Pallas Data",
+  "sponsor": "Qc125",
+  "jurisdiction": "CA-QC",
+  "publicationDate": null,
+  "publicationDateBasis": "Unresolved: page path January 21, body dateline January 20; original publication not established",
+  "fieldStart": "2026-01-09",
+  "fieldEnd": "2026-01-10",
+  "sampleSize": 1128,
+  "mode": "IVR telephone",
+  "population": "Québec adults aged 18 and over eligible to vote",
+  "basis": "decided-leaning",
+  "scenario": "actual",
+  "question": "Provincial voting intention described in release body; original question table not yet verified",
+  "marginOfError": {
+    "value": 2.9,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "As stated in release methodology"
+  },
+  "undecided": null,
+  "notes": [
+    "UNRESOLVED: headline and body disagree. Do not accept until original report reconciles these claims.",
+    "The body reports PQ 34, PLQ 24, PCQ 16, QS 11, CAQ 11. Other is not inferred.",
+    "The headline reports PQ 34, PLQ 27, PCQ 15, CAQ 11, QS 8."
+  ],
+  "sourceClaims": {
+    "headline": {
+      "PQ": "34%",
+      "PLQ": "27%",
+      "PCQ": "15%",
+      "CAQ": "11%",
+      "QS": "8%"
+    },
+    "body": {
+      "PQ": "34%",
+      "PLQ": "24%",
+      "PCQ": "16%",
+      "QS": "11%",
+      "CAQ": "11%"
+    }
+  },
+  "extraction": {
+    "method": "unresolved-primary-html",
+    "version": "manual-1",
+    "locator": "Headline compared with first voting-intention paragraph; methodology paragraph"
+  },
+  "sources": [
+    {
+      "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+      "role": "primary",
+      "evidenceHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Province-wide values in release body"
+      },
+      "dimensions": [],
+      "baseN": null,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "34%",
+        "PLQ": "24%",
+        "PCQ": "16%",
+        "QS": "11%",
+        "CAQ": "11%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# First-session validation — 12 September 2026
+
+- Offline tests cover registry mapping, exact percentages, malformed records, date order and leap-date validity, midpoint calculation, rounding, missing parties, event identity, repeat ingestion, provenance merging, conflicts, overlapping polls, explicit revisions, weighting arithmetic, pollster frequency budgets, publication gating, deterministic history, election-day boundaries, failed sources, redirects, robots restrictions and both implemented PDF table parsers.
+- Production evidence tests verify every accepted source hash against archived bytes and confirm that re-ingesting the accepted submissions does not change event count or historical estimates.
+- Original numeric columns for accepted PDF records were rendered and visually checked. Primary article dates were distinguished from PDF cover dates. Liaison was verified against its accessible primary HTML release; the attachment restriction remains recorded.
+- TypeScript check and Vite production build pass. Browser checks cover the average, poll provenance dialog, original source links, firm filtering, historical trend controls, source-health view and browser error logs. Desktop 1280px and compact app-pane layouts were inspected. Tables scroll within their containers on narrow screens; the election calendar remains visible.
+- Live retrieval after fixes: 27/29 endpoints successful. Angus Reid needs durable crawl-delay scheduling; Poliwave returned 429. Two changed HTML wrappers were reviewed against unchanged relevant text and unchanged PDF hashes, with explicit non-revision decisions retained.
+- One January Pallas extraction is pending due to conflicting headline/body values and unverified publication date. Ten events are accepted. Twenty-six historical inventory leads are retained; coverage is incomplete.
+
+No external deployment or remote GitHub workflow execution has been tested: the repository has no remote. The local daily automation was created and its active status read back. Its first scheduled run has not occurred yet. Treat unattended operation as provisioned, not yet proven.

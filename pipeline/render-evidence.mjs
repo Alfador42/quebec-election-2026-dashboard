@@ -1,0 +1,10 @@
+import {readFileSync,mkdirSync,writeFileSync} from 'node:fs';
+import {getDocument} from 'pdfjs-dist/legacy/build/pdf.mjs';
+import {createCanvas} from '@napi-rs/canvas';
+const [file,pageNumber]=process.argv.slice(2);
+const task=getDocument({data:new Uint8Array(readFileSync(file)),isEvalSupported:false});
+const pdf=await task.promise,page=await pdf.getPage(Number(pageNumber)),viewport=page.getViewport({scale:1.5});
+const canvas=createCanvas(viewport.width,viewport.height);
+await page.render({canvasContext:canvas.getContext('2d'),viewport}).promise;
+mkdirSync('tmp/pdfs',{recursive:true});writeFileSync(`tmp/pdfs/page-${pageNumber}.png`,canvas.toBuffer('image/png'));
+await task.destroy();

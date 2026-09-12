@@ -1,0 +1,10 @@
+{
+  "id": "quebec-2026",
+  "name": "Québec provincial election 2026",
+  "jurisdiction": "CA-QC",
+  "historyStart": "2026-01-01",
+  "campaignStart": "2026-08-27",
+  "electionDay": "2026-10-05",
+  "timezone": "America/Toronto",
+  "sourceUrl": "https://www.electionsquebec.qc.ca/communiques/elections-provinciales-de-2026-un-scrutin-aura-lieu-le-5-octobre/"
+}
