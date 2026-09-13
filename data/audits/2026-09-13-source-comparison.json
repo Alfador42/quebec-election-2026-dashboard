@@ -1,0 +1,65 @@
+[
+  {
+    "reviewId": "2d84b1100831ad24753707f3",
+    "previousHash": "034bb974e534a782117f222e39cc79a1376d4bf2c1e424722be90533653ddfba",
+    "currentHash": "30b4435e2e90e18ea269157ba6f0f60c6b02fc305cfbdcd4e7bfe635716acfda",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "4b66a3d45e60807a3383cccd",
+    "previousHash": "6ed6dea0db9da89e6986ca22c92b716c0b019f117c762e68205436d36af5c0f9",
+    "currentHash": "3bca56098bbcab2f18d2870be95d7291152f022a14fa957fa6e61fde51671c0c",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "de92078e3f37604bb87bb90e",
+    "previousHash": "bf5521bc0a16f95ccc48f9198c9aa352dadf4a864e24cf1d1bef31a1d392a060",
+    "currentHash": "ce2f8aa30c4358cd66a5fcfbe57a7e2caa4f427eec3da8389161c60d40129fa2",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "243a773c26986aca2a057fb7",
+    "previousHash": "f93bc00b46ff05b01fc6669b8063a3979f002f5f6a029d430e86526bf45b3ea2",
+    "currentHash": "6eeee34521be85c0d7235c36c14c296206f183dd5d312f17dbac9d2e14215b31",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "8f78c1e14c8b1ee18b463f09",
+    "previousHash": "186a45e254c8111290968a7981347ac8240bcfbc35e89e8ab888c6b398d89fe9",
+    "currentHash": "b3fe2f3d4a4669032c632b13cd3308d15eb41dbbb7ae8f9433281a0135ca4a83",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "8498c013e4677b38e38bf3dd",
+    "previousHash": "a69bc0c218d6a6fa0f92e4dd2bfce28b1e70108d690545c1a56a01566e2156ee",
+    "currentHash": "4fac7f391c27ccb56f8b8731dfb49aff57e30b2e61ecd19a1a1e906f5813dd13",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "a5175e099d9ea1a91f913ec1",
+    "previousHash": "b14f4ec39a321a6d11bc8a330729f1b22740c0f2203eef93567bd5958c6aea2e",
+    "currentHash": "69d024e48c0c3b02f0021631c7cc2749299157afbe95eb3bfa022602a080c8ef",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "810e474a5c7bd3e0d422f9d6",
+    "previousHash": "6a7f1c7d36f23782489233aab9a0b735f27d052ae2a12fbfcea620b35f9b482c",
+    "currentHash": "9d2b3b520c5bf3015260d3dc3df0d0158bc09f929410737f8cd7d123f564b64e",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  },
+  {
+    "reviewId": "e4dbebc6ed2bc58e583c0b26",
+    "previousHash": "8a1f5f697830eff028333917d9412fb0deb1a93f4224e63490c983953ea6c7d1",
+    "currentHash": "d9d2fb95030b921061743cda323107695389c947d3c8065ad72f8aa8a0dc7352",
+    "stableVisibleTextPublicationAndPdfLinks": true,
+    "otherEvidenceUnchanged": true
+  }
+]

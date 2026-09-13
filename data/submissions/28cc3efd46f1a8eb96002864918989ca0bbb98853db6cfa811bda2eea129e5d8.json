@@ -1,0 +1,72 @@
+{
+  "pollster": "Pallas Data",
+  "sponsor": null,
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-08-31",
+  "publicationDateBasis": "Visible August 31, 2026 publication date on the primary English release; distinct from August 30 body dateline and report cover",
+  "fieldStart": "2026-08-29",
+  "fieldEnd": "2026-08-29",
+  "sampleSize": 1108,
+  "mode": "IVR telephone (landline and mobile)",
+  "population": "Québec residents aged 18 and over",
+  "basis": "decided-leaning",
+  "question": "Si une élection provinciale avait lieu aujourd’hui dans votre circonscription, pour quel parti auriez-vous l’intention de voter ? (décidés et enclins)",
+  "undecided": 8.5,
+  "marginOfError": {
+    "value": 2.9,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "Reported full-sample margin; subsample margins are larger."
+  },
+  "notes": [
+    "Original decimal total-column values used instead of rounded HTML headline.",
+    "Undecided 8.5% is the all-voter pre-leaner figure on page 7; page 9 reports 3.4% after leaning.",
+    "English release explicitly says decided and leaning voters; French HTML translates the denominator ambiguously. PDF page 11 confirms it.",
+    "Publication uses the visible website date August 31, not the August 30 report cover or body dateline. Sponsor is not explicitly identified.",
+    "Regional and demographic tables are preserved in the archived PDF; they are not included in the provincial average."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "pallas-table-1",
+    "locator": "PDF page 11 Total decided/leaning column and unweighted base; page 3 methodology; pages 7 and 9 undecided; English release visible publication date"
+  },
+  "sources": [
+    {
+      "url": "https://pallas-data.ca/wp-content/uploads/2026/08/PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf",
+      "role": "primary",
+      "evidenceHash": "a3da80d13a28dea431208160e76236046649a1799ea384974b180454c2b447df"
+    },
+    {
+      "url": "https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+      "role": "primary",
+      "evidenceHash": "bce78f91bd14aee4ca5f3a26e42f783163ef5df09c56171f2586f52f8800c127"
+    },
+    {
+      "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+      "role": "primary",
+      "evidenceHash": "dc4a09e303f6b742316f808ebc1c3f1d2ef7ae3a373de9cb60a460bc78723ebc"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 1074,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "CAQ": "24.3%",
+        "PLQ": "21.6%",
+        "QS": "9.4%",
+        "PQ": "28.6%",
+        "PCQ": "15.6%",
+        "OTHER": "0.5%"
+      }
+    }
+  ]
+}
