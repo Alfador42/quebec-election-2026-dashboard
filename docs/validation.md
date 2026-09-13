@@ -8,3 +8,7 @@
 - One January Pallas extraction is pending due to conflicting headline/body values and unverified publication date. Ten events are accepted. Twenty-six historical inventory leads are retained; coverage is incomplete.
 
 No external deployment or remote GitHub workflow execution has been tested: the repository has no remote. The local daily automation was created and its active status read back. Its first scheduled run has not occurred yet. Treat unattended operation as provisioned, not yet proven.
+
+## Desktop edition validation — 2026-09-12
+
+Moved the complete working tree, Git history, dependency installation, canonical dataset, and source evidence to C:/Users/D/dev/Quebec election 2026 dashboard. All 36 offline tests passed after relocation, including evidence SHA-256 verification. TypeScript and the production Vite build passed. The packaged Windows executable exited 0 in its smoke test, rendered the verified poll table via quebec://dashboard/, and confirmed that Node globals are unavailable in the renderer. Screenshot capture returned UnknownVizError on this host, so no screenshot-based visual certification is claimed. The daily heartbeat now explicitly uses the relocated working directory. Project-folder and Windows-desktop shortcuts launch the portable executable.

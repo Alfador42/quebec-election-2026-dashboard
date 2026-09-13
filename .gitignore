@@ -5,3 +5,6 @@ dist/
 data/.update.lock
 *.tmp
 tmp/
+
+desktop-app/
+*.lnk

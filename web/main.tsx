@@ -19,9 +19,19 @@ const timestamp=(d:string|null)=>d?new Intl.DateTimeFormat('en-CA',{month:'short
 function App(){
   const [data,setData]=useState<Dataset|null>(null),[error,setError]=useState(''),[tab,setTab]=useState('Overview'),[range,setRange]=useState('Campaign'),[showDots,setShowDots]=useState(true),[showLines,setShowLines]=useState(true),[selected,setSelected]=useState<Event|null>(null),[asOf,setAsOf]=useState(''),[interval,setInterval]=useState(7),[filter,setFilter]=useState('all'),[sort,setSort]=useState('newest');
   const dialog=useRef<HTMLDialogElement>(null);
-  useEffect(()=>{fetch('/data/dashboard.json').then(r=>{if(!r.ok)throw new Error('Dataset unavailable');return r.json()}).then(d=>{setData(d);setAsOf(d.asOf)}).catch(e=>setError(e.message));},[]);
+  useEffect(()=>{
+    let cancelled=false,lastDate='';
+    const refresh=async()=>{try {
+      const response=await fetch('/data/dashboard.json',{cache:'no-store'});
+      if(!response.ok)throw new Error('Dataset unavailable');
+      const next:Dataset=await response.json();
+      if(!cancelled){setData(next);setError('');setAsOf(previous=>!previous||previous===lastDate?next.asOf:previous);lastDate=next.asOf;}
+    }catch(error){if(!cancelled)setError(error instanceof Error?error.message:'Refresh failed');}};
+    void refresh();const timer=window.setInterval(refresh,60000);
+    return()=>{cancelled=true;window.clearInterval(timer);};
+  },[]);
   useEffect(()=>{if(selected)dialog.current?.showModal();},[selected]);
-  if(error)return <main><h1>Polling data unavailable</h1><p>{error}. The last verified dataset has not been loaded.</p><button onClick={()=>location.reload()}>Retry</button></main>;
+  if(error&&!data)return <main><h1>Polling data unavailable</h1><p>{error}. The last verified dataset has not been loaded.</p><button onClick={()=>location.reload()}>Retry</button></main>;
   if(!data)return <main aria-live="polite"><p>Loading the polling evidence…</p></main>;
   const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Toronto',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
   const current=data.series.find(d=>d.date===asOf)??data.series.at(-1)!;
@@ -39,7 +49,7 @@ function App(){
   const y=(v:number)=>300-v*5.6;
   function line(party:string){let path='',continuing=false;for(const d of trend){const v=d.values[party];if(v==null){continuing=false;continue;}path+=`${continuing?'L':'M'}${x(dayNumber(d.date))},${y(v)} `;continuing=true;}return path;}
   return <><header><div className="masthead"><a className="brand" href="#"><span className="mark">Q</span> QUÉBEC <strong>2026</strong></a><span className="desk">INDEPENDENT POLLING DESK</span><span className="edition">ELECTION · OCT 05</span></div></header>
-  <main><section className="heading"><div><p className="eyebrow">PROVINCIAL ELECTION / CANADA</p><h1>Québec, measured.</h1><p className="subtitle">Published polls. A transparent average. Every source on record.</p></div><div className="countdown"><strong>{countdown}</strong><span>{countdown===1?'DAY':'DAYS'} TO ELECTION</span><small>{today>data.election.electionDay?'Collection frozen':today<data.election.campaignStart?'Pre-campaign':`Campaign day ${dayNumber(today)-dayNumber(data.election.campaignStart)+1}`} · {date(today)}</small></div></section>
+  <main>{error&&<aside className="notice" role="status">Refresh failed. Showing the last loaded verified dataset; retrying automatically.</aside>}<section className="heading"><div><p className="eyebrow">PROVINCIAL ELECTION / CANADA</p><h1>Québec, measured.</h1><p className="subtitle">Published polls. A transparent average. Every source on record.</p></div><div className="countdown"><strong>{countdown}</strong><span>{countdown===1?'DAY':'DAYS'} TO ELECTION</span><small>{today>data.election.electionDay?'Collection frozen':today<data.election.campaignStart?'Pre-campaign':`Campaign day ${dayNumber(today)-dayNumber(data.election.campaignStart)+1}`} · {date(today)}</small></div></section>
   <div className="statusline"><span><i className={latestRun?.status==='ok'?'dot':'dot amber'}/> Last source check: {timestamp(latestRun?.finishedAt??null)} · {latestRun?.status??'not run'}</span><span>Last accepted data: {timestamp(data.lastVerifiedUpdateAt)}</span></div>
   <nav aria-label="Dashboard sections">{['Overview','Poll archive','Methodology','Source health'].map(t=><button key={t} onClick={()=>setTab(t)} aria-current={tab===t?'page':undefined}>{t}{t==='Source health'&&pending.length>0&&<span className="badge">{pending.length}</span>}</button>)}<a href="/data/dashboard.json" download>Download dataset ↓</a></nav>
   <aside className="notice"><strong>Foundation preview · partial coverage</strong> Historical records are being verified against original releases. This average reflects only the accepted subset and is not yet a comprehensive campaign tracker. {data.asOf<today&&<strong> Dataset is behind today’s date.</strong>}</aside>

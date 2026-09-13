@@ -46,7 +46,7 @@ Exact duplicates add provenance without adding another event. Conflicting and ov
 
 ## Daily automation
 
-A local Codex heartbeat named **Québec 2026 daily polling update** is active for 08:15 America/Toronto. It runs in this task's project and is instructed to check sources, verify new releases, ingest safely, rebuild, and continue the historical backlog. It stays quiet unless meaningful data changes, failures or required user action occur. It depends on the local host/app being available. It pauses after October 5; every network CLI also freezes from October 6 Toronto time. No election-night ingestion is implemented.
+A local Codex heartbeat named **Québec 2026 daily polling update** is active for 08:15 America/Toronto. It explicitly runs in C:/Users/D/dev/Quebec election 2026 dashboard and is instructed to check sources, verify new releases, ingest safely, rebuild, and continue the historical backlog. It stays quiet unless meaningful data changes, failures or required user action occur. It depends on the local host/app being available. It pauses after October 5; every network CLI also freezes from October 6 Toronto time. No election-night ingestion is implemented.
 
 The GitHub Actions workflow is committed as configuration only until a GitHub remote is chosen and this project is pushed to its default branch. It runs at 10:23 UTC daily, includes October 5, and exits without updating polling files after election day. GitHub may delay schedules. Configure Actions read/write repository permission for the bot data commit. No cloud credentials or paid API is needed. A workflow can build a static artifact without publishing; hosting is not activated in this milestone.
 

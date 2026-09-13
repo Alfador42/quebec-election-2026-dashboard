@@ -16,3 +16,8 @@ Open the local Vite URL shown in the terminal. `npm run build` produces dist; `n
 Read [architecture](docs/architecture.md), [source audit](docs/source-audit.md), and [operations](docs/operations.md) before changing data or enabling another scheduler. Daily local Codex updates are scheduled; GitHub Actions configuration is ready but has no remote repository to run on yet. New report formats and ambiguous releases are reviewed before acceptance. Automated network updates stop after October 5, 2026, Toronto time.
 
 The model is descriptive, neutral, and not a seat projection or election forecast. Raw publisher documents are retained locally for audit, with original rights intact; link to sources when sharing the dashboard.
+
+## Desktop application
+
+See [Windows desktop instructions](docs/desktop.md). Open desktop-app/Quebec-2026-Dashboard.exe for the native application window.
+
