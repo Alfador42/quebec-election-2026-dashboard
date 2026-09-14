@@ -10,6 +10,8 @@ concurrency:
   cancel-in-progress: false
 jobs:
   refresh:
+    # The local reviewed updater remains authoritative until hosted collection is enabled.
+    if: vars.ENABLE_HOSTED_UPDATES == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
