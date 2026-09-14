@@ -23,3 +23,7 @@ After UI changes, rebuild the desktop package. Dataset-only updates are picked u
 Electron hosts the existing React presentation layer in a sandboxed, isolated renderer with Node integration disabled. A restricted `quebec://dashboard` protocol serves built presentation assets and the generated live dataset. It does not expose the raw filesystem or source documents to the renderer. Permissions are denied, new windows are blocked, and HTTPS citations are delegated to the operating system. Content Security Policy restricts scripts and connections to the application itself.
 
 The executable locates the canonical project relative to its own location; it does not embed the old absolute workspace path. If opened outside the project tree, it asks for the project folder. Polling evidence, identity, review, and aggregation logic remain in the existing pipeline.
+
+## Appearance controls
+
+The Background selector in the header offers Light, Dark, and Warm paper. Your selection is saved locally and restored on reopening in the same browser profile or desktop app. Party-colour bars in the polling average are 9px thick. The donut uses a raised lower edge, shadow and rim highlights, preserving its top-face slice angles and original percentage labels.

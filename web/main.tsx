@@ -4,6 +4,8 @@ import './style.css';
 import './responsive.css';
 import {SupportDonut} from './SupportDonut';
 import './support-donut.css';
+import {ThemePicker} from './ThemePicker';
+import './themes.css';
 type Party={id:string;name:string;color:string};
 type Block={questionType:string;geography:{level:string;label:string;definition:string};dimensions:unknown[];basis:string;baseN:number|null;values:Record<string,number>;reportedValues:Record<string,string|number>};
 type Poll={pollster:string;pollsterId:string;sponsor:string|null;publicationDate:string;fieldStart:string;fieldEnd:string;midpoint:number;sampleSize:number;mode:string;population:string;basis:string;question:string;notes:string[];undecided:number|null;marginOfError:{value:number|null;confidence:number|null;note:string};extraction:{method:string;locator:string};blocks:Block[]};
@@ -50,7 +52,7 @@ function App(){
   const x=(d:number)=>48+(d-dayNumber(start))/Math.max(1,dayNumber(asOf)-dayNumber(start))*1020;
   const y=(v:number)=>300-v*5.6;
   function line(party:string){let path='',continuing=false;for(const d of trend){const v=d.values[party];if(v==null){continuing=false;continue;}path+=`${continuing?'L':'M'}${x(dayNumber(d.date))},${y(v)} `;continuing=true;}return path;}
-  return <><header><div className="masthead"><a className="brand" href="#"><span className="mark">Q</span> QUÉBEC <strong>2026</strong></a><span className="desk">INDEPENDENT POLLING DESK</span><span className="edition">ELECTION · OCT 05</span></div></header>
+  return <><header><div className="masthead"><a className="brand" href="#"><span className="mark">Q</span> QUÉBEC <strong>2026</strong></a><span className="desk">INDEPENDENT POLLING DESK</span><span className="edition">ELECTION · OCT 05</span><ThemePicker/></div></header>
   <main>{error&&<aside className="notice" role="status">Refresh failed. Showing the last loaded verified dataset; retrying automatically.</aside>}<section className="heading"><div><p className="eyebrow">PROVINCIAL ELECTION / CANADA</p><h1>Québec, measured.</h1><p className="subtitle">Published polls. A transparent average. Every source on record.</p></div><div className="countdown"><strong>{countdown}</strong><span>{countdown===1?'DAY':'DAYS'} TO ELECTION</span><small>{today>data.election.electionDay?'Collection frozen':today<data.election.campaignStart?'Pre-campaign':`Campaign day ${dayNumber(today)-dayNumber(data.election.campaignStart)+1}`} · {date(today)}</small></div></section>
   <div className="statusline"><span><i className={latestRun?.status==='ok'?'dot':'dot amber'}/> Last source check: {timestamp(latestRun?.finishedAt??null)} · {latestRun?.status??'not run'}</span><span>Last accepted data: {timestamp(data.lastVerifiedUpdateAt)}</span></div>
   <nav aria-label="Dashboard sections">{['Overview','Poll archive','Methodology','Source health'].map(t=><button key={t} onClick={()=>setTab(t)} aria-current={tab===t?'page':undefined}>{t}{t==='Source health'&&pending.length>0&&<span className="badge">{pending.length}</span>}</button>)}<a href="/data/dashboard.json" download>Download dataset ↓</a></nav>
