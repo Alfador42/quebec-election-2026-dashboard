@@ -1,0 +1,12 @@
+{
+  "url": "https://www.mainstreetresearch.ca/polling",
+  "finalUrl": "https://www.mainstreetresearch.ca/polling",
+  "sourceId": "mainstreet",
+  "role": "primary",
+  "retrievedAt": "2026-09-18T03:28:52.965Z",
+  "sha256": "6ac81ccdcf07ad4cd67af529df8c42f5f8be74c62435834cbf480128b3ac38d5",
+  "contentType": "text/html; charset=utf-8",
+  "byteLength": 65318,
+  "file": "data/evidence/6ac81ccdcf07ad4cd67af529df8c42f5f8be74c62435834cbf480128b3ac38d5.html",
+  "status": 200
+}

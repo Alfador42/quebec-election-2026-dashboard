@@ -1,0 +1,65 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-09-14",
+  "basis": "decided-leaning",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "pollster": "Pallas Data",
+  "sponsor": null,
+  "publicationDateBasis": "Visible September 14 publication date on primary English release, distinct from September 13 report cover/body dateline",
+  "fieldStart": "2026-09-12",
+  "fieldEnd": "2026-09-12",
+  "sampleSize": 1085,
+  "mode": "IVR telephone (landline and mobile)",
+  "population": "Québec residents aged 18 and over",
+  "undecided": 7.8,
+  "marginOfError": {
+    "value": 3,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "Reported full-sample margin; subgroup margins are larger."
+  },
+  "notes": [
+    "Original decimal total-column values used instead of rounded headline.",
+    "Undecided 7.8% is the pre-leaner figure on page 8; page 10 reports 3.6% after leaning.",
+    "Sponsor is not explicitly identified. Regional and demographic tables remain archived and are excluded from the provincial average."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "pallas-table-1",
+    "locator": "PDF page 12 total decided/leaning column visually verified; page 3 methodology; pages 8 and 10 undecided; English release visible date"
+  },
+  "sources": [
+    {
+      "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf",
+      "role": "primary",
+      "evidenceHash": "2a244a423fd1cf487939c705ff201fad345e9627fade72bfc82ba62743445009"
+    },
+    {
+      "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
+      "role": "primary",
+      "evidenceHash": "b6009fae497fc77d5b4df1ad5532d71c157db806eaa44d68f5c880691854990f"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 1055,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "CAQ": "22.6%",
+        "PLQ": "22.9%",
+        "QS": "11%",
+        "PQ": "26.5%",
+        "PCQ": "15.7%",
+        "OTHER": "1.3%"
+      }
+    }
+  ]
+}

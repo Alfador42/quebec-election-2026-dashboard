@@ -1,0 +1,65 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-09-14",
+  "basis": "decided-leaning",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "pollster": "Léger",
+  "sponsor": "Sondage Léger/Le Journal/TVA",
+  "publicationDateBasis": "Visible 14 September 2026 date on primary English release",
+  "fieldStart": "2026-09-10",
+  "fieldEnd": "2026-09-13",
+  "sampleSize": 1013,
+  "mode": "Online panel (LEO)",
+  "population": "Québec residents aged 18 and over eligible to vote",
+  "undecided": 11,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability online panel. Probability-sample comparison margin is not an actual sampling margin."
+  },
+  "notes": [
+    "Original rounded percentages sum to 101; retained without renormalization.",
+    "Undecided is the Ne sait pas row, excluding refusal and non-voting responses.",
+    "Total decided column following leaner question; regional and all-respondent columns excluded."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "leger-table-1",
+    "locator": "PDF page 7 total decided column visually verified; page 2 methodology; primary English release visible publication date"
+  },
+  "sources": [
+    {
+      "url": "https://leger360.com/vmedia1_rapport-intentions-de-vote-14-septembre-2026-finale/",
+      "role": "primary",
+      "evidenceHash": "2b6dcc53712450640182b87b276e07bd909414dec415f13d54dc8c8c35ba2635"
+    },
+    {
+      "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "role": "primary",
+      "evidenceHash": "d6e4741633f68d9b6fc16471868567e38ad77cdfc0f61b83f2e605a9efcfc31d"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 842,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "29%",
+        "CAQ": "21%",
+        "PLQ": "23%",
+        "PCQ": "17%",
+        "QS": "10%",
+        "OTHER": "1%"
+      }
+    }
+  ]
+}
