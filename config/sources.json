@@ -155,5 +155,21 @@
       "www.poliwave.com"
     ],
     "notes": "Cross-checks and new firm detection only."
+  },
+  {
+    "id": "nanos",
+    "publisher": "Nanos Research",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://nanos.co/noovo-crave-nanos-quebec-election-survey-pq-27-9-liberals-23-7-caq-21-6-conservatives-16-4-and-quebec-solidaire-8-7/",
+      "https://nanos.co/category/qc-election/"
+    ],
+    "hosts": [
+      "nanos.co",
+      "www.nanos.co"
+    ],
+    "notes": "Primary pollster discovered September 19. Verify provincial first-choice decided table, leaning follow-up and release date; distinguish federal Quebec subsamples."
   }
 ]

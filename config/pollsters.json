@@ -54,5 +54,12 @@
     "aliases": [
       "Angus Reid"
     ]
+  },
+  {
+    "id": "nanos",
+    "name": "Nanos Research",
+    "aliases": [
+      "Nanos"
+    ]
   }
 ]

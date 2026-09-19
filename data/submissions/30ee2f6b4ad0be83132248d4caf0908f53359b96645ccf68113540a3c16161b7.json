@@ -1,0 +1,66 @@
+{
+  "pollster": "Nanos Research",
+  "sponsor": "Noovo/Crave",
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-09-16",
+  "publicationDateBasis": "Dated original Nanos website release and QC Election index September 16; report cover says released September 15. Conservative verified web-publication date used; earlier cover date retained in notes.",
+  "fieldStart": "2026-09-12",
+  "fieldEnd": "2026-09-14",
+  "sampleSize": 537,
+  "mode": "RDD dual-frame hybrid live telephone and online probability panel",
+  "population": "Québec residents aged 18 years and over",
+  "basis": "decided-leaning",
+  "question": "If a provincial election were held today, could you please rank your top two current local preferences? First choice, with provincial party leaning follow-up for undecided respondents.",
+  "undecided": 9.5,
+  "marginOfError": {
+    "value": 4.3,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "Reported full sample n=537. Report pages 4–5 give 4.5 points for decided base n=485."
+  },
+  "notes": [
+    "Source labels ballot as decided only; page 6 explicitly includes a leaning follow-up, normalized as decided-leaning. Only first-choice provincial ballot is included.",
+    "Half administered by live telephone and half online through Nanos Insights Lab Probability Panel; all recruited through dual-frame RDD.",
+    "Report cover says released September 15, while primary website is dated September 16; web date used conservatively pending independent earlier publication evidence.",
+    "Rounded party total 100.1 preserved. Regional and demographic columns and preferred-premier results excluded from provincial average."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "manual-1",
+    "locator": "PDF page 6 decided ballot table visually verified; page 5 base n=485; pages 16–17 methodology; primary website date"
+  },
+  "sources": [
+    {
+      "url": "https://nanos.co/wp-content/uploads/2026/09/2026-3132-Noovo-Crave-QC-Election-Populated-report-FINAL.pdf",
+      "role": "primary",
+      "evidenceHash": "358a1a977dace2cd184b518b253b85d8846a587abfbd6a3f0cd874d994072cb2"
+    },
+    {
+      "url": "https://nanos.co/noovo-crave-nanos-quebec-election-survey-pq-27-9-liberals-23-7-caq-21-6-conservatives-16-4-and-quebec-solidaire-8-7/",
+      "role": "primary",
+      "evidenceHash": "3cef36a745308d52a922a1f46c587e0a9fb621282ec23f44f8d714897e139aef"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, decided first-choice ballot column"
+      },
+      "dimensions": [],
+      "baseN": 485,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "27.9%",
+        "PLQ": "23.7%",
+        "CAQ": "21.6%",
+        "PCQ": "16.4%",
+        "QS": "8.7%",
+        "OTHER": "1.8%"
+      }
+    }
+  ]
+}

@@ -18,3 +18,7 @@ Primary-source reports are canonical; discovery pages are not datasets to copy. 
 | Poliwave | [Pollsters](https://www.poliwave.com/ca/qc/polls/pollsters?lang=en) | Secondary discovery and original-release links; dates/sample sizes disagree with another tracker for Innovative. No automatic canonical import. |
 
 No search result snippet is sufficient evidence for acceptance. Capture source bytes with hashes, then verify relevant source table/page and metadata. Discovery should retain new publisher domains for review; it must not assume this registry is exhaustive. Paywalls, consent pages, bot challenges, robots changes, translated content, image-only charts, changed PDF URLs, corrected reports and rolling samples all require observable failure/review states.
+
+## Nanos added 19 September 2026
+
+Primary publisher https://nanos.co/ and its /category/qc-election/ archive are now registered. The September 16 Noovo/Crave release links original PDF tables. Use provincial first-choice decided ballot with the explicit leaning follow-up, not preferred-premier or federal Quebec subsamples. Store full sample and decided base separately. The report cover says released September 15 but the primary website is dated September 16; this distinction is retained, with September 16 used conservatively until an earlier public release is verified. Both nanos.co and www.nanos.co are approved publisher hosts; retrieval continues to respect robots and rate limits.
