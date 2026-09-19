@@ -105,10 +105,10 @@
     "totalTolerance": 3,
     "historySemantics": "retrospective-publication-eligible"
   },
-  "datasetHash": "f84e3dee50f1333ba8753386fbeb4714330516e6be2e9217274086b9e7199fc8",
-  "asOf": "2026-09-17",
+  "datasetHash": "9119f7dcf3b93ce06acd82fd65e7996f93ccc8c97b0befd54f96dfe4a3849df9",
+  "asOf": "2026-09-19",
   "coverageStatus": "partial-backfill",
-  "lastVerifiedUpdateAt": "2026-09-18T03:37:40.422Z",
+  "lastVerifiedUpdateAt": "2026-09-19T04:28:56.577Z",
   "series": [
     {
       "date": "2026-01-01",
@@ -1514,8 +1514,8 @@
       "date": "2026-01-21",
       "version": "1.0.0",
       "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
+      "firmCount": 1,
+      "pollCount": 1,
       "values": {
         "PQ": null,
         "CAQ": null,
@@ -1528,29 +1528,29 @@
       },
       "coverage": {
         "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
         },
         "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
         },
         "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
         },
         "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
         },
         "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
         },
         "PVQ": {
           "polls": 0,
@@ -1558,9 +1558,9 @@
           "firms": 0
         },
         "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
         },
         "IND": {
           "polls": 0,
@@ -1569,649 +1569,85 @@
         }
       },
       "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
         "PVQ": [],
-        "OTHER": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
         "IND": []
       },
-      "polls": []
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 11.5,
+          "rawWeight": 19.005526736018787,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 19.005526736018787,
+          "weight": 1
+        }
+      ]
     },
     {
       "date": "2026-01-22",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-23",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-24",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-25",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-26",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-27",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-28",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-29",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-30",
-      "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 0,
-      "pollCount": 0,
-      "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
-        "PVQ": null,
-        "OTHER": null,
-        "IND": null
-      },
-      "coverage": {
-        "PQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "CAQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PLQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "QS": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PCQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "PVQ": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "OTHER": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        },
-        "IND": {
-          "polls": 0,
-          "weight": 0,
-          "firms": 0
-        }
-      },
-      "contributions": {
-        "PQ": [],
-        "CAQ": [],
-        "PLQ": [],
-        "QS": [],
-        "PCQ": [],
-        "PVQ": [],
-        "OTHER": [],
-        "IND": []
-      },
-      "polls": []
-    },
-    {
-      "date": "2026-01-31",
       "version": "1.0.0",
       "status": "insufficient-firms",
       "firmCount": 1,
@@ -2271,62 +1707,1345 @@
       "contributions": {
         "PQ": [
           {
-            "eventId": "83fdb2d1bae99480229939e7",
-            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
             "weight": 1,
-            "reported": 32,
-            "contribution": 32
+            "reported": 34.3,
+            "contribution": 34.3
           }
         ],
         "CAQ": [
           {
-            "eventId": "83fdb2d1bae99480229939e7",
-            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
             "weight": 1,
-            "reported": 17,
-            "contribution": 17
+            "reported": 11.4,
+            "contribution": 11.4
           }
         ],
         "PLQ": [
           {
-            "eventId": "83fdb2d1bae99480229939e7",
-            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
             "weight": 1,
-            "reported": 26,
-            "contribution": 26
+            "reported": 24.1,
+            "contribution": 24.1
           }
         ],
         "QS": [
           {
-            "eventId": "83fdb2d1bae99480229939e7",
-            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
             "weight": 1,
-            "reported": 7,
-            "contribution": 7
+            "reported": 11.2,
+            "contribution": 11.2
           }
         ],
         "PCQ": [
           {
-            "eventId": "83fdb2d1bae99480229939e7",
-            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
             "weight": 1,
-            "reported": 14,
-            "contribution": 14
+            "reported": 15.9,
+            "contribution": 15.9
           }
         ],
         "PVQ": [],
         "OTHER": [
           {
-            "eventId": "83fdb2d1bae99480229939e7",
-            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
             "weight": 1,
-            "reported": 3,
-            "contribution": 3
+            "reported": 3.2,
+            "contribution": 3.2
           }
         ],
         "IND": []
       },
       "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 12.5,
+          "rawWeight": 18.087467675082816,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 18.087467675082816,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 13.5,
+          "rawWeight": 17.21375531661258,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 17.21375531661258,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-24",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 14.5,
+          "rawWeight": 16.382247499930976,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 16.382247499930976,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-25",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 15.5,
+          "rawWeight": 15.59090554110465,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 15.59090554110465,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 16.5,
+          "rawWeight": 14.837789234515707,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 14.837789234515707,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 17.5,
+          "rawWeight": 14.12105209588175,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 14.12105209588175,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 18.5,
+          "rawWeight": 13.438936835061114,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 13.438936835061114,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 19.5,
+          "rawWeight": 12.789771047543539,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 12.789771047543539,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "version": "1.0.0",
+      "status": "insufficient-firms",
+      "firmCount": 1,
+      "pollCount": 1,
+      "values": {
+        "PQ": null,
+        "CAQ": null,
+        "PLQ": null,
+        "QS": null,
+        "PCQ": null,
+        "PVQ": null,
+        "OTHER": null,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "CAQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PLQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "QS": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PCQ": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 1,
+          "weight": 1,
+          "firms": 1
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 34.3,
+            "contribution": 34.3
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.4,
+            "contribution": 11.4
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 24.1,
+            "contribution": 24.1
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 11.2,
+            "contribution": 11.2
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 15.9,
+            "contribution": 15.9
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 1,
+            "reported": 3.2,
+            "contribution": 3.2
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 20.5,
+          "rawWeight": 12.171963114062741,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 12.171963114062741,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "date": "2026-01-31",
+      "version": "1.0.0",
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 2,
+      "values": {
+        "PQ": 32.68593829136191,
+        "CAQ": 15.329889377553625,
+        "PLQ": 25.433355324527124,
+        "QS": 8.252582966834783,
+        "PCQ": 14.56664467547288,
+        "PVQ": null,
+        "OTHER": 3.0596468079445134,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 2,
+          "weight": 1,
+          "firms": 2
+        },
+        "CAQ": {
+          "polls": 2,
+          "weight": 1,
+          "firms": 2
+        },
+        "PLQ": {
+          "polls": 2,
+          "weight": 1,
+          "firms": 2
+        },
+        "QS": {
+          "polls": 2,
+          "weight": 1,
+          "firms": 2
+        },
+        "PCQ": {
+          "polls": 2,
+          "weight": 1,
+          "firms": 2
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 2,
+          "weight": 1,
+          "firms": 2
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 34.3,
+            "contribution": 10.22942756248405
+          },
+          {
+            "eventId": "83fdb2d1bae99480229939e7",
+            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "weight": 0.701765960277433,
+            "reported": 32,
+            "contribution": 22.456510728877856
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.4,
+            "contribution": 3.399868052837265
+          },
+          {
+            "eventId": "83fdb2d1bae99480229939e7",
+            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "weight": 0.701765960277433,
+            "reported": 17,
+            "contribution": 11.93002132471636
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 24.1,
+            "contribution": 7.187440357313867
+          },
+          {
+            "eventId": "83fdb2d1bae99480229939e7",
+            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "weight": 0.701765960277433,
+            "reported": 26,
+            "contribution": 18.245914967213256
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.2,
+            "contribution": 3.340221244892751
+          },
+          {
+            "eventId": "83fdb2d1bae99480229939e7",
+            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "weight": 0.701765960277433,
+            "reported": 7,
+            "contribution": 4.912361721942031
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 15.9,
+            "contribution": 4.741921231588816
+          },
+          {
+            "eventId": "83fdb2d1bae99480229939e7",
+            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "weight": 0.701765960277433,
+            "reported": 14,
+            "contribution": 9.824723443884062
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 3.2,
+            "contribution": 0.9543489271122146
+          },
+          {
+            "eventId": "83fdb2d1bae99480229939e7",
+            "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
+            "weight": 0.701765960277433,
+            "reported": 3,
+            "contribution": 2.105297880832299
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 21.5,
+          "rawWeight": 11.583998298277557,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 11.583998298277557,
+          "weight": 0.29823403972256707
+        },
         {
           "eventId": "83fdb2d1bae99480229939e7",
           "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
@@ -2342,51 +3061,51 @@
             "OTHER": 3
           },
           "firmBudget": 27.257973963016294,
-          "weight": 1
+          "weight": 0.701765960277433
         }
       ]
     },
     {
       "date": "2026-02-01",
       "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 1,
-      "pollCount": 1,
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 2,
       "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
+        "PQ": 32.68593829136191,
+        "CAQ": 15.329889377553624,
+        "PLQ": 25.43335532452712,
+        "QS": 8.252582966834781,
+        "PCQ": 14.566644675472878,
         "PVQ": null,
-        "OTHER": null,
+        "OTHER": 3.0596468079445134,
         "IND": null
       },
       "coverage": {
         "PQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "CAQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PLQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "QS": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PCQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PVQ": {
           "polls": 0,
@@ -2394,9 +3113,9 @@
           "firms": 0
         },
         "OTHER": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "IND": {
           "polls": 0,
@@ -2407,62 +3126,121 @@
       "contributions": {
         "PQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.298234039722567,
+            "reported": 34.3,
+            "contribution": 10.229427562484048
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 32,
-            "contribution": 32
+            "contribution": 22.456510728877856
           }
         ],
         "CAQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.298234039722567,
+            "reported": 11.4,
+            "contribution": 3.399868052837264
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 17,
-            "contribution": 17
+            "contribution": 11.93002132471636
           }
         ],
         "PLQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.298234039722567,
+            "reported": 24.1,
+            "contribution": 7.187440357313865
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 26,
-            "contribution": 26
+            "contribution": 18.245914967213256
           }
         ],
         "QS": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.298234039722567,
+            "reported": 11.2,
+            "contribution": 3.34022124489275
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 7,
-            "contribution": 7
+            "contribution": 4.912361721942031
           }
         ],
         "PCQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.298234039722567,
+            "reported": 15.9,
+            "contribution": 4.741921231588815
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 14,
-            "contribution": 14
+            "contribution": 9.824723443884062
           }
         ],
         "PVQ": [],
         "OTHER": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.298234039722567,
+            "reported": 3.2,
+            "contribution": 0.9543489271122145
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 3,
-            "contribution": 3
+            "contribution": 2.105297880832299
           }
         ],
         "IND": []
       },
       "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 22.5,
+          "rawWeight": 11.024435032954017,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 11.024435032954017,
+          "weight": 0.298234039722567
+        },
         {
           "eventId": "83fdb2d1bae99480229939e7",
           "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
@@ -2478,51 +3256,51 @@
             "OTHER": 3
           },
           "firmBudget": 25.94128170149228,
-          "weight": 1
+          "weight": 0.701765960277433
         }
       ]
     },
     {
       "date": "2026-02-02",
       "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 1,
-      "pollCount": 1,
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 2,
       "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
+        "PQ": 32.68593829136191,
+        "CAQ": 15.329889377553625,
+        "PLQ": 25.433355324527124,
+        "QS": 8.252582966834783,
+        "PCQ": 14.56664467547288,
         "PVQ": null,
-        "OTHER": null,
+        "OTHER": 3.0596468079445134,
         "IND": null
       },
       "coverage": {
         "PQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "CAQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PLQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "QS": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PCQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PVQ": {
           "polls": 0,
@@ -2530,9 +3308,9 @@
           "firms": 0
         },
         "OTHER": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "IND": {
           "polls": 0,
@@ -2543,62 +3321,121 @@
       "contributions": {
         "PQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 34.3,
+            "contribution": 10.22942756248405
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 32,
-            "contribution": 32
+            "contribution": 22.456510728877856
           }
         ],
         "CAQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.4,
+            "contribution": 3.399868052837265
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 17,
-            "contribution": 17
+            "contribution": 11.93002132471636
           }
         ],
         "PLQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 24.1,
+            "contribution": 7.187440357313867
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 26,
-            "contribution": 26
+            "contribution": 18.245914967213256
           }
         ],
         "QS": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.2,
+            "contribution": 3.340221244892751
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 7,
-            "contribution": 7
+            "contribution": 4.912361721942031
           }
         ],
         "PCQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 15.9,
+            "contribution": 4.741921231588816
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 14,
-            "contribution": 14
+            "contribution": 9.824723443884062
           }
         ],
         "PVQ": [],
         "OTHER": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 3.2,
+            "contribution": 0.9543489271122146
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 3,
-            "contribution": 3
+            "contribution": 2.105297880832299
           }
         ],
         "IND": []
       },
       "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 23.5,
+          "rawWeight": 10.491901385542809,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 10.491901385542809,
+          "weight": 0.29823403972256707
+        },
         {
           "eventId": "83fdb2d1bae99480229939e7",
           "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
@@ -2614,51 +3451,51 @@
             "OTHER": 3
           },
           "firmBudget": 24.688192058193277,
-          "weight": 1
+          "weight": 0.701765960277433
         }
       ]
     },
     {
       "date": "2026-02-03",
       "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 1,
-      "pollCount": 1,
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 2,
       "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
+        "PQ": 32.68593829136191,
+        "CAQ": 15.329889377553625,
+        "PLQ": 25.433355324527124,
+        "QS": 8.252582966834783,
+        "PCQ": 14.56664467547288,
         "PVQ": null,
-        "OTHER": null,
+        "OTHER": 3.0596468079445134,
         "IND": null
       },
       "coverage": {
         "PQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "CAQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PLQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "QS": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PCQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PVQ": {
           "polls": 0,
@@ -2666,9 +3503,9 @@
           "firms": 0
         },
         "OTHER": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "IND": {
           "polls": 0,
@@ -2679,62 +3516,121 @@
       "contributions": {
         "PQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 34.3,
+            "contribution": 10.22942756248405
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 32,
-            "contribution": 32
+            "contribution": 22.456510728877856
           }
         ],
         "CAQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.4,
+            "contribution": 3.399868052837265
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 17,
-            "contribution": 17
+            "contribution": 11.93002132471636
           }
         ],
         "PLQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 24.1,
+            "contribution": 7.187440357313867
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 26,
-            "contribution": 26
+            "contribution": 18.245914967213256
           }
         ],
         "QS": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.2,
+            "contribution": 3.340221244892751
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 7,
-            "contribution": 7
+            "contribution": 4.912361721942031
           }
         ],
         "PCQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 15.9,
+            "contribution": 4.741921231588816
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 14,
-            "contribution": 14
+            "contribution": 9.824723443884062
           }
         ],
         "PVQ": [],
         "OTHER": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 3.2,
+            "contribution": 0.9543489271122146
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 3,
-            "contribution": 3
+            "contribution": 2.105297880832299
           }
         ],
         "IND": []
       },
       "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 24.5,
+          "rawWeight": 9.985091694486496,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 9.985091694486496,
+          "weight": 0.29823403972256707
+        },
         {
           "eventId": "83fdb2d1bae99480229939e7",
           "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
@@ -2750,51 +3646,51 @@
             "OTHER": 3
           },
           "firmBudget": 23.495632718377816,
-          "weight": 1
+          "weight": 0.701765960277433
         }
       ]
     },
     {
       "date": "2026-02-04",
       "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 1,
-      "pollCount": 1,
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 2,
       "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
+        "PQ": 32.68593829136191,
+        "CAQ": 15.329889377553625,
+        "PLQ": 25.433355324527124,
+        "QS": 8.252582966834783,
+        "PCQ": 14.56664467547288,
         "PVQ": null,
-        "OTHER": null,
+        "OTHER": 3.0596468079445134,
         "IND": null
       },
       "coverage": {
         "PQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "CAQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PLQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "QS": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PCQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PVQ": {
           "polls": 0,
@@ -2802,9 +3698,9 @@
           "firms": 0
         },
         "OTHER": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "IND": {
           "polls": 0,
@@ -2815,62 +3711,121 @@
       "contributions": {
         "PQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 34.3,
+            "contribution": 10.22942756248405
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 32,
-            "contribution": 32
+            "contribution": 22.456510728877856
           }
         ],
         "CAQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.4,
+            "contribution": 3.399868052837265
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 17,
-            "contribution": 17
+            "contribution": 11.93002132471636
           }
         ],
         "PLQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 24.1,
+            "contribution": 7.187440357313867
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 26,
-            "contribution": 26
+            "contribution": 18.245914967213256
           }
         ],
         "QS": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.2,
+            "contribution": 3.340221244892751
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 7,
-            "contribution": 7
+            "contribution": 4.912361721942031
           }
         ],
         "PCQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 15.9,
+            "contribution": 4.741921231588816
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 14,
-            "contribution": 14
+            "contribution": 9.824723443884062
           }
         ],
         "PVQ": [],
         "OTHER": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 3.2,
+            "contribution": 0.9543489271122146
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 3,
-            "contribution": 3
+            "contribution": 2.105297880832299
           }
         ],
         "IND": []
       },
       "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 25.5,
+          "rawWeight": 9.502763368009393,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 9.502763368009393,
+          "weight": 0.29823403972256707
+        },
         {
           "eventId": "83fdb2d1bae99480229939e7",
           "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
@@ -2886,51 +3841,51 @@
             "OTHER": 3
           },
           "firmBudget": 22.360679774997898,
-          "weight": 1
+          "weight": 0.701765960277433
         }
       ]
     },
     {
       "date": "2026-02-05",
       "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 1,
-      "pollCount": 1,
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 2,
       "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
+        "PQ": 32.68593829136191,
+        "CAQ": 15.329889377553625,
+        "PLQ": 25.433355324527124,
+        "QS": 8.252582966834783,
+        "PCQ": 14.56664467547288,
         "PVQ": null,
-        "OTHER": null,
+        "OTHER": 3.0596468079445134,
         "IND": null
       },
       "coverage": {
         "PQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "CAQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PLQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "QS": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PCQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PVQ": {
           "polls": 0,
@@ -2938,9 +3893,9 @@
           "firms": 0
         },
         "OTHER": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "IND": {
           "polls": 0,
@@ -2951,62 +3906,121 @@
       "contributions": {
         "PQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 34.3,
+            "contribution": 10.22942756248405
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 32,
-            "contribution": 32
+            "contribution": 22.456510728877856
           }
         ],
         "CAQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.4,
+            "contribution": 3.399868052837265
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 17,
-            "contribution": 17
+            "contribution": 11.93002132471636
           }
         ],
         "PLQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 24.1,
+            "contribution": 7.187440357313867
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 26,
-            "contribution": 26
+            "contribution": 18.245914967213256
           }
         ],
         "QS": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.2,
+            "contribution": 3.340221244892751
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 7,
-            "contribution": 7
+            "contribution": 4.912361721942031
           }
         ],
         "PCQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 15.9,
+            "contribution": 4.741921231588816
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 14,
-            "contribution": 14
+            "contribution": 9.824723443884062
           }
         ],
         "PVQ": [],
         "OTHER": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 3.2,
+            "contribution": 0.9543489271122146
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.701765960277433,
             "reported": 3,
-            "contribution": 3
+            "contribution": 2.105297880832299
           }
         ],
         "IND": []
       },
       "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 26.5,
+          "rawWeight": 9.04373383754141,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 9.04373383754141,
+          "weight": 0.29823403972256707
+        },
         {
           "eventId": "83fdb2d1bae99480229939e7",
           "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
@@ -3022,51 +4036,51 @@
             "OTHER": 3
           },
           "firmBudget": 21.28055055988809,
-          "weight": 1
+          "weight": 0.701765960277433
         }
       ]
     },
     {
       "date": "2026-02-06",
       "version": "1.0.0",
-      "status": "insufficient-firms",
-      "firmCount": 1,
-      "pollCount": 1,
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 2,
       "values": {
-        "PQ": null,
-        "CAQ": null,
-        "PLQ": null,
-        "QS": null,
-        "PCQ": null,
+        "PQ": 32.6859382913619,
+        "CAQ": 15.329889377553624,
+        "PLQ": 25.433355324527124,
+        "QS": 8.252582966834781,
+        "PCQ": 14.566644675472876,
         "PVQ": null,
-        "OTHER": null,
+        "OTHER": 3.0596468079445134,
         "IND": null
       },
       "coverage": {
         "PQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "CAQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PLQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "QS": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PCQ": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "PVQ": {
           "polls": 0,
@@ -3074,9 +4088,9 @@
           "firms": 0
         },
         "OTHER": {
-          "polls": 1,
+          "polls": 2,
           "weight": 1,
-          "firms": 1
+          "firms": 2
         },
         "IND": {
           "polls": 0,
@@ -3087,62 +4101,121 @@
       "contributions": {
         "PQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 34.3,
+            "contribution": 10.22942756248405
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.7017659602774329,
             "reported": 32,
-            "contribution": 32
+            "contribution": 22.456510728877852
           }
         ],
         "CAQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.4,
+            "contribution": 3.399868052837265
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.7017659602774329,
             "reported": 17,
-            "contribution": 17
+            "contribution": 11.930021324716359
           }
         ],
         "PLQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 24.1,
+            "contribution": 7.187440357313867
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.7017659602774329,
             "reported": 26,
-            "contribution": 26
+            "contribution": 18.245914967213256
           }
         ],
         "QS": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 11.2,
+            "contribution": 3.340221244892751
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.7017659602774329,
             "reported": 7,
-            "contribution": 7
+            "contribution": 4.91236172194203
           }
         ],
         "PCQ": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 15.9,
+            "contribution": 4.741921231588816
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.7017659602774329,
             "reported": 14,
-            "contribution": 14
+            "contribution": 9.82472344388406
           }
         ],
         "PVQ": [],
         "OTHER": [
           {
+            "eventId": "31c4f0bd2b2e8b0834cd3f94",
+            "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+            "weight": 0.29823403972256707,
+            "reported": 3.2,
+            "contribution": 0.9543489271122146
+          },
+          {
             "eventId": "83fdb2d1bae99480229939e7",
             "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
-            "weight": 1,
+            "weight": 0.7017659602774329,
             "reported": 3,
-            "contribution": 3
+            "contribution": 2.105297880832299
           }
         ],
         "IND": []
       },
       "polls": [
+        {
+          "eventId": "31c4f0bd2b2e8b0834cd3f94",
+          "revisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "pollsterId": "pallas",
+          "ageDays": 27.5,
+          "rawWeight": 8.60687765830629,
+          "values": {
+            "CAQ": 11.4,
+            "PLQ": 24.1,
+            "QS": 11.2,
+            "PQ": 34.3,
+            "PCQ": 15.9,
+            "OTHER": 3.2
+          },
+          "firmBudget": 8.60687765830629,
+          "weight": 0.29823403972256707
+        },
         {
           "eventId": "83fdb2d1bae99480229939e7",
           "revisionId": "9a0a8f2fc207c189b47cac942871a9dc741c72e2c6b7a5dd2a64ed57ce1cc9d1",
@@ -3158,7 +4231,7 @@
             "OTHER": 3
           },
           "firmBudget": 20.25259682124292,
-          "weight": 1
+          "weight": 0.7017659602774329
         }
       ]
     },
@@ -31972,13 +33045,875 @@
           "weight": 0.11316744752681264
         }
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "version": "1.0.0",
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 6,
+      "values": {
+        "PQ": 28.339606003117332,
+        "CAQ": 22.840106722646073,
+        "PLQ": 22.04736874241434,
+        "QS": 10.260958818849518,
+        "PCQ": 15.73088851578767,
+        "PVQ": null,
+        "OTHER": 0.9804769645551131,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 6,
+          "weight": 1,
+          "firms": 2
+        },
+        "CAQ": {
+          "polls": 6,
+          "weight": 1,
+          "firms": 2
+        },
+        "PLQ": {
+          "polls": 6,
+          "weight": 1,
+          "firms": 2
+        },
+        "QS": {
+          "polls": 6,
+          "weight": 1,
+          "firms": 2
+        },
+        "PCQ": {
+          "polls": 6,
+          "weight": 1,
+          "firms": 2
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 6,
+          "weight": 1,
+          "firms": 2
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998525,
+            "reported": 29,
+            "contribution": 6.262126380759572
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.1561296719203889,
+            "reported": 29,
+            "contribution": 4.527760485691278
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 28.6,
+            "contribution": 3.354961770581218
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 28.8,
+            "contribution": 4.760532020140425
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876504,
+            "reported": 26.5,
+            "contribution": 6.152369367667274
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681263,
+            "reported": 29,
+            "contribution": 3.2818559782775663
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998525,
+            "reported": 21,
+            "contribution": 4.53464324123969
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.1561296719203889,
+            "reported": 23,
+            "contribution": 3.5909824541689446
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 24.3,
+            "contribution": 2.8505444414378878
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 23.6,
+            "contribution": 3.9009915165039595
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876504,
+            "reported": 22.6,
+            "contribution": 5.246926328652091
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681263,
+            "reported": 24,
+            "contribution": 2.716018740643503
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998525,
+            "reported": 23,
+            "contribution": 4.96651402611966
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.1561296719203889,
+            "reported": 22,
+            "contribution": 3.434852782248556
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 21.6,
+            "contribution": 2.5338172812781226
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 20,
+            "contribution": 3.305925013986406
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876504,
+            "reported": 22.9,
+            "contribution": 5.316575793191719
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681263,
+            "reported": 22,
+            "contribution": 2.4896838455898775
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998525,
+            "reported": 10,
+            "contribution": 2.1593539243998525
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.1561296719203889,
+            "reported": 10,
+            "contribution": 1.561296719203889
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 9.4,
+            "contribution": 1.1026797427784423
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 10.6,
+            "contribution": 1.752140257412795
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876504,
+            "reported": 11,
+            "contribution": 2.5538136997864154
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681263,
+            "reported": 10,
+            "contribution": 1.1316744752681263
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998525,
+            "reported": 17,
+            "contribution": 3.6709016714797493
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.1561296719203889,
+            "reported": 15,
+            "contribution": 2.3419450788058334
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 15.6,
+            "contribution": 1.829979147589755
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 15.4,
+            "contribution": 2.5455622607695325
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876504,
+            "reported": 15.7,
+            "contribution": 3.644988644240611
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681263,
+            "reported": 15,
+            "contribution": 1.6975117129021893
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998525,
+            "reported": 1,
+            "contribution": 0.21593539243998525
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.1561296719203889,
+            "reported": 1,
+            "contribution": 0.1561296719203889
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 0.5,
+            "contribution": 0.05865317780736395
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 1.5,
+            "contribution": 0.24794437604898045
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876504,
+            "reported": 1.3,
+            "contribution": 0.30181434633839455
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681263,
+            "reported": 0,
+            "contribution": 0
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "1e82f27f93163fb3f6db7c39",
+          "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+          "pollsterId": "leger",
+          "ageDays": 6.5,
+          "rawWeight": 23.069638867521434,
+          "values": {
+            "PQ": 29,
+            "CAQ": 21,
+            "PLQ": 23,
+            "PCQ": 17,
+            "QS": 10,
+            "OTHER": 1
+          },
+          "firmBudget": 23.069638867521434,
+          "weight": 0.21593539243998525
+        },
+        {
+          "eventId": "84137275f83e1c3ce985380d",
+          "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+          "pollsterId": "leger",
+          "ageDays": 13,
+          "rawWeight": 16.680244525959466,
+          "values": {
+            "PQ": 29,
+            "CAQ": 23,
+            "PLQ": 22,
+            "PCQ": 15,
+            "QS": 10,
+            "OTHER": 1
+          },
+          "firmBudget": 23.069638867521434,
+          "weight": 0.1561296719203889
+        },
+        {
+          "eventId": "85a2491cf1f913f80a16dabb",
+          "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+          "pollsterId": "pallas",
+          "ageDays": 20,
+          "rawWeight": 12.365936990128287,
+          "values": {
+            "CAQ": 24.3,
+            "PLQ": 21.6,
+            "QS": 9.4,
+            "PQ": 28.6,
+            "PCQ": 15.6,
+            "OTHER": 0.5
+          },
+          "firmBudget": 24.473834214688207,
+          "weight": 0.1173063556147279
+        },
+        {
+          "eventId": "881eb47a24e449e758774b99",
+          "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+          "pollsterId": "pallas",
+          "ageDays": 13,
+          "rawWeight": 17.424827581938896,
+          "values": {
+            "CAQ": 23.6,
+            "PLQ": 20,
+            "QS": 10.6,
+            "PQ": 28.8,
+            "PCQ": 15.4,
+            "OTHER": 1.5
+          },
+          "firmBudget": 24.473834214688207,
+          "weight": 0.1652962506993203
+        },
+        {
+          "eventId": "9add8119d2b766a78476ef5b",
+          "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+          "pollsterId": "pallas",
+          "ageDays": 6,
+          "rawWeight": 24.473834214688207,
+          "values": {
+            "CAQ": 22.6,
+            "PLQ": 22.9,
+            "QS": 11,
+            "PQ": 26.5,
+            "PCQ": 15.7,
+            "OTHER": 1.3
+          },
+          "firmBudget": 24.473834214688207,
+          "weight": 0.23216488179876504
+        },
+        {
+          "eventId": "e4325ea59acfb4fa08270ce3",
+          "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+          "pollsterId": "leger",
+          "ageDays": 19.5,
+          "rawWeight": 12.090339228333528,
+          "values": {
+            "PQ": 29,
+            "CAQ": 24,
+            "PLQ": 22,
+            "PCQ": 15,
+            "QS": 10,
+            "OTHER": 0
+          },
+          "firmBudget": 23.069638867521434,
+          "weight": 0.11316744752681263
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "version": "1.0.0",
+      "status": "available",
+      "firmCount": 2,
+      "pollCount": 6,
+      "values": {
+        "PQ": 28.33960600311733,
+        "CAQ": 22.840106722646073,
+        "PLQ": 22.047368742414342,
+        "QS": 10.26095881884952,
+        "PCQ": 15.73088851578767,
+        "PVQ": null,
+        "OTHER": 0.9804769645551132,
+        "IND": null
+      },
+      "coverage": {
+        "PQ": {
+          "polls": 6,
+          "weight": 1.0000000000000002,
+          "firms": 2
+        },
+        "CAQ": {
+          "polls": 6,
+          "weight": 1.0000000000000002,
+          "firms": 2
+        },
+        "PLQ": {
+          "polls": 6,
+          "weight": 1.0000000000000002,
+          "firms": 2
+        },
+        "QS": {
+          "polls": 6,
+          "weight": 1.0000000000000002,
+          "firms": 2
+        },
+        "PCQ": {
+          "polls": 6,
+          "weight": 1.0000000000000002,
+          "firms": 2
+        },
+        "PVQ": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        },
+        "OTHER": {
+          "polls": 6,
+          "weight": 1.0000000000000002,
+          "firms": 2
+        },
+        "IND": {
+          "polls": 0,
+          "weight": 0,
+          "firms": 0
+        }
+      },
+      "contributions": {
+        "PQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998522,
+            "reported": 29,
+            "contribution": 6.262126380759571
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.15612967192038887,
+            "reported": 29,
+            "contribution": 4.527760485691277
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 28.6,
+            "contribution": 3.354961770581218
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 28.8,
+            "contribution": 4.760532020140425
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876507,
+            "reported": 26.5,
+            "contribution": 6.152369367667274
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681258,
+            "reported": 29,
+            "contribution": 3.281855978277565
+          }
+        ],
+        "CAQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998522,
+            "reported": 21,
+            "contribution": 4.5346432412396895
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.15612967192038887,
+            "reported": 23,
+            "contribution": 3.5909824541689437
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 24.3,
+            "contribution": 2.850544441437888
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 23.6,
+            "contribution": 3.900991516503959
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876507,
+            "reported": 22.6,
+            "contribution": 5.2469263286520915
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681258,
+            "reported": 24,
+            "contribution": 2.716018740643502
+          }
+        ],
+        "PLQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998522,
+            "reported": 23,
+            "contribution": 4.96651402611966
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.15612967192038887,
+            "reported": 22,
+            "contribution": 3.434852782248555
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 21.6,
+            "contribution": 2.533817281278123
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 20,
+            "contribution": 3.3059250139864056
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876507,
+            "reported": 22.9,
+            "contribution": 5.316575793191721
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681258,
+            "reported": 22,
+            "contribution": 2.489683845589877
+          }
+        ],
+        "QS": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998522,
+            "reported": 10,
+            "contribution": 2.1593539243998525
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.15612967192038887,
+            "reported": 10,
+            "contribution": 1.5612967192038885
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 9.4,
+            "contribution": 1.1026797427784423
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 10.6,
+            "contribution": 1.7521402574127949
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876507,
+            "reported": 11,
+            "contribution": 2.553813699786416
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681258,
+            "reported": 10,
+            "contribution": 1.1316744752681258
+          }
+        ],
+        "PCQ": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998522,
+            "reported": 17,
+            "contribution": 3.670901671479749
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.15612967192038887,
+            "reported": 15,
+            "contribution": 2.341945078805833
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 15.6,
+            "contribution": 1.829979147589755
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 15.4,
+            "contribution": 2.5455622607695325
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876507,
+            "reported": 15.7,
+            "contribution": 3.6449886442406116
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681258,
+            "reported": 15,
+            "contribution": 1.6975117129021888
+          }
+        ],
+        "PVQ": [],
+        "OTHER": [
+          {
+            "eventId": "1e82f27f93163fb3f6db7c39",
+            "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+            "weight": 0.21593539243998522,
+            "reported": 1,
+            "contribution": 0.21593539243998522
+          },
+          {
+            "eventId": "84137275f83e1c3ce985380d",
+            "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+            "weight": 0.15612967192038887,
+            "reported": 1,
+            "contribution": 0.15612967192038887
+          },
+          {
+            "eventId": "85a2491cf1f913f80a16dabb",
+            "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+            "weight": 0.1173063556147279,
+            "reported": 0.5,
+            "contribution": 0.05865317780736395
+          },
+          {
+            "eventId": "881eb47a24e449e758774b99",
+            "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+            "weight": 0.1652962506993203,
+            "reported": 1.5,
+            "contribution": 0.24794437604898045
+          },
+          {
+            "eventId": "9add8119d2b766a78476ef5b",
+            "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+            "weight": 0.23216488179876507,
+            "reported": 1.3,
+            "contribution": 0.3018143463383946
+          },
+          {
+            "eventId": "e4325ea59acfb4fa08270ce3",
+            "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+            "weight": 0.11316744752681258,
+            "reported": 0,
+            "contribution": 0
+          }
+        ],
+        "IND": []
+      },
+      "polls": [
+        {
+          "eventId": "1e82f27f93163fb3f6db7c39",
+          "revisionId": "37dd7319299f95990bde7e29f6a683d3015e9da5df477e7c4d7bbd4123e847c3",
+          "pollsterId": "leger",
+          "ageDays": 7.5,
+          "rawWeight": 21.95526349192555,
+          "values": {
+            "PQ": 29,
+            "CAQ": 21,
+            "PLQ": 23,
+            "PCQ": 17,
+            "QS": 10,
+            "OTHER": 1
+          },
+          "firmBudget": 21.95526349192555,
+          "weight": 0.21593539243998527
+        },
+        {
+          "eventId": "84137275f83e1c3ce985380d",
+          "revisionId": "576b724e66973f53acb35ae2eca62a2628ea8aab66c99cb00a665ec77e192690",
+          "pollsterId": "leger",
+          "ageDays": 14,
+          "rawWeight": 15.874507866387544,
+          "values": {
+            "PQ": 29,
+            "CAQ": 23,
+            "PLQ": 22,
+            "PCQ": 15,
+            "QS": 10,
+            "OTHER": 1
+          },
+          "firmBudget": 21.95526349192555,
+          "weight": 0.1561296719203889
+        },
+        {
+          "eventId": "85a2491cf1f913f80a16dabb",
+          "revisionId": "61efc8109b75382ba601176f6ad757d2594f8ad76a80f1be57402bee7017a3da",
+          "pollsterId": "pallas",
+          "ageDays": 21,
+          "rawWeight": 11.768602295939822,
+          "values": {
+            "CAQ": 24.3,
+            "PLQ": 21.6,
+            "QS": 9.4,
+            "PQ": 28.6,
+            "PCQ": 15.6,
+            "OTHER": 0.5
+          },
+          "firmBudget": 23.291629397704234,
+          "weight": 0.11730635561472792
+        },
+        {
+          "eventId": "881eb47a24e449e758774b99",
+          "revisionId": "6f016baa1dbdb3ae9cd7cf2b574f5ca9b945dcd47477267c4db6db5e19994743",
+          "pollsterId": "pallas",
+          "ageDays": 14,
+          "rawWeight": 16.583123951777,
+          "values": {
+            "CAQ": 23.6,
+            "PLQ": 20,
+            "QS": 10.6,
+            "PQ": 28.8,
+            "PCQ": 15.4,
+            "OTHER": 1.5
+          },
+          "firmBudget": 23.291629397704234,
+          "weight": 0.16529625069932033
+        },
+        {
+          "eventId": "9add8119d2b766a78476ef5b",
+          "revisionId": "2fe4d8265dca7cc876897fc64ffe12585650aca4c3d56b9aaf59f9f68ded13d0",
+          "pollsterId": "pallas",
+          "ageDays": 7,
+          "rawWeight": 23.291629397704234,
+          "values": {
+            "CAQ": 22.6,
+            "PLQ": 22.9,
+            "QS": 11,
+            "PQ": 26.5,
+            "PCQ": 15.7,
+            "OTHER": 1.3
+          },
+          "firmBudget": 23.291629397704234,
+          "weight": 0.23216488179876513
+        },
+        {
+          "eventId": "e4325ea59acfb4fa08270ce3",
+          "revisionId": "997a724cca6e20ed2d0d00a95a76bec93aa2b327951f6ad65042fd42c3e02d10",
+          "pollsterId": "leger",
+          "ageDays": 20.5,
+          "rawWeight": 11.506317241859172,
+          "values": {
+            "PQ": 29,
+            "CAQ": 24,
+            "PLQ": 22,
+            "PCQ": 15,
+            "QS": 10,
+            "OTHER": 0
+          },
+          "firmBudget": 21.95526349192555,
+          "weight": 0.11316744752681261
+        }
+      ]
     }
   ],
   "events": [
     {
       "id": "1e82f27f93163fb3f6db7c39",
       "firstDiscoveredAt": "2026-09-18T03:37:39.548Z",
-      "lastVerifiedAt": "2026-09-18T03:37:39.548Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.654Z",
       "sources": [
         {
           "url": "https://leger360.com/vmedia1_rapport-intentions-de-vote-14-septembre-2026-finale/",
@@ -32084,7 +34019,7 @@
     {
       "id": "2365c24f0f18857d6e898ad4",
       "firstDiscoveredAt": "2026-09-12T23:28:48.547Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://leger360.com/wp-content/uploads/2026/03/Leger_PolitiqueQC_V1_4mars2026.pdf",
@@ -32188,9 +34123,143 @@
       ]
     },
     {
+      "id": "31c4f0bd2b2e8b0834cd3f94",
+      "firstDiscoveredAt": "2026-09-19T04:28:56.577Z",
+      "lastVerifiedAt": "2026-09-19T04:28:56.577Z",
+      "sources": [
+        {
+          "url": "https://pallas-data.ca/wp-content/uploads/2026/01/PallasData-Quebec-QC125-11janvier2025.pdf",
+          "role": "primary",
+          "evidenceHash": "2a3429380206ef6e55c875aa1b69c280235eea6bac34d08ac9d229dd251ec057"
+        },
+        {
+          "url": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
+          "role": "primary",
+          "evidenceHash": "79946e60e600fa95f410618dbbea97b27be215ec7af5d5c075250c4ba30367aa"
+        },
+        {
+          "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+          "role": "primary",
+          "evidenceHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23"
+        }
+      ],
+      "activeRevisionId": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+      "revisions": [
+        {
+          "id": "697d69b0619bd656a79c3b569bad835167bb7a121b8c11b3a4d84923212a1cde",
+          "poll": {
+            "pollster": "Pallas Data",
+            "sponsor": "Qc125",
+            "jurisdiction": "CA-QC",
+            "publicationDate": "2026-01-21",
+            "publicationDateBasis": "Visible January 21, 2026 date on original English release; body dateline January 20 and report cover January 11 retained as distinct dates.",
+            "fieldStart": "2026-01-09",
+            "fieldEnd": "2026-01-10",
+            "sampleSize": 1128,
+            "mode": "IVR telephone",
+            "population": "Québec adults aged 18 and over eligible to vote",
+            "basis": "decided-leaning",
+            "scenario": "actual",
+            "question": "Si une élection provinciale avait lieu aujourd’hui, pour quel parti voteriez-vous? (décidés et enclins)",
+            "marginOfError": {
+              "value": 2.9,
+              "confidence": 95,
+              "applicability": "reported-probability",
+              "note": "As stated in release methodology"
+            },
+            "undecided": 14.1,
+            "notes": [
+              "Original PDF page 13 provincial total verified visually. Precise table values supersede the erroneous HTML headline; body agrees after rounding.",
+              "Report filename says 2025 but cover explicitly dates it 2026-01-11 and pages carry copyright 2026; primary release confirms January 9–10, 2026 fieldwork.",
+              "Undecided 14.1% is the pre-leaner all-elector figure on PDF page 11.",
+              "Regional and demographic columns are archived but excluded from the provincial average.",
+              "Reported rounded total 100.1 retained without rescaling."
+            ],
+            "sourceClaims": {
+              "headline": {
+                "PQ": "34%",
+                "PLQ": "27%",
+                "PCQ": "15%",
+                "CAQ": "11%",
+                "QS": "8%"
+              },
+              "body": {
+                "PQ": "34%",
+                "PLQ": "24%",
+                "PCQ": "16%",
+                "QS": "11%",
+                "CAQ": "11%"
+              }
+            },
+            "extraction": {
+              "method": "reviewed-pdf-table",
+              "version": "manual-1",
+              "locator": "PDF page 13 Total decided/leaning column and unweighted base; page 3 methodology; cover year; page 11 undecided; English release visible publication date"
+            },
+            "sources": [
+              {
+                "url": "https://pallas-data.ca/wp-content/uploads/2026/01/PallasData-Quebec-QC125-11janvier2025.pdf",
+                "role": "primary",
+                "evidenceHash": "2a3429380206ef6e55c875aa1b69c280235eea6bac34d08ac9d229dd251ec057"
+              },
+              {
+                "url": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
+                "role": "primary",
+                "evidenceHash": "79946e60e600fa95f410618dbbea97b27be215ec7af5d5c075250c4ba30367aa"
+              },
+              {
+                "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+                "role": "primary",
+                "evidenceHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23"
+              }
+            ],
+            "blocks": [
+              {
+                "questionType": "voting-intention",
+                "geography": {
+                  "level": "province",
+                  "label": "Québec",
+                  "definition": "Entire province, Total column"
+                },
+                "dimensions": [],
+                "baseN": 1089,
+                "basis": "decided-leaning",
+                "reportedValues": {
+                  "CAQ": "11.4%",
+                  "PLQ": "24.1%",
+                  "QS": "11.2%",
+                  "PQ": "34.3%",
+                  "PCQ": "15.9%",
+                  "OTHER": "3.2%"
+                },
+                "values": {
+                  "CAQ": 11.4,
+                  "PLQ": 24.1,
+                  "QS": 11.2,
+                  "PQ": 34.3,
+                  "PCQ": 15.9,
+                  "OTHER": 3.2
+                },
+                "reportedTotal": 100.10000000000001
+              }
+            ],
+            "pollsterId": "pallas",
+            "midpoint": 20462.5
+          },
+          "acceptedAt": "2026-09-19T04:28:56.577Z",
+          "reviewer": "Codex primary-source review 2026-09-19",
+          "reason": "Original PDF page 13 visually verified with methodology and publication evidence; resolves erroneous HTML headline and missing Other.",
+          "supersedes": null,
+          "warnings": [
+            "Reported total 100.10000000000001; values preserved without rescaling"
+          ]
+        }
+      ]
+    },
+    {
       "id": "474e843cff6f6b1ed437683d",
       "firstDiscoveredAt": "2026-09-12T23:28:48.558Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/6.%20%C3%89tudes%20M%C3%A9diatiques%20Juin%202026/Qu%C3%A9bec%20Polls/Rapport%20-%20Leger-%20Intentions%20de%20vote%20(16%20juin%202026).pdf",
@@ -32296,7 +34365,7 @@
     {
       "id": "83fdb2d1bae99480229939e7",
       "firstDiscoveredAt": "2026-09-12T23:28:48.528Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://leger360.com/wp-content/uploads/2026/01/Rapport-Intentions-de-vote-29-janvier-2026.pdf",
@@ -32402,7 +34471,7 @@
     {
       "id": "84137275f83e1c3ce985380d",
       "firstDiscoveredAt": "2026-09-12T23:28:48.574Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://leger360.com/fr/rapport-intentions-de-vote-7-septembre-2026-vf/",
@@ -32506,7 +34575,7 @@
     {
       "id": "85a2491cf1f913f80a16dabb",
       "firstDiscoveredAt": "2026-09-13T12:21:57.331Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.654Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/wp-content/uploads/2026/08/PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf",
@@ -32622,7 +34691,7 @@
     {
       "id": "881eb47a24e449e758774b99",
       "firstDiscoveredAt": "2026-09-12T23:28:48.580Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf",
@@ -32728,7 +34797,7 @@
     {
       "id": "9add8119d2b766a78476ef5b",
       "firstDiscoveredAt": "2026-09-18T03:37:40.422Z",
-      "lastVerifiedAt": "2026-09-18T03:37:40.422Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.654Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf",
@@ -32832,7 +34901,7 @@
     {
       "id": "a9014cd27b7acc6cc0fd3745",
       "firstDiscoveredAt": "2026-09-12T23:28:48.583Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://press.liaisonstrategies.ca/quebec-le-pq-et-les-liberaux-sont-coude-a-coude-la-caq-gagne-du-terrain/",
@@ -32926,7 +34995,7 @@
     {
       "id": "ab7b396ebb6aa55465445e4b",
       "firstDiscoveredAt": "2026-09-12T23:28:48.553Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/5.%20%C3%89tudes%20M%C3%A9diatiques%20Mai/Leger%20-%20Rapport%20-%20Intentions%20de%20vote%20Quebec%2019%20mai%202026.pdf",
@@ -33030,7 +35099,7 @@
     {
       "id": "b07fea0dc57a36b9691e8dad",
       "firstDiscoveredAt": "2026-09-12T23:28:48.596Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf",
@@ -33137,7 +35206,7 @@
     {
       "id": "e4325ea59acfb4fa08270ce3",
       "firstDiscoveredAt": "2026-09-12T23:28:48.569Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://leger360.com/wp-content/uploads/2026/08/Rapport-intentions-de-vote-31-aout-2026-VF.pdf",
@@ -33241,7 +35310,7 @@
     {
       "id": "e49901c3a9e0992104d1b289",
       "firstDiscoveredAt": "2026-09-12T23:28:48.564Z",
-      "lastVerifiedAt": "2026-09-18T03:28:52.965Z",
+      "lastVerifiedAt": "2026-09-19T04:12:10.655Z",
       "sources": [
         {
           "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf",
@@ -33347,26 +35416,44 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "e4a7e047810f699a8b10d276d969a0a8dca605dc8b4c3a63168d579cd6f02dea",
+      "evidenceHash": "ff95c95d51f1070474b88237e856e7a28fdaeeeb99a3f8cc288ad77633c4516f",
       "leads": 7
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "5556f5e803d850c20c4c828fe041fa70a2209130a4f628c40288d386caa4c681",
+      "evidenceHash": "f56aa85de995bee2f58e2a58c8ce2ed09fdce02b92f189d4c04096a2dea6ddfb",
       "leads": 6
     },
     {
       "sourceId": "leger",
+      "url": "https://leger360.com/vmedia1_rapport-intentions-de-vote-14-septembre-2026-finale/",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
+      "status": "ok",
+      "evidenceHash": "2b6dcc53712450640182b87b276e07bd909414dec415f13d54dc8c8c35ba2635",
+      "leads": 0
+    },
+    {
+      "sourceId": "leger",
+      "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
+      "status": "ok",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb",
+      "leads": 9
+    },
+    {
+      "sourceId": "leger",
       "url": "https://leger360.com/wp-content/uploads/2026/03/Leger_PolitiqueQC_V1_4mars2026.pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "ce41fcf709968a7ee09e8265774a076421234722c40ba074167796a26aacda84",
       "leads": 0
@@ -33374,17 +35461,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/quebec-politique-volonte-changement-baisse-appui-a-la-souverainete/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "0936b797db171572ba181419e61957de4bced280b213e8a86b2675edb1f29ebd",
+      "evidenceHash": "0806d6814ee0e89c3c4893a95ba47ca526fcedd76ada7ae012571dd0b15c9ea5",
       "leads": 12
     },
     {
       "sourceId": "leger",
       "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/6.%20%C3%89tudes%20M%C3%A9diatiques%20Juin%202026/Qu%C3%A9bec%20Polls/Rapport%20-%20Leger-%20Intentions%20de%20vote%20(16%20juin%202026).pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "5ae1a7f6f312d402af168aea26e40ec0770b76a386909836b39d277f8d88cd32",
       "leads": 0
@@ -33392,17 +35479,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-le-pq-reste-en-tete-mais-rien-nest-encore-joue/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "c8a022e81f355a69deda5e8c1d078926c0086ea314b4016d079b352e0a420fec",
-      "leads": 12
+      "evidenceHash": "aa8623963bdc2d782010b78f0c49298667403957f28051efc1068daa1d15fe3a",
+      "leads": 11
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/wp-content/uploads/2026/01/Rapport-Intentions-de-vote-29-janvier-2026.pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "79d59a10d98a4fa909aa312f57a3fe98a1bb6e4b9fbbdd7f4e361577b27b15bc",
       "leads": 0
@@ -33410,17 +35497,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-vote-quebec-janvier-2026/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "d310134f132ddeee19b9fa1cbb9d2a2d46dcd7ca840e881e5c7457db6b684c1e",
+      "evidenceHash": "2aa3bf5899ffc2c1f681c76632ab31c660940b72f619d797c9bf8b5f4ed8acd2",
       "leads": 11
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/rapport-intentions-de-vote-7-septembre-2026-vf/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "afa6b798d3d4c4c36066b415b45e6bb5e21bc64bb69409c22b4a472b9e3c094d",
       "leads": 0
@@ -33428,8 +35515,8 @@
     {
       "sourceId": "leger",
       "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/5.%20%C3%89tudes%20M%C3%A9diatiques%20Mai/Leger%20-%20Rapport%20-%20Intentions%20de%20vote%20Quebec%2019%20mai%202026.pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "fdb300f94f5da1ca05e3c02cfde7d26d3910ffba14a372148bb5af5b48ed2a8f",
       "leads": 0
@@ -33437,17 +35524,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-lutte-a-trois-mai-2026/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "bb668bf414714d174668dc43ad0276bef10a7185ea436039dd444a7519529fc9",
+      "evidenceHash": "c0a7daecd44847c480a0b6d79d37eb975170223ece869d1197aec95724746c91",
       "leads": 13
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/wp-content/uploads/2026/08/Rapport-intentions-de-vote-31-aout-2026-VF.pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "bc3d119bc1750f47e875e358457b9f8ee45b15a36ccb1005989cd6699cb03e5f",
       "leads": 0
@@ -33455,17 +35542,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-pq-en-tete-caq-deuxieme-rang/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "229e4a72edfa11c3ac8c6e726cb6d36493bbb9974996c61613cdf1e948b500bf",
+      "evidenceHash": "7e107d006f39f00382fa6b5c0678df01e6057d26b744c9dcb30b2efbbb936299",
       "leads": 11
     },
     {
       "sourceId": "leger",
       "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "fc97a47252449cc2f51b882d61d8a3cc3fb11d111a109483dbacd739bd31b863",
       "leads": 0
@@ -33473,35 +35560,35 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "544d2a8af1239023a3847df9322877c3e060322bca06c9f4565895411f520224",
+      "evidenceHash": "ca530495330555b9c8df80afd135e0aeac6fcd7d26780bc2df34fa89d83d4389",
       "leads": 10
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "92c74b3c167eea4a699cfb7e903c7d0cc2a262bdb184de83d8bde4433bd02871",
+      "evidenceHash": "b30e3cdb4029cc8b19cac123decca5e513d60358996e98c2f8ccf12208673dfe",
       "leads": 3
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "fa95e15a080d411f1bcf3ced54a90d25cc596f83237b8f61c5a05f7cf84fb7c6",
+      "evidenceHash": "2566705ca4b912a8b74c347645dc7a0f2f13924cf84f27317cd1f17e68d6c719",
       "leads": 11
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/wp-content/uploads/2026/08/PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "a3da80d13a28dea431208160e76236046649a1799ea384974b180454c2b447df",
       "leads": 0
@@ -33509,35 +35596,53 @@
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "cbcb32bf81349230908acff1c775163ae5a13f01daa0d6155754580d59097042",
+      "evidenceHash": "c2b3a6e9741e9be52ad503a263c807d176f4129fd3eb15ccc70263bddcc57a8d",
       "leads": 11
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "9b346cd2522791833b5afea6a8dedae57a292a3dc9ec9c82a1394232fa40ecc6",
+      "evidenceHash": "2832d0e1accd809d87fe2306537443b9a77484d8209da265cfc6e1243f8f96da",
       "leads": 11
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "683b0a66ac86184631771a88009a1139589b15316ec760fe37fe897bd52d28a1",
       "leads": 0
     },
     {
+      "sourceId": "pallas",
+      "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
+      "status": "ok",
+      "evidenceHash": "2a244a423fd1cf487939c705ff201fad345e9627fade72bfc82ba62743445009",
+      "leads": 0
+    },
+    {
+      "sourceId": "pallas",
+      "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
+      "status": "ok",
+      "evidenceHash": "93674adccd298fe09fda0a2e0557e9e0328ebfcbd89c4624d1bc8e2c44232f68",
+      "leads": 9
+    },
+    {
       "sourceId": "liaison",
       "url": "https://press.liaisonstrategies.ca/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "43302618d08c0f796b8cc6f103fc8d88527139cdcc846abfb0dc7b0d30e6eb31",
       "leads": 70
@@ -33545,8 +35650,8 @@
     {
       "sourceId": "liaison",
       "url": "https://press.liaisonstrategies.ca/quebec-le-pq-et-les-liberaux-sont-coude-a-coude-la-caq-gagne-du-terrain/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "1b9a48c93a8b0e9ef93fbed384ad90a1a7721bbb0a36203a25362e1eb0f0df27",
       "leads": 3
@@ -33554,17 +35659,17 @@
     {
       "sourceId": "innovative",
       "url": "https://innovativeresearch.ca/insights-news/public-affairs-research/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "fb4bc07d90195d13e2dc72c8348007a78c3e333dd18af9a4ee1f02347ac0a855",
+      "evidenceHash": "14437a0410d72089ebbb232eefe0bca8bf9a0a7f4a6806e2616b0aad2dff3106",
       "leads": 0
     },
     {
       "sourceId": "innovative",
       "url": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
       "evidenceHash": "ec36e02c517d9f237482db25329ff0ec295d6a51bc54a9297f8bc9f7973a0c77",
       "leads": 0
@@ -33572,60 +35677,59 @@
     {
       "sourceId": "innovative",
       "url": "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "5c46daa0fb225bc6ace7bb9f260d8f3d114fdcbb22808f7f5620d41ec399a3f6",
+      "evidenceHash": "8fe7133dea0a9d39630f4e46d06b9001f7140cbf924dd14b781fe54017f48c0b",
       "leads": 1
     },
     {
       "sourceId": "mainstreet",
       "url": "https://www.mainstreetresearch.ca/polling",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "6ac81ccdcf07ad4cd67af529df8c42f5f8be74c62435834cbf480128b3ac38d5",
+      "evidenceHash": "780725725c84d09072aff2e0cffae7d1e5913568cce1926b7a4e80ba3006278e",
       "leads": 10
     },
     {
       "sourceId": "ipsos",
       "url": "https://www.ipsos.com/en-ca/support-independence-alberta-reaches-levels-similar-quebec",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "9de3ddb8b11f07f4de83ee63c7107ec20b6a6fdc8c6bfd658d093ce6cd247c6b",
+      "evidenceHash": "e3f86f9b787b0fb575cfd5680283662005f2f170f8a2d917d989311206f35953",
       "leads": 15
     },
     {
       "sourceId": "angus-reid",
       "url": "https://angusreid.org/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
       "lastSuccessAt": null,
       "status": "failed",
-      "error": "HTTP 403"
+      "error": "Source crawl delay requires deferred scheduling"
     },
     {
       "sourceId": "qc125",
       "url": "https://qc125.com/",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
-      "lastSuccessAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
+      "lastSuccessAt": "2026-09-19T04:12:10.655Z",
       "status": "ok",
-      "evidenceHash": "915ec938721d3229ff5c467e7065c860066936d435937b31590ab34e9203fbf0",
+      "evidenceHash": "9eed04990f3c81f23c7d8efd61751fa0b8b952d21cae53695f3417f1d2a7b334",
       "leads": 9
     },
     {
       "sourceId": "lequebecvote",
       "url": "https://lequebecvote.ca/sondages",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
       "lastSuccessAt": "2026-09-18T03:28:52.965Z",
-      "status": "ok",
-      "evidenceHash": "01f3efddc1bf1055988b2100b3c20103ce22deef069404c2db1cac311ec17b03",
-      "leads": 29
+      "status": "failed",
+      "error": "HTTP 502"
     },
     {
       "sourceId": "poliwave",
       "url": "https://www.poliwave.com/ca/qc/polls/pollsters?lang=en",
-      "lastCheckedAt": "2026-09-18T03:28:52.965Z",
+      "lastCheckedAt": "2026-09-19T04:12:10.655Z",
       "lastSuccessAt": null,
       "status": "failed",
       "error": "HTTP 429"
@@ -33672,7 +35776,7 @@
     },
     {
       "id": "db9cfc6f87aac9f27fe1144e",
-      "status": "pending",
+      "status": "rejected",
       "kind": "invalid",
       "eventId": null,
       "firstDiscoveredAt": "2026-09-12T23:37:52.245Z",
@@ -33683,6 +35787,13 @@
       "warnings": [
         "Other not reported; no residual inferred"
       ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Incomplete HTML extraction superseded by accepted pallas-2026-01-21-reviewed.json from original PDF page 13; original conflicting claims preserved.",
+        "eventId": null,
+        "at": "2026-09-19T04:28:57.408Z"
+      },
       "pollster": "Pallas Data"
     },
     {
@@ -34063,6 +36174,253 @@
         "reviewer": "Codex primary-source review 2026-09-17",
         "reason": "Full normalized visible text, publication metadata and PDF links unchanged; all other accepted source evidence hashes match successful checks. See data/audits/2026-09-17-source-comparison.json.",
         "at": "2026-09-18T03:38:37.620Z"
+      }
+    },
+    {
+      "id": "c47cd3ba0ef45b7fb217b498",
+      "kind": "source-changed",
+      "eventId": "84137275f83e1c3ce985380d",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
+      "evidenceHash": "ff95c95d51f1070474b88237e856e7a28fdaeeeb99a3f8cc288ad77633c4516f",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:44.826Z"
+      }
+    },
+    {
+      "id": "abb97e086f52bc643d780019",
+      "kind": "source-changed",
+      "eventId": "1e82f27f93163fb3f6db7c39",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:45.877Z"
+      }
+    },
+    {
+      "id": "f93345cbd28b4f16114e3fa3",
+      "kind": "source-changed",
+      "eventId": "2365c24f0f18857d6e898ad4",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/fr/quebec-politique-volonte-changement-baisse-appui-a-la-souverainete/",
+      "evidenceHash": "0806d6814ee0e89c3c4893a95ba47ca526fcedd76ada7ae012571dd0b15c9ea5",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:46.873Z"
+      }
+    },
+    {
+      "id": "2419b669296f1ade72dcd9c7",
+      "kind": "source-changed",
+      "eventId": "474e843cff6f6b1ed437683d",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-le-pq-reste-en-tete-mais-rien-nest-encore-joue/",
+      "evidenceHash": "aa8623963bdc2d782010b78f0c49298667403957f28051efc1068daa1d15fe3a",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:48.034Z"
+      }
+    },
+    {
+      "id": "b8d9e4e82981928d47ffc10b",
+      "kind": "source-changed",
+      "eventId": "83fdb2d1bae99480229939e7",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-vote-quebec-janvier-2026/",
+      "evidenceHash": "2aa3bf5899ffc2c1f681c76632ab31c660940b72f619d797c9bf8b5f4ed8acd2",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:49.223Z"
+      }
+    },
+    {
+      "id": "1ddf2b4a03c65fe7749ee1bc",
+      "kind": "source-changed",
+      "eventId": "ab7b396ebb6aa55465445e4b",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-lutte-a-trois-mai-2026/",
+      "evidenceHash": "c0a7daecd44847c480a0b6d79d37eb975170223ece869d1197aec95724746c91",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:50.609Z"
+      }
+    },
+    {
+      "id": "7adf743b8710571eefdda4fd",
+      "kind": "source-changed",
+      "eventId": "e4325ea59acfb4fa08270ce3",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-pq-en-tete-caq-deuxieme-rang/",
+      "evidenceHash": "7e107d006f39f00382fa6b5c0678df01e6057d26b744c9dcb30b2efbbb936299",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:51.861Z"
+      }
+    },
+    {
+      "id": "cfd4b8e841510c4e51d4b4e7",
+      "kind": "source-changed",
+      "eventId": "e49901c3a9e0992104d1b289",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
+      "evidenceHash": "ca530495330555b9c8df80afd135e0aeac6fcd7d26780bc2df34fa89d83d4389",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:53.112Z"
+      }
+    },
+    {
+      "id": "7092a79b37afb4e838707c10",
+      "kind": "source-changed",
+      "eventId": "881eb47a24e449e758774b99",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
+      "evidenceHash": "2566705ca4b912a8b74c347645dc7a0f2f13924cf84f27317cd1f17e68d6c719",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:54.606Z"
+      }
+    },
+    {
+      "id": "7cc2f3826e7fbca5da7c822f",
+      "kind": "source-changed",
+      "eventId": "85a2491cf1f913f80a16dabb",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+      "evidenceHash": "c2b3a6e9741e9be52ad503a263c807d176f4129fd3eb15ccc70263bddcc57a8d",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:56.054Z"
+      }
+    },
+    {
+      "id": "03b46b3c1e88a366811b87df",
+      "kind": "source-changed",
+      "eventId": "85a2491cf1f913f80a16dabb",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+      "evidenceHash": "2832d0e1accd809d87fe2306537443b9a77484d8209da265cfc6e1243f8f96da",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:57.495Z"
+      }
+    },
+    {
+      "id": "1ba10bd6dd6af64a743773fd",
+      "kind": "source-changed",
+      "eventId": "9add8119d2b766a78476ef5b",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
+      "evidenceHash": "93674adccd298fe09fda0a2e0557e9e0328ebfcbd89c4624d1bc8e2c44232f68",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:58.345Z"
+      }
+    },
+    {
+      "id": "ca1400393da965b5c5437d10",
+      "kind": "source-changed",
+      "eventId": "b07fea0dc57a36b9691e8dad",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "url": "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
+      "evidenceHash": "8fe7133dea0a9d39630f4e46d06b9001f7140cbf924dd14b781fe54017f48c0b",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex primary-source review 2026-09-19",
+        "reason": "Normalized full visible text, publication metadata and PDF links match previously reviewed evidence; original PDF hashes unchanged. See data/audits/2026-09-19-source-comparison.json.",
+        "at": "2026-09-19T04:14:59.399Z"
       }
     }
   ],
@@ -36454,6 +38812,114 @@
       "role": "secondary",
       "firstDiscoveredAt": "2026-09-18T03:28:52.965Z",
       "evidenceHash": "915ec938721d3229ff5c467e7065c860066936d435937b31590ab34e9203fbf0"
+    },
+    {
+      "id": "6ab77b3938c1ed8332625a09",
+      "url": "https://leger360.com/",
+      "title": "<img fetchpriority=\"high\" decoding=\"async\" width=\"1195\" height=\"686\" src=\"https://leger360.com/wp-content/uploads/2024/04/2022-Logo-Leger-Blackred-g.png\" alt=\"\" title=\"2022-Logo-Leger-Blackred-g\" srcset=\"https://leger360.com/wp-content/uploads/2024/04/2022-Logo-Leger-Blackred-g.png 1195w, https://leger360.com/wp-content/uploads/2024/04/2022-Logo-Le",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "407a09fc6af2fc7cf60439f0",
+      "url": "https://leger360.com/federal-politics-liberals-regain-ground/",
+      "title": "<img decoding=\"async\" src=\"https://leger360.com/wp-content/uploads/2026/06/AdobeStock_744146748-400x250.jpeg\" alt=\"Federal Politics: Liberals Regain Ground\" class=\"\" srcset=\"https://leger360.com/wp-content/uploads/2026/06/AdobeStock_744146748-scaled.jpeg 479w, https://leger360.com/wp-content/uploads/2026/06/AdobeStock_744146748-400x250.jpeg 480w \" ",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "34bd05c9764d828cc40e55c8",
+      "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "title": "CA",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "cfb656cb3c675c5609044b3e",
+      "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/page/2/?et_blog",
+      "title": "« Older Entries",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "d0d6e032063d5de2b08de8b0",
+      "url": "https://leger360.com/in-the-news-voting-intentions-are-stabilizing-but-strong-desire-for-change-remains/",
+      "title": "Quebec Voting Intentions: Voting Intentions Are Stabilizing, but There Remains a Strong Desire for Change",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "a164a133d35b314ed58dba7f",
+      "url": "https://leger360.com/leger-ai/",
+      "title": "AI Initiatives",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "b0af31abf75dfea0dca9880e",
+      "url": "https://leger360.com/leger-opinion/",
+      "title": "Leger Opinion Services",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "77271b8655da163e8afa85a3",
+      "url": "https://leger360.com/quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17/",
+      "title": "Post-Debate Flash Survey Report",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "e74929ed380659949762a0b3e2f6f7249d2b71937f1d720e2e057a14e2baa6cb"
+    },
+    {
+      "id": "1efc96296c626b62d8b3b7b3",
+      "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/feed/",
+      "title": "",
+      "sourceId": "pallas",
+      "discoveredFrom": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-19T04:12:10.655Z",
+      "evidenceHash": "93674adccd298fe09fda0a2e0557e9e0328ebfcbd89c4624d1bc8e2c44232f68"
     }
   ],
   "runs": [
@@ -36488,6 +38954,14 @@
       "status": "partial",
       "successfulSources": 30,
       "failedSources": 2
+    },
+    {
+      "startedAt": "2026-09-19T04:12:10.654Z",
+      "finishedAt": "2026-09-19T04:13:25.213Z",
+      "date": "2026-09-19",
+      "status": "partial",
+      "successfulSources": 33,
+      "failedSources": 3
     }
   ]
 }

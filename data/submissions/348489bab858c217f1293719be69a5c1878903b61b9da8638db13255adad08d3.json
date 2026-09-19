@@ -1,0 +1,88 @@
+{
+  "pollster": "Pallas Data",
+  "sponsor": "Qc125",
+  "jurisdiction": "CA-QC",
+  "publicationDate": "2026-01-21",
+  "publicationDateBasis": "Visible January 21, 2026 date on original English release; body dateline January 20 and report cover January 11 retained as distinct dates.",
+  "fieldStart": "2026-01-09",
+  "fieldEnd": "2026-01-10",
+  "sampleSize": 1128,
+  "mode": "IVR telephone",
+  "population": "Québec adults aged 18 and over eligible to vote",
+  "basis": "decided-leaning",
+  "scenario": "actual",
+  "question": "Si une élection provinciale avait lieu aujourd’hui, pour quel parti voteriez-vous? (décidés et enclins)",
+  "marginOfError": {
+    "value": 2.9,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "As stated in release methodology"
+  },
+  "undecided": 14.1,
+  "notes": [
+    "Original PDF page 13 provincial total verified visually. Precise table values supersede the erroneous HTML headline; body agrees after rounding.",
+    "Report filename says 2025 but cover explicitly dates it 2026-01-11 and pages carry copyright 2026; primary release confirms January 9–10, 2026 fieldwork.",
+    "Undecided 14.1% is the pre-leaner all-elector figure on PDF page 11.",
+    "Regional and demographic columns are archived but excluded from the provincial average.",
+    "Reported rounded total 100.1 retained without rescaling."
+  ],
+  "sourceClaims": {
+    "headline": {
+      "PQ": "34%",
+      "PLQ": "27%",
+      "PCQ": "15%",
+      "CAQ": "11%",
+      "QS": "8%"
+    },
+    "body": {
+      "PQ": "34%",
+      "PLQ": "24%",
+      "PCQ": "16%",
+      "QS": "11%",
+      "CAQ": "11%"
+    }
+  },
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "manual-1",
+    "locator": "PDF page 13 Total decided/leaning column and unweighted base; page 3 methodology; cover year; page 11 undecided; English release visible publication date"
+  },
+  "sources": [
+    {
+      "url": "https://pallas-data.ca/wp-content/uploads/2026/01/PallasData-Quebec-QC125-11janvier2025.pdf",
+      "role": "primary",
+      "evidenceHash": "2a3429380206ef6e55c875aa1b69c280235eea6bac34d08ac9d229dd251ec057"
+    },
+    {
+      "url": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
+      "role": "primary",
+      "evidenceHash": "79946e60e600fa95f410618dbbea97b27be215ec7af5d5c075250c4ba30367aa"
+    },
+    {
+      "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+      "role": "primary",
+      "evidenceHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, Total column"
+      },
+      "dimensions": [],
+      "baseN": 1089,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "CAQ": "11.4%",
+        "PLQ": "24.1%",
+        "QS": "11.2%",
+        "PQ": "34.3%",
+        "PCQ": "15.9%",
+        "OTHER": "3.2%"
+      }
+    }
+  ]
+}
