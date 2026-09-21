@@ -216,9 +216,11 @@
       "https://pallas-data.ca/fr/2026/02/27/sondage-pallas-quebec-pq-30-plq-27-cpq-16-caq-14-qs-10/",
       "https://qc125.com/20260222-pal.htm"
     ],
-    "status": "needs-primary-reconciliation",
-    "possibleAcceptedEvents": [],
-    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date."
+    "status": "linked-to-accepted-source",
+    "possibleAcceptedEvents": [
+      "4773d7f0082ea11b739a0a95"
+    ],
+    "note": "Inventory row dates are retained as labels only; not interpreted as fieldwork end or publication date. Reconciled September 21 using original report page 13 and February 27 primary publication date."
   },
   {
     "id": "5d2bf6192311eaa2ef0a42ae",

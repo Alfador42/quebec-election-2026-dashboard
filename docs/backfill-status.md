@@ -1,8 +1,8 @@
 # Historical backfill status
 
-Snapshot: 19 September 2026. **Partial**, not a census of all 2026 Québec polls.
+Snapshot: 21 September 2026. **Partial**, not a census of all 2026 Québec polls.
 
-Fifteen polling events have been verified through primary reports/releases: eight Léger waves (January, March, May, June, August 9, August 31, September 6 and September 13 fieldwork end dates), Innovative (January 16–February 1 fieldwork), Liaison (April 26–27) and Pallas (January 9–10, August 29, September 5 and September 12), plus Nanos (September 12–14). Each went through the same normalization and ingestion functions used for later submissions. Original documents, extraction locations, publication evidence and methodological notes are retained.
+Sixteen polling events have been verified through primary reports/releases: eight Léger waves (January, March, May, June, August 9, August 31, September 6 and September 13 fieldwork end dates), Innovative (January 16–February 1 fieldwork), Liaison (April 26–27) and Pallas (January 9–10, February 21–22, August 29, September 5 and September 12), plus Nanos (September 12–14). Each went through the same normalization and ingestion functions used for later submissions. Original documents, extraction locations, publication evidence and methodological notes are retained.
 
 The archived Le Québec Vote inventory yielded 26 candidate waves. data/backfill-inventory.json preserves per-wave source references, while the discovery queue retains broader leads. A reference match is a reconciliation aid, not automatic proof that two polling events are identical.
 

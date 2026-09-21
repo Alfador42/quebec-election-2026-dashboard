@@ -1,0 +1,26 @@
+[
+  {
+    "pollster": "Mainstreet Research",
+    "status": "blocked-primary-report",
+    "publicationDate": "2026-09-15",
+    "fieldStart": "2026-09-11",
+    "fieldEnd": "2026-09-13",
+    "sourceUrl": "https://www.mainstreetresearch.ca/post/mainstreet-poll-shows-equipe-christine-frechette-leading-among-quebec-voters",
+    "evidenceHash": "ed33a3c8442610cbd920d4b54222e80dba71d895bdcbe10fc2ff2e6f6cb0a3b6",
+    "reportUrl": "https://cdn.prod.website-files.com/66c8dfb086a015b3b519e988/6aa982a98506d0f4bcae76cd_Quebec_September_2026_Public.pdf",
+    "error": "HTTP 403 retrieving CDN robots policy; no bypass attempted",
+    "note": "Only public report attempted. Subscriber report not accessed. Party sponsorship reported by secondary sources requires original-report verification. No values accepted."
+  },
+  {
+    "pollster": "Synopsis Recherche",
+    "status": "needs-primary-reconciliation",
+    "sourceUrl": "https://qc125.com/20260912-syn.htm",
+    "note": "September campaign lead surfaced in search; primary report and dates not yet verified. No values accepted."
+  },
+  {
+    "pollster": "Research Co.",
+    "status": "unverified-discovery",
+    "sourceUrl": "https://www.reddit.com/r/Quebec/comments/1wh1oar/sondage_research_co_pq_28_caq_23_plq_22_pcq_16_qs/",
+    "note": "Social discussion is a discovery lead only; primary-domain search did not locate report. No values or firm metadata accepted."
+  }
+]

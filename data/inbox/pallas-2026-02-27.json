@@ -1,0 +1,66 @@
+{
+  "pollster": "Pallas Data",
+  "sponsor": "Qc125",
+  "jurisdiction": "CA-QC",
+  "publicationDate": "2026-02-27",
+  "publicationDateBasis": "Visible February 27, 2026 date and matching dateline on original English release",
+  "fieldStart": "2026-02-21",
+  "fieldEnd": "2026-02-22",
+  "sampleSize": 1075,
+  "mode": "IVR telephone",
+  "population": "Québec adults aged 18 and over eligible to vote",
+  "basis": "decided-leaning",
+  "scenario": "actual",
+  "question": "Si une élection provinciale avait lieu aujourd’hui, pour quel parti voteriez-vous? (décidés et enclins)",
+  "marginOfError": {
+    "value": 3,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "Reported full-sample margin; larger for subsamples."
+  },
+  "undecided": 11.3,
+  "notes": [
+    "Original PDF page 13 provincial total verified visually.",
+    "Undecided 11.3% is the pre-leaner all-elector figure on PDF page 11.",
+    "Rounded total 99.9 retained. Regional, demographic and hypothetical leadership results excluded.",
+    "Primary article regional summaries differ from decided-table columns; only verified provincial total accepted."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "manual-1",
+    "locator": "PDF page 13 provincial total and base visually verified; page 3 methodology; page 11 undecided; dated primary English release"
+  },
+  "sources": [
+    {
+      "url": "https://pallas-data.ca/wp-content/uploads/2026/02/PallasData-QC125-Quebec-22fevrier2026.pdf",
+      "role": "primary",
+      "evidenceHash": "0ce1fe5a9cc443729ddf59d17adbf30e10eea4e26d2e156c5cc1120ca6375a26"
+    },
+    {
+      "url": "https://pallas-data.ca/2026/02/27/quebec-poll-pq-lead-narrows-liberals-surge-february-2026/",
+      "role": "primary",
+      "evidenceHash": "2fb85d919fb3ae467e97985fe8bcb035c13fb80c5a768fee5f4c5b9c0dea9fb1"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province, Total column"
+      },
+      "dimensions": [],
+      "baseN": 1038,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "CAQ": "13.7%",
+        "PLQ": "27.1%",
+        "QS": "10.2%",
+        "PQ": "30.1%",
+        "PCQ": "16.4%",
+        "OTHER": "2.4%"
+      }
+    }
+  ]
+}

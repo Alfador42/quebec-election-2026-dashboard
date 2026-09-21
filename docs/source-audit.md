@@ -22,3 +22,7 @@ No search result snippet is sufficient evidence for acceptance. Capture source b
 ## Nanos added 19 September 2026
 
 Primary publisher https://nanos.co/ and its /category/qc-election/ archive are now registered. The September 16 Noovo/Crave release links original PDF tables. Use provincial first-choice decided ballot with the explicit leaning follow-up, not preferred-premier or federal Quebec subsamples. Store full sample and decided base separately. The report cover says released September 15 but the primary website is dated September 16; this distinction is retained, with September 16 used conservatively until an earlier public release is verified. Both nanos.co and www.nanos.co are approved publisher hosts; retrieval continues to respect robots and rate limits.
+
+## Mainstreet public report retrieval — 21 September 2026
+
+September 15 primary release found and archived. Its explicitly linked public PDF is on cdn.prod.website-files.com, now registered as a publisher attachment host. The CDN robots-policy request returned HTTP 403; collection stopped without bypassing the restriction or accessing the separately labelled subscriber report. Poll remains unaccepted pending original-table and methodology verification. See data/audits/2026-09-21-research-leads.json.

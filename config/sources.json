@@ -71,7 +71,8 @@
     ],
     "hosts": [
       "www.mainstreetresearch.ca",
-      "mainstreetresearch.ca"
+      "mainstreetresearch.ca",
+      "cdn.prod.website-files.com"
     ],
     "notes": "Some releases may have access restrictions."
   },
