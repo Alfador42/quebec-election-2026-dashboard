@@ -1,0 +1,146 @@
+[
+  {
+    "reviewId": "5e4e161c99cb8c4fad43d3c6",
+    "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+    "previousHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23",
+    "currentHash": "70da44118741b9310dc2e126deb628bf6b24f0164ced55dbdc8df00305c796fd",
+    "stable": false,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "ebf646a6463036e475293fde",
+    "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+    "previousHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23",
+    "currentHash": "d1841af09819549f1666c187358b378e9cf5919c425128e1fdacc06522a0596f",
+    "stable": false,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "57c61cbb4ba9960089c28c14",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
+    "previousHash": "c4eb20a35e1655974dd334abcb924aff62bf9a6fdece84147c24d6b2b7b6b752",
+    "currentHash": "2efbc7a9e6383531d3e00728be122b70d1ffb0c83139bae99c7f6daeafab85ab",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "6d240972fcf7f18f51d99911",
+    "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+    "previousHash": "e0bd8c563f3cb4b014a7cc883d1994256585c24ad310f4b19ea380cbd7c3533b",
+    "currentHash": "22d23d50178653a2579cfa1517d71311c74c2aa8b0eb521f550e70267f1e0088",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "12a18b9adde4b9d324f2f1c1",
+    "url": "https://leger360.com/fr/quebec-politique-volonte-changement-baisse-appui-a-la-souverainete/",
+    "previousHash": "21f17e77293460df14a45b7d8d5228188b42ad7044046ac5f997393b1593863d",
+    "currentHash": "90db25bbfb0c94ff2c1c794a4724b69bdd25d13a74b0e2fa462be3522b61fcfd",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "b42ea6a2af01e452ead748b7",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-le-pq-reste-en-tete-mais-rien-nest-encore-joue/",
+    "previousHash": "272af576dabece94da131a356b44118da7f8b68578843f92b350d8222a18169e",
+    "currentHash": "00044c9abc251eb95c66aa6298205940b3ceb82f095c62489de939510da9e369",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "7d630a7fa8fcfaea6b9e03a4",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-vote-quebec-janvier-2026/",
+    "previousHash": "b486ae26498ff2bca9d0bd9a16512c3bb537557fb9ebe24e703a82f67f8b088d",
+    "currentHash": "55fbbf339ee1c564e513e57ae3dafe7b482d861b0232ff3a75d61e018a95615d",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "4c92d7837dde02c806542b1e",
+    "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-lutte-a-trois-mai-2026/",
+    "previousHash": "dd8596030bb1b91b9f7cdbcbc93768849f8c7f261bb74a96642b9c31dad99581",
+    "currentHash": "79640ee83bf097b0356f6ebffae3796e6462339525292e43c4d73eb4ef5a122d",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "1e83d752c10f600c5c4517f9",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-pq-en-tete-caq-deuxieme-rang/",
+    "previousHash": "3914a57532afc81a530e4b567462ef1a07b95ea21ea1f15955ee1190b591a7eb",
+    "currentHash": "985dd16b61169e5f62c2709463de9c4c46d4a5adedd52cf51f386159510c8dd9",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "1e7621906621abd5b2b1ab04",
+    "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
+    "previousHash": "ef88f3e9e2917f0800a0b7edb865f336ca7dda7671628993cd0e5918451d4c5e",
+    "currentHash": "cab1bba7d5ca0317cfa099b27e40a27c6825be86c451fced98a9e97acabb2ed4",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "06b3e00e738a539d3b915efd",
+    "url": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
+    "previousHash": "f23602543c6860a3fac29c00c9892e2cc2b380eeac9385472a131e65e77727d2",
+    "currentHash": "b1aee17c2e485fd0ace0bd7ba3840a530c5235c00dce06be2b16b2fff6d5a692",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "b1242e33111b1338f2faffa0",
+    "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+    "previousHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23",
+    "currentHash": "f96ba57535744e67861804715ea9a25d11097ef44a0bdba5901d8ee496337fcc",
+    "stable": false,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "ad1ef89fe0b60d6175eae2ce",
+    "url": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
+    "previousHash": "9513e10900b49e7842dafba44535ec4dd2b912385ebb2b5b8cf1d11f6954b439",
+    "currentHash": "ae17ecf4213156baf51214aff7631acdc99fc486e4cf699876e9d909b87810d2",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "898caaa58f32e8db7dd8dc13",
+    "url": "https://pallas-data.ca/2026/02/27/quebec-poll-pq-lead-narrows-liberals-surge-february-2026/",
+    "previousHash": "2fb85d919fb3ae467e97985fe8bcb035c13fb80c5a768fee5f4c5b9c0dea9fb1",
+    "currentHash": "f4bd4424948ee16da53bb5df84e80870ef9bac0d6985d3f23a7f4a22231766e2",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "de50bf038c7e0727ba16c632",
+    "url": "https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+    "previousHash": "94bcd6162926e8de2d1dd0162ecb724a6df6ec076721053bc8d381a4ae9d0429",
+    "currentHash": "50ef2bbd12cbbd6e3efd675254be1d46e8a1415bfd01c124887180042d162b63",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "e9cb39580a5b2a61aaf378da",
+    "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+    "previousHash": "cdfa8482063836c88a8712e9f2bc70ca21d2f1657ca79aa1f7314a9266b64d8d",
+    "currentHash": "f2ceef9c9dcbb400fdb3f4b17f43fc09ac457c34ff853066c33e3451451cdfa8",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "965041f244662a758496f6f1",
+    "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
+    "previousHash": "462aaff2e1f5273c3e69e88262c2f8c2e8b941c743fdda9e68ff3a7f3f8c9384",
+    "currentHash": "fb262d2eead5bb8f1c72c11e649fccff6c931f174f85447f312330b9f84a923f",
+    "stable": true,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "f534880e53b03d4ff20372ea",
+    "url": "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
+    "previousHash": "129f4fff108872f5a1492a1ecfa0d20e5c3a201815821bbd38487806accf69e9",
+    "currentHash": "42d3e31dff7009114b865365c837f4644d6be7b10d15485f8d88dcbbe23ecf3a",
+    "stable": true,
+    "pdfStable": true
+  }
+]
