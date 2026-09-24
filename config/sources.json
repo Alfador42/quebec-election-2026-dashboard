@@ -172,5 +172,19 @@
       "www.nanos.co"
     ],
     "notes": "Primary pollster discovered September 19. Verify provincial first-choice decided table, leaning follow-up and release date; distinguish federal Quebec subsamples."
+  },
+  {
+    "id": "journal-montreal",
+    "publisher": "Le Journal de Montréal",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://www.journaldemontreal.com/2026/03/28/sondage--la-querelle-frechette-drainville-le-dernier-clou-dans-le-cercueil-de-la-caq"
+    ],
+    "hosts": [
+      "www.journaldemontreal.com"
+    ],
+    "notes": "Commissioning media publication evidence linked by original Léger release. Respect publisher robots and access restrictions."
   }
 ]

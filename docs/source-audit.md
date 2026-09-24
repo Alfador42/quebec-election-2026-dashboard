@@ -26,3 +26,7 @@ Primary publisher https://nanos.co/ and its /category/qc-election/ archive are n
 ## Mainstreet public report retrieval — 21 September 2026
 
 September 15 primary release found and archived. Its explicitly linked public PDF is on cdn.prod.website-files.com, now registered as a publisher attachment host. The CDN robots-policy request returned HTTP 403; collection stopped without bypassing the restriction or accessing the separately labelled subscriber report. Poll remains unaccepted pending original-table and methodology verification. See data/audits/2026-09-21-research-leads.json.
+
+## Follow-up source research — 24 September 2026
+
+Le Journal de Montréal was registered as a commissioning-media primary source after following the original Léger March release link. The March 28 article establishes an earlier publication lead than the March 30 pollster page, but archival retrieval returned HTTP 403; the historical extraction remains pending. Segma Recherche was detected through secondary discovery and an original-format PDF mirror on qc125.com. Its provincial Other value is a less-than bound, not a numeric estimate; primary publication and representation checks remain open. See the morning research audit and update log.

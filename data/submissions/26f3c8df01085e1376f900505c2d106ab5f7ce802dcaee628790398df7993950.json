@@ -1,0 +1,65 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-03-28",
+  "basis": "decided-leaning",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "pollster": "Léger",
+  "sponsor": "Sondage Léger/Québecor",
+  "publicationDateBasis": "Pending archive verification: commissioning Journal de Montréal article visibly dated March 28 at 14:11; automated capture returned HTTP 403. Pollster article dated March 30; report cover March 22 is not publication evidence.",
+  "fieldStart": "2026-03-20",
+  "fieldEnd": "2026-03-22",
+  "sampleSize": 1003,
+  "mode": "Online panel (LEO)",
+  "population": "Québec residents aged 18 and over eligible to vote",
+  "undecided": 10,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability online panel. Probability-sample comparison margin is not an actual sampling margin."
+  },
+  "notes": [
+    "HOLD: earlier commissioning media publication was readable through web research but could not be archived; do not accept until publication provenance is reconciled.",
+    "Original provincial total decided table visually verified; all-respondent and hypothetical leader columns excluded.",
+    "Ne sait pas 10% excludes refusal and non-voting responses."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "leger-table-1",
+    "locator": "PDF page 5 provincial decided table; page 2 method; publication evidence unresolved."
+  },
+  "sources": [
+    {
+      "url": "https://leger360.com/wp-content/uploads/2026/03/Leger_PolitiqueQC_IntentionsVoteQC_30mars2026.pdf",
+      "role": "primary",
+      "evidenceHash": "e05e3ddcdc76b9fa070215b74b1e66f6aa4d349f49c9580bfd99769ef08a1296"
+    },
+    {
+      "url": "https://leger360.com/fr/dernieres-nouvelles-parti-politique-quebec-le-plq-rejoint-le-pq-la-caq-senfonce-leger-30-mars-2026/",
+      "role": "primary",
+      "evidenceHash": "7ddfe97bd9eb830d74846f57ad689b59d332eef8ff0b3caf516e4e8ce702e077"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 791,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "33%",
+        "CAQ": "9%",
+        "PLQ": "33%",
+        "PCQ": "15%",
+        "QS": "9%",
+        "OTHER": "1%"
+      }
+    }
+  ]
+}

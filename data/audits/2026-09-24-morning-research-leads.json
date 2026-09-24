@@ -1,0 +1,26 @@
+[
+  {
+    "pollster": "Segma Recherche",
+    "status": "needs-primary-reconciliation",
+    "referenceUrl": "https://qc125.com/20260913-seg.htm",
+    "reportUrl": "https://qc125.com/proj/2026-09-13-segma.pdf",
+    "evidenceHash": "aa2b9a550396e4b714bbbce67e865db7abfd39ce9bd77ca284e4447456b43b7f",
+    "notes": [
+      "Secondary-hosted original-format report located. Primary Radio-Canada access restricted by robots; no bypass.",
+      "Text identifies province-wide September 8-17 sample 5572 and decided base 4594; do not confuse regional reports.",
+      "Other reported as <1%, not zero or a numeric point estimate. Needs explicit bounded-value representation before ingestion.",
+      "Publication evidence and visual table verification remain pending."
+    ]
+  },
+  {
+    "pollster": "Léger",
+    "status": "publication-archive-pending",
+    "reportHash": "e05e3ddcdc76b9fa070215b74b1e66f6aa4d349f49c9580bfd99769ef08a1296",
+    "publicationLead": "https://www.journaldemontreal.com/2026/03/28/sondage--la-querelle-frechette-drainville-le-dernier-clou-dans-le-cercueil-de-la-caq",
+    "captureError": "HTTP 403",
+    "notes": [
+      "Page visibly dates March 28 14:11 and reports matching sample, field dates and party values. Original pollster article is March 30.",
+      "Table and method verified; submitted for review only."
+    ]
+  }
+]
