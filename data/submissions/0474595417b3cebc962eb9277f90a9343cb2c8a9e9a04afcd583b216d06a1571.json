@@ -1,0 +1,66 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-09-21",
+  "basis": "decided-leaning",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "pollster": "Pallas Data",
+  "sponsor": null,
+  "publicationDateBasis": "Visible September 21 primary English release date, distinct from September 20 body dateline.",
+  "fieldStart": "2026-09-19",
+  "fieldEnd": "2026-09-19",
+  "sampleSize": 1122,
+  "mode": "IVR telephone (landline and mobile)",
+  "population": "Québec residents aged 18 and over",
+  "undecided": 10,
+  "marginOfError": {
+    "value": 2.9,
+    "confidence": 95,
+    "applicability": "reported-probability",
+    "note": "Reported full-sample margin; subgroup margins are larger."
+  },
+  "notes": [
+    "Original decimal provincial table sums to 100.1%; retained without renormalization.",
+    "Undecided 10% is pre-leaner page 8; page 10 reports 3.9% after leaning.",
+    "Sponsor is not explicitly identified. Regional narrative contains an inconsistent ranking; provincial table agrees with rounded headline. Regional values excluded.",
+    "Decided figures are transcribed as published, not recalculated from all-respondent percentages."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "pallas-table-1",
+    "locator": "PDF page 12 provincial Total decided/leaning column visually verified; page 3 methodology; pages 8 and 10 undecided; primary English release visible date."
+  },
+  "sources": [
+    {
+      "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine4-21septembre2026.pdf",
+      "role": "primary",
+      "evidenceHash": "0fbb9a6145847f2e28b16aa3c56d1d0e2a39a6b3cf01da04158b7d315ebf75a2"
+    },
+    {
+      "url": "https://pallas-data.ca/2026/09/21/pallas-quebec-poll-pq-28-plq-22-caq-22-pcq-16-qs-11/",
+      "role": "primary",
+      "evidenceHash": "47dc7bc3b2888e16fa76c5683188d9f39ee6245aaa242ef1bec23dc95c82a34c"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 1089,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "CAQ": "22.2%",
+        "PLQ": "22.4%",
+        "QS": "11.3%",
+        "PQ": "27.7%",
+        "PCQ": "15.9%",
+        "OTHER": "0.6%"
+      }
+    }
+  ]
+}

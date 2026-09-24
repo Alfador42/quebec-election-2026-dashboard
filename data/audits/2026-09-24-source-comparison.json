@@ -1,0 +1,245 @@
+[
+  {
+    "reviewId": "5e4e161c99cb8c4fad43d3c6",
+    "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+    "previousHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23",
+    "currentHash": "70da44118741b9310dc2e126deb628bf6b24f0164ced55dbdc8df00305c796fd",
+    "stable": false,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "ebf646a6463036e475293fde",
+    "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+    "previousHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23",
+    "currentHash": "d1841af09819549f1666c187358b378e9cf5919c425128e1fdacc06522a0596f",
+    "stable": false,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "b1242e33111b1338f2faffa0",
+    "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+    "previousHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23",
+    "currentHash": "f96ba57535744e67861804715ea9a25d11097ef44a0bdba5901d8ee496337fcc",
+    "stable": false,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "91518ebf093ff4d2ec258e52",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
+    "previousHash": "c4eb20a35e1655974dd334abcb924aff62bf9a6fdece84147c24d6b2b7b6b752",
+    "currentHash": "4883e01ba59b3920a3ed0a281ef9f07e724f6ee14c7a0b7b822f94b1a389b861",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Rapport du sondage express post-débat",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "b463d8ceee8b5ba157147073",
+    "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+    "previousHash": "e0bd8c563f3cb4b014a7cc883d1994256585c24ad310f4b19ea380cbd7c3533b",
+    "currentHash": "89eb0cc567c6db44347d6f2c35c22eb8d60bf3cca85899fb7bb4e3aa485083f2",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Post-Debate Flash Survey Report",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "d99be51a0a93101d79d5a80b",
+    "url": "https://leger360.com/fr/quebec-politique-volonte-changement-baisse-appui-a-la-souverainete/",
+    "previousHash": "21f17e77293460df14a45b7d8d5228188b42ad7044046ac5f997393b1593863d",
+    "currentHash": "0e038fbc5ac67aa929f9c86f34d19e75a230a18c9a11dca5e83600d6f6bc8289",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Rapport du sondage express post-débat",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "2449d265d9ca5b089d84d0d6",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-le-pq-reste-en-tete-mais-rien-nest-encore-joue/",
+    "previousHash": "272af576dabece94da131a356b44118da7f8b68578843f92b350d8222a18169e",
+    "currentHash": "81d0a30608b2dfc8e4b45f7720f532e5041e2e7e87462e4494b3a18bffae3342",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Rapport du sondage express post-débat",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "53a95e476a0b496593e003c3",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-vote-quebec-janvier-2026/",
+    "previousHash": "b486ae26498ff2bca9d0bd9a16512c3bb537557fb9ebe24e703a82f67f8b088d",
+    "currentHash": "37fdd563cf4bcff903f493f0bea8ba17423a8cfcbac8101b32c5c8abbc9025d9",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Rapport du sondage express post-débat",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "27b8cf286fcc6cc8c9c76190",
+    "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-lutte-a-trois-mai-2026/",
+    "previousHash": "dd8596030bb1b91b9f7cdbcbc93768849f8c7f261bb74a96642b9c31dad99581",
+    "currentHash": "880f53ae2706148992dd95d6ed52627ae189df4f6319191d95bf48b8bb6dcf62",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Rapport du sondage express post-débat",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "8cf04b56bd8b6bc35e553c2d",
+    "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-pq-en-tete-caq-deuxieme-rang/",
+    "previousHash": "3914a57532afc81a530e4b567462ef1a07b95ea21ea1f15955ee1190b591a7eb",
+    "currentHash": "8f11a4997cc3ba42f3402a673edf382bd3f083899d362e71ea222fe950024ba0",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Rapport du sondage express post-débat",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "5462666ebe38c7f9f9fe0a39",
+    "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
+    "previousHash": "ef88f3e9e2917f0800a0b7edb865f336ca7dda7671628993cd0e5918451d4c5e",
+    "currentHash": "56431561bb38038b06db386e0b445abf0a1301078d7a02d003e467a2d3e7e56a",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Rapport du sondage express post-débat",
+      "new": "New September 22 related-post heading"
+    }
+  },
+  {
+    "reviewId": "5e34e79c22e9d0efc766bf29",
+    "url": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
+    "previousHash": "f23602543c6860a3fac29c00c9892e2cc2b380eeac9385472a131e65e77727d2",
+    "currentHash": "4e59d9097cce26eca7cadbc10ffc3a2fa17df3bdd72d0f1cf705fcc3b15c8106",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Articles associés",
+      "new": "Articles associés"
+    }
+  },
+  {
+    "reviewId": "83dbf45ece2d969cdec22c40",
+    "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+    "previousHash": "1008771a3959a123d00b21f027fce4189df5f212de288a09bf1b6de922fbdc23",
+    "currentHash": "e4b1cc0a6a35e58d0da0d666925de1f2d4bd5ee75e7c288a1ecc99086abb7942",
+    "stable": false,
+    "pdfStable": true
+  },
+  {
+    "reviewId": "4a1d83097e99da537e12a78d",
+    "url": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
+    "previousHash": "9513e10900b49e7842dafba44535ec4dd2b912385ebb2b5b8cf1d11f6954b439",
+    "currentHash": "2288d921d95b2da53c156ee1bf7a5c8bdd96ed003bccbad4ca98baf88ebd0277",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Related Posts",
+      "new": "Related Posts"
+    }
+  },
+  {
+    "reviewId": "5dbe896c6876ee7a588ad41d",
+    "url": "https://pallas-data.ca/2026/02/27/quebec-poll-pq-lead-narrows-liberals-surge-february-2026/",
+    "previousHash": "f4bd4424948ee16da53bb5df84e80870ef9bac0d6985d3f23a7f4a22231766e2",
+    "currentHash": "0e5b82f2b9a5d14a4971c9e48a8185776462b9e56c356b4c1188530b948a9571",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Related Posts",
+      "new": "Related Posts"
+    }
+  },
+  {
+    "reviewId": "3c05954c1ad5a459064c4ab8",
+    "url": "https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+    "previousHash": "94bcd6162926e8de2d1dd0162ecb724a6df6ec076721053bc8d381a4ae9d0429",
+    "currentHash": "5a6c4329280f91e4cfbbb4cea089023ffb0e76c6317034eaab8b90f2e844bbe5",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Related Posts",
+      "new": "Related Posts"
+    }
+  },
+  {
+    "reviewId": "a4f35359be9e30723ed213f5",
+    "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+    "previousHash": "cdfa8482063836c88a8712e9f2bc70ca21d2f1657ca79aa1f7314a9266b64d8d",
+    "currentHash": "bb99e1c82d29bd3a09c002ba71a5cffc268409389a31c58a1fbd298e8d2d1b6e",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Articles associés",
+      "new": "Articles associés"
+    }
+  },
+  {
+    "reviewId": "51cb77d3933183881b47a5e1",
+    "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
+    "previousHash": "462aaff2e1f5273c3e69e88262c2f8c2e8b941c743fdda9e68ff3a7f3f8c9384",
+    "currentHash": "1514c6d2b0750c0d1b45515d353748144f2508813b23f4611c71d8eb8a958d58",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Related Posts",
+      "new": "Related Posts"
+    }
+  },
+  {
+    "reviewId": "92ba6d5887af892f74da5e23",
+    "url": "https://press.liaisonstrategies.ca/quebec-le-pq-et-les-liberaux-sont-coude-a-coude-la-caq-gagne-du-terrain/",
+    "previousHash": "1b9a48c93a8b0e9ef93fbed384ad90a1a7721bbb0a36203a25362e1eb0f0df27",
+    "currentHash": "20d2ae4c86c4d553cf9d7c411891e8d43380653c74e008a65f14c24f6ee721eb",
+    "stable": true,
+    "pdfStable": false
+  },
+  {
+    "reviewId": "0d939c67c1ae3b13c914ae19",
+    "url": "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
+    "previousHash": "129f4fff108872f5a1492a1ecfa0d20e5c3a201815821bbd38487806accf69e9",
+    "currentHash": "269c0bbd5bef1201b730fee8851491341ce8c450d5189f288fb0e5579bb53576",
+    "stable": false,
+    "pdfStable": true,
+    "articleUnchanged": true,
+    "comparisonBoundary": {
+      "old": "Related posts",
+      "new": "Related posts"
+    }
+  },
+  {
+    "reviewId": "855335a562a9082b98952c5a",
+    "url": "https://nanos.co/noovo-crave-nanos-quebec-election-survey-pq-27-9-liberals-23-7-caq-21-6-conservatives-16-4-and-quebec-solidaire-8-7/",
+    "previousHash": "fb1a0ca735920fcdd65680e34eb6e100aa38374eb798b409da13bee8d15cc1b8",
+    "currentHash": "f3cb7c1bfce1e294af78e86186fa427c90e6aa400c2dae39fc3d1246c8cbe297",
+    "stable": true,
+    "pdfStable": true
+  }
+]

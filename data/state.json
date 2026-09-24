@@ -4,7 +4,7 @@
     {
       "id": "1e82f27f93163fb3f6db7c39",
       "firstDiscoveredAt": "2026-09-18T03:37:39.548Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.917Z",
       "sources": [
         {
           "url": "https://leger360.com/vmedia1_rapport-intentions-de-vote-14-septembre-2026-finale/",
@@ -110,7 +110,7 @@
     {
       "id": "2365c24f0f18857d6e898ad4",
       "firstDiscoveredAt": "2026-09-12T23:28:48.547Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://leger360.com/wp-content/uploads/2026/03/Leger_PolitiqueQC_V1_4mars2026.pdf",
@@ -216,7 +216,7 @@
     {
       "id": "31c4f0bd2b2e8b0834cd3f94",
       "firstDiscoveredAt": "2026-09-19T04:28:56.577Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.917Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
@@ -350,7 +350,7 @@
     {
       "id": "474e843cff6f6b1ed437683d",
       "firstDiscoveredAt": "2026-09-12T23:28:48.558Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/6.%20%C3%89tudes%20M%C3%A9diatiques%20Juin%202026/Qu%C3%A9bec%20Polls/Rapport%20-%20Leger-%20Intentions%20de%20vote%20(16%20juin%202026).pdf",
@@ -456,7 +456,7 @@
     {
       "id": "4773d7f0082ea11b739a0a95",
       "firstDiscoveredAt": "2026-09-21T10:46:50.072Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.917Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/wp-content/uploads/2026/02/PallasData-QC125-Quebec-22fevrier2026.pdf",
@@ -563,7 +563,7 @@
     {
       "id": "6c2accff3648ddb12e0b00d5",
       "firstDiscoveredAt": "2026-09-19T12:38:24.991Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.917Z",
       "sources": [
         {
           "url": "https://nanos.co/wp-content/uploads/2026/09/2026-3132-Noovo-Crave-QC-Election-Populated-report-FINAL.pdf",
@@ -670,7 +670,7 @@
     {
       "id": "83fdb2d1bae99480229939e7",
       "firstDiscoveredAt": "2026-09-12T23:28:48.528Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://leger360.com/wp-content/uploads/2026/01/Rapport-Intentions-de-vote-29-janvier-2026.pdf",
@@ -776,7 +776,7 @@
     {
       "id": "84137275f83e1c3ce985380d",
       "firstDiscoveredAt": "2026-09-12T23:28:48.574Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://leger360.com/fr/rapport-intentions-de-vote-7-septembre-2026-vf/",
@@ -880,7 +880,7 @@
     {
       "id": "85a2491cf1f913f80a16dabb",
       "firstDiscoveredAt": "2026-09-13T12:21:57.331Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.917Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/wp-content/uploads/2026/08/PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf",
@@ -996,7 +996,7 @@
     {
       "id": "881eb47a24e449e758774b99",
       "firstDiscoveredAt": "2026-09-12T23:28:48.580Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf",
@@ -1102,7 +1102,7 @@
     {
       "id": "9add8119d2b766a78476ef5b",
       "firstDiscoveredAt": "2026-09-18T03:37:40.422Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.917Z",
       "sources": [
         {
           "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf",
@@ -1204,6 +1204,216 @@
       ]
     },
     {
+      "id": "9ef69ba34380e861f4fab07a",
+      "firstDiscoveredAt": "2026-09-24T05:11:10.658Z",
+      "lastVerifiedAt": "2026-09-24T05:11:10.658Z",
+      "sources": [
+        {
+          "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/9.%20%C3%89tudes%20m%C3%A9diatiques%20septembre%202026/QC%20Pol%2021%20September/Rapport%20intentions%20de%20vote%20-%2021%20septembre%202026.pdf",
+          "role": "primary",
+          "evidenceHash": "2eeaf9076bec6fa48fbb1e0481aa96a11ed1bdaac1941bd5518648625fbdf4d3"
+        },
+        {
+          "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-climat-de-changement/",
+          "role": "primary",
+          "evidenceHash": "9ca67026e9af00cad4b3f46b918b977e52e262281a53b45904909c2a69bf51be"
+        }
+      ],
+      "activeRevisionId": "55cfe2b60fceb9467eaef792429f4e218e9342f0d711e2165fc9ebb362bf8c8c",
+      "revisions": [
+        {
+          "id": "55cfe2b60fceb9467eaef792429f4e218e9342f0d711e2165fc9ebb362bf8c8c",
+          "poll": {
+            "jurisdiction": "CA-QC",
+            "scenario": "actual",
+            "publicationDate": "2026-09-22",
+            "basis": "decided-leaning",
+            "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+            "pollster": "Léger",
+            "sponsor": "Sondage Léger/Le Journal/TVA",
+            "publicationDateBasis": "Visible 22 September 2026 primary French release date, distinct from September 21 report cover.",
+            "fieldStart": "2026-09-18",
+            "fieldEnd": "2026-09-21",
+            "sampleSize": 1001,
+            "mode": "Online panel (LEO)",
+            "population": "Québec residents aged 18 and over eligible to vote",
+            "undecided": 8,
+            "marginOfError": {
+              "value": null,
+              "confidence": null,
+              "applicability": "not-applicable",
+              "note": "Non-probability online panel. Probability-sample comparison margin is not an actual sampling margin."
+            },
+            "notes": [
+              "Undecided is the Ne sait pas row; non-voting and refusal responses are separate.",
+              "Total decided column includes leaning follow-up; other columns excluded."
+            ],
+            "extraction": {
+              "method": "reviewed-pdf-table",
+              "version": "leger-table-1",
+              "locator": "PDF page 7 total decided column visually verified; page 2 methodology; primary French release visible date."
+            },
+            "sources": [
+              {
+                "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/9.%20%C3%89tudes%20m%C3%A9diatiques%20septembre%202026/QC%20Pol%2021%20September/Rapport%20intentions%20de%20vote%20-%2021%20septembre%202026.pdf",
+                "role": "primary",
+                "evidenceHash": "2eeaf9076bec6fa48fbb1e0481aa96a11ed1bdaac1941bd5518648625fbdf4d3"
+              },
+              {
+                "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-climat-de-changement/",
+                "role": "primary",
+                "evidenceHash": "9ca67026e9af00cad4b3f46b918b977e52e262281a53b45904909c2a69bf51be"
+              }
+            ],
+            "blocks": [
+              {
+                "questionType": "voting-intention",
+                "geography": {
+                  "level": "province",
+                  "label": "Québec",
+                  "definition": "Entire province; Total column, not a regional subgroup"
+                },
+                "dimensions": [],
+                "baseN": 903,
+                "basis": "decided-leaning",
+                "reportedValues": {
+                  "PQ": "29%",
+                  "CAQ": "20%",
+                  "PLQ": "23%",
+                  "PCQ": "17%",
+                  "QS": "10%",
+                  "OTHER": "1%"
+                },
+                "values": {
+                  "PQ": 29,
+                  "CAQ": 20,
+                  "PLQ": 23,
+                  "PCQ": 17,
+                  "QS": 10,
+                  "OTHER": 1
+                },
+                "reportedTotal": 100
+              }
+            ],
+            "pollsterId": "leger",
+            "midpoint": 20715.5
+          },
+          "acceptedAt": "2026-09-24T05:11:10.658Z",
+          "reviewer": "Codex primary-source review 2026-09-24",
+          "reason": "Verified original PDF page 7 provincial decided table, page 2 fieldwork and sample, and dated primary release. Distinct September 18-21 wave.",
+          "supersedes": null,
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "id": "a87a7d124db74bb5de1048e4",
+      "firstDiscoveredAt": "2026-09-24T05:11:11.478Z",
+      "lastVerifiedAt": "2026-09-24T05:11:11.478Z",
+      "sources": [
+        {
+          "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine4-21septembre2026.pdf",
+          "role": "primary",
+          "evidenceHash": "0fbb9a6145847f2e28b16aa3c56d1d0e2a39a6b3cf01da04158b7d315ebf75a2"
+        },
+        {
+          "url": "https://pallas-data.ca/2026/09/21/pallas-quebec-poll-pq-28-plq-22-caq-22-pcq-16-qs-11/",
+          "role": "primary",
+          "evidenceHash": "47dc7bc3b2888e16fa76c5683188d9f39ee6245aaa242ef1bec23dc95c82a34c"
+        }
+      ],
+      "activeRevisionId": "7a93a041c770295fe88bda10e1efed396a4c2aa7966063c6f24f214680d5b042",
+      "revisions": [
+        {
+          "id": "7a93a041c770295fe88bda10e1efed396a4c2aa7966063c6f24f214680d5b042",
+          "poll": {
+            "jurisdiction": "CA-QC",
+            "scenario": "actual",
+            "publicationDate": "2026-09-21",
+            "basis": "decided-leaning",
+            "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+            "pollster": "Pallas Data",
+            "sponsor": null,
+            "publicationDateBasis": "Visible September 21 primary English release date, distinct from September 20 body dateline.",
+            "fieldStart": "2026-09-19",
+            "fieldEnd": "2026-09-19",
+            "sampleSize": 1122,
+            "mode": "IVR telephone (landline and mobile)",
+            "population": "Québec residents aged 18 and over",
+            "undecided": 10,
+            "marginOfError": {
+              "value": 2.9,
+              "confidence": 95,
+              "applicability": "reported-probability",
+              "note": "Reported full-sample margin; subgroup margins are larger."
+            },
+            "notes": [
+              "Original decimal provincial table sums to 100.1%; retained without renormalization.",
+              "Undecided 10% is pre-leaner page 8; page 10 reports 3.9% after leaning.",
+              "Sponsor is not explicitly identified. Regional narrative contains an inconsistent ranking; provincial table agrees with rounded headline. Regional values excluded.",
+              "Decided figures are transcribed as published, not recalculated from all-respondent percentages."
+            ],
+            "extraction": {
+              "method": "reviewed-pdf-table",
+              "version": "pallas-table-1",
+              "locator": "PDF page 12 provincial Total decided/leaning column visually verified; page 3 methodology; pages 8 and 10 undecided; primary English release visible date."
+            },
+            "sources": [
+              {
+                "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine4-21septembre2026.pdf",
+                "role": "primary",
+                "evidenceHash": "0fbb9a6145847f2e28b16aa3c56d1d0e2a39a6b3cf01da04158b7d315ebf75a2"
+              },
+              {
+                "url": "https://pallas-data.ca/2026/09/21/pallas-quebec-poll-pq-28-plq-22-caq-22-pcq-16-qs-11/",
+                "role": "primary",
+                "evidenceHash": "47dc7bc3b2888e16fa76c5683188d9f39ee6245aaa242ef1bec23dc95c82a34c"
+              }
+            ],
+            "blocks": [
+              {
+                "questionType": "voting-intention",
+                "geography": {
+                  "level": "province",
+                  "label": "Québec",
+                  "definition": "Entire province; Total column, not a regional subgroup"
+                },
+                "dimensions": [],
+                "baseN": 1089,
+                "basis": "decided-leaning",
+                "reportedValues": {
+                  "CAQ": "22.2%",
+                  "PLQ": "22.4%",
+                  "QS": "11.3%",
+                  "PQ": "27.7%",
+                  "PCQ": "15.9%",
+                  "OTHER": "0.6%"
+                },
+                "values": {
+                  "CAQ": 22.2,
+                  "PLQ": 22.4,
+                  "QS": 11.3,
+                  "PQ": 27.7,
+                  "PCQ": 15.9,
+                  "OTHER": 0.6
+                },
+                "reportedTotal": 100.1
+              }
+            ],
+            "pollsterId": "pallas",
+            "midpoint": 20715
+          },
+          "acceptedAt": "2026-09-24T05:11:11.478Z",
+          "reviewer": "Codex primary-source review 2026-09-24",
+          "reason": "Verified original PDF page 12 provincial decided/leaning table, page 3 methodology, and dated release. Preserved decimal rounding and pre-leaner undecided; distinct September 19 wave.",
+          "supersedes": null,
+          "warnings": [
+            "Reported total 100.1; values preserved without rescaling"
+          ]
+        }
+      ]
+    },
+    {
       "id": "a9014cd27b7acc6cc0fd3745",
       "firstDiscoveredAt": "2026-09-12T23:28:48.583Z",
       "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
@@ -1300,7 +1510,7 @@
     {
       "id": "ab7b396ebb6aa55465445e4b",
       "firstDiscoveredAt": "2026-09-12T23:28:48.553Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/5.%20%C3%89tudes%20M%C3%A9diatiques%20Mai/Leger%20-%20Rapport%20-%20Intentions%20de%20vote%20Quebec%2019%20mai%202026.pdf",
@@ -1404,7 +1614,7 @@
     {
       "id": "b07fea0dc57a36b9691e8dad",
       "firstDiscoveredAt": "2026-09-12T23:28:48.596Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf",
@@ -1511,7 +1721,7 @@
     {
       "id": "e4325ea59acfb4fa08270ce3",
       "firstDiscoveredAt": "2026-09-12T23:28:48.569Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://leger360.com/wp-content/uploads/2026/08/Rapport-intentions-de-vote-31-aout-2026-VF.pdf",
@@ -1615,7 +1825,7 @@
     {
       "id": "e49901c3a9e0992104d1b289",
       "firstDiscoveredAt": "2026-09-12T23:28:48.564Z",
-      "lastVerifiedAt": "2026-09-21T12:17:39.914Z",
+      "lastVerifiedAt": "2026-09-24T05:06:18.918Z",
       "sources": [
         {
           "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf",
@@ -3361,6 +3571,336 @@
         "reviewer": "Codex primary-source review 2026-09-21 08:17",
         "reason": "Full visible text, metadata and PDF links match reviewed capture; original PDFs unchanged. See data/audits/2026-09-21-0817-source-comparison.json.",
         "at": "2026-09-21T12:20:08.300Z"
+      }
+    },
+    {
+      "id": "91518ebf093ff4d2ec258e52",
+      "kind": "source-changed",
+      "eventId": "84137275f83e1c3ce985380d",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
+      "evidenceHash": "4883e01ba59b3920a3ed0a281ef9f07e724f6ee14c7a0b7b822f94b1a389b861",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:18.187Z"
+      }
+    },
+    {
+      "id": "b463d8ceee8b5ba157147073",
+      "kind": "source-changed",
+      "eventId": "1e82f27f93163fb3f6db7c39",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "evidenceHash": "89eb0cc567c6db44347d6f2c35c22eb8d60bf3cca85899fb7bb4e3aa485083f2",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:19.046Z"
+      }
+    },
+    {
+      "id": "d99be51a0a93101d79d5a80b",
+      "kind": "source-changed",
+      "eventId": "2365c24f0f18857d6e898ad4",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/fr/quebec-politique-volonte-changement-baisse-appui-a-la-souverainete/",
+      "evidenceHash": "0e038fbc5ac67aa929f9c86f34d19e75a230a18c9a11dca5e83600d6f6bc8289",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:19.943Z"
+      }
+    },
+    {
+      "id": "2449d265d9ca5b089d84d0d6",
+      "kind": "source-changed",
+      "eventId": "474e843cff6f6b1ed437683d",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-le-pq-reste-en-tete-mais-rien-nest-encore-joue/",
+      "evidenceHash": "81d0a30608b2dfc8e4b45f7720f532e5041e2e7e87462e4494b3a18bffae3342",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:20.834Z"
+      }
+    },
+    {
+      "id": "53a95e476a0b496593e003c3",
+      "kind": "source-changed",
+      "eventId": "83fdb2d1bae99480229939e7",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-vote-quebec-janvier-2026/",
+      "evidenceHash": "37fdd563cf4bcff903f493f0bea8ba17423a8cfcbac8101b32c5c8abbc9025d9",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:21.758Z"
+      }
+    },
+    {
+      "id": "27b8cf286fcc6cc8c9c76190",
+      "kind": "source-changed",
+      "eventId": "ab7b396ebb6aa55465445e4b",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-lutte-a-trois-mai-2026/",
+      "evidenceHash": "880f53ae2706148992dd95d6ed52627ae189df4f6319191d95bf48b8bb6dcf62",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:22.709Z"
+      }
+    },
+    {
+      "id": "8cf04b56bd8b6bc35e553c2d",
+      "kind": "source-changed",
+      "eventId": "e4325ea59acfb4fa08270ce3",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-pq-en-tete-caq-deuxieme-rang/",
+      "evidenceHash": "8f11a4997cc3ba42f3402a673edf382bd3f083899d362e71ea222fe950024ba0",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:23.638Z"
+      }
+    },
+    {
+      "id": "5462666ebe38c7f9f9fe0a39",
+      "kind": "source-changed",
+      "eventId": "e49901c3a9e0992104d1b289",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
+      "evidenceHash": "56431561bb38038b06db386e0b445abf0a1301078d7a02d003e467a2d3e7e56a",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:24.499Z"
+      }
+    },
+    {
+      "id": "5e34e79c22e9d0efc766bf29",
+      "kind": "source-changed",
+      "eventId": "881eb47a24e449e758774b99",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
+      "evidenceHash": "4e59d9097cce26eca7cadbc10ffc3a2fa17df3bdd72d0f1cf705fcc3b15c8106",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:25.401Z"
+      }
+    },
+    {
+      "id": "83dbf45ece2d969cdec22c40",
+      "kind": "source-changed",
+      "eventId": "31c4f0bd2b2e8b0834cd3f94",
+      "status": "pending",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
+      "evidenceHash": "e4b1cc0a6a35e58d0da0d666925de1f2d4bd5ee75e7c288a1ecc99086abb7942",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ]
+    },
+    {
+      "id": "4a1d83097e99da537e12a78d",
+      "kind": "source-changed",
+      "eventId": "31c4f0bd2b2e8b0834cd3f94",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
+      "evidenceHash": "2288d921d95b2da53c156ee1bf7a5c8bdd96ed003bccbad4ca98baf88ebd0277",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:26.342Z"
+      }
+    },
+    {
+      "id": "5dbe896c6876ee7a588ad41d",
+      "kind": "source-changed",
+      "eventId": "4773d7f0082ea11b739a0a95",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://pallas-data.ca/2026/02/27/quebec-poll-pq-lead-narrows-liberals-surge-february-2026/",
+      "evidenceHash": "0e5b82f2b9a5d14a4971c9e48a8185776462b9e56c356b4c1188530b948a9571",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:27.233Z"
+      }
+    },
+    {
+      "id": "3c05954c1ad5a459064c4ab8",
+      "kind": "source-changed",
+      "eventId": "85a2491cf1f913f80a16dabb",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+      "evidenceHash": "5a6c4329280f91e4cfbbb4cea089023ffb0e76c6317034eaab8b90f2e844bbe5",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:28.104Z"
+      }
+    },
+    {
+      "id": "a4f35359be9e30723ed213f5",
+      "kind": "source-changed",
+      "eventId": "85a2491cf1f913f80a16dabb",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
+      "evidenceHash": "bb99e1c82d29bd3a09c002ba71a5cffc268409389a31c58a1fbd298e8d2d1b6e",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:28.989Z"
+      }
+    },
+    {
+      "id": "51cb77d3933183881b47a5e1",
+      "kind": "source-changed",
+      "eventId": "9add8119d2b766a78476ef5b",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
+      "evidenceHash": "1514c6d2b0750c0d1b45515d353748144f2508813b23f4611c71d8eb8a958d58",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:29.873Z"
+      }
+    },
+    {
+      "id": "92ba6d5887af892f74da5e23",
+      "kind": "source-changed",
+      "eventId": "a9014cd27b7acc6cc0fd3745",
+      "status": "pending",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://press.liaisonstrategies.ca/quebec-le-pq-et-les-liberaux-sont-coude-a-coude-la-caq-gagne-du-terrain/",
+      "evidenceHash": "20d2ae4c86c4d553cf9d7c411891e8d43380653c74e008a65f14c24f6ee721eb",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ]
+    },
+    {
+      "id": "0d939c67c1ae3b13c914ae19",
+      "kind": "source-changed",
+      "eventId": "b07fea0dc57a36b9691e8dad",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
+      "evidenceHash": "269c0bbd5bef1201b730fee8851491341ce8c450d5189f288fb0e5579bb53576",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex article review 2026-09-24",
+        "reason": "Release text before explicitly identified related-post section, publication metadata, PDF links and accepted PDF hash unchanged. Related-post navigation changed. See September 24 audit.",
+        "at": "2026-09-24T05:13:30.804Z"
+      }
+    },
+    {
+      "id": "855335a562a9082b98952c5a",
+      "kind": "source-changed",
+      "eventId": "6c2accff3648ddb12e0b00d5",
+      "status": "rejected",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "url": "https://nanos.co/noovo-crave-nanos-quebec-election-survey-pq-27-9-liberals-23-7-caq-21-6-conservatives-16-4-and-quebec-solidaire-8-7/",
+      "evidenceHash": "f3cb7c1bfce1e294af78e86186fa427c90e6aa400c2dae39fc3d1246c8cbe297",
+      "errors": [],
+      "warnings": [
+        "Source bytes changed; verify relevant table before revising data"
+      ],
+      "decision": {
+        "action": "reject",
+        "reviewer": "Codex source comparison 2026-09-24",
+        "reason": "Full normalized visible text, publication metadata and PDF links unchanged from reviewed archive; accepted original PDF hash unchanged. No numerical correction.",
+        "at": "2026-09-24T05:12:10.641Z"
       }
     }
   ],
@@ -6208,32 +6748,116 @@
       "role": "primary",
       "firstDiscoveredAt": "2026-09-21T12:17:39.914Z",
       "evidenceHash": "f4bd4424948ee16da53bb5df84e80870ef9bac0d6985d3f23a7f4a22231766e2"
+    },
+    {
+      "id": "10ffc150bf5b906bededa99e",
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-climat-de-changement/",
+      "title": "Intentions de vote au Québec: le PQ consolide plusieurs indicateurs dans un climat de changement",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "evidenceHash": "4883e01ba59b3920a3ed0a281ef9f07e724f6ee14c7a0b7b822f94b1a389b861"
+    },
+    {
+      "id": "647c9171e91da4b24c0c9104",
+      "url": "https://leger360.com/quebec-voting-intentions-pq-strenghtens/",
+      "title": "Quebec Voting Intentions: The PQ Strengthens Several Indicators Amid a Strong Desire for Change",
+      "sourceId": "leger",
+      "discoveredFrom": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "evidenceHash": "89eb0cc567c6db44347d6f2c35c22eb8d60bf3cca85899fb7bb4e3aa485083f2"
+    },
+    {
+      "id": "6d36ec007f30e97411f57623",
+      "url": "https://pallas-data.ca/fr/2026/09/21/pallas-quebec-poll-pq-28-plq-22-caq-22-pcq-16-qs-11/",
+      "title": "En savoir plus",
+      "sourceId": "pallas",
+      "discoveredFrom": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "evidenceHash": "4e59d9097cce26eca7cadbc10ffc3a2fa17df3bdd72d0f1cf705fcc3b15c8106"
+    },
+    {
+      "id": "c7e457327f97b9ea8751f106",
+      "url": "https://pallas-data.ca/2026/09/21/pallas-quebec-poll-pq-28-plq-22-caq-22-pcq-16-qs-11/",
+      "title": "Read More",
+      "sourceId": "pallas",
+      "discoveredFrom": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "primary",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "evidenceHash": "2288d921d95b2da53c156ee1bf7a5c8bdd96ed003bccbad4ca98baf88ebd0277"
+    },
+    {
+      "id": "0c54261b715686b8dec7d322",
+      "url": "https://qc125.com/20260919-pal.htm",
+      "title": "Pallas Data",
+      "sourceId": "qc125",
+      "discoveredFrom": "https://qc125.com/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "secondary",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "evidenceHash": "d5123c84d2278916ddf2c4df7b8af8250adff08315f8cacf336d750125d6a644"
+    },
+    {
+      "id": "7a0cf49a033e4ede7b1468b9",
+      "url": "https://qc125.com/20260920-leg.htm",
+      "title": "Léger",
+      "sourceId": "qc125",
+      "discoveredFrom": "https://qc125.com/",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "secondary",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "evidenceHash": "d5123c84d2278916ddf2c4df7b8af8250adff08315f8cacf336d750125d6a644"
+    },
+    {
+      "id": "176ea64235493c488e8eabfa",
+      "url": "https://lequebecvote.ca/sondages/pallas-data-2026-09-19",
+      "title": "19 septembre 2026",
+      "sourceId": "lequebecvote",
+      "discoveredFrom": "https://lequebecvote.ca/sondages",
+      "kind": "release-candidate",
+      "status": "pending",
+      "role": "secondary",
+      "firstDiscoveredAt": "2026-09-24T05:06:18.918Z",
+      "evidenceHash": "3eb269a5c8756caf2eea5a98d565b41a53394f4fdf11ec1c3a601b530aedef9d"
     }
   ],
   "health": [
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-le-vote-se-stabilise-mais-une-forte-volonte-de-changement-demeure/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "2efbc7a9e6383531d3e00728be122b70d1ffb0c83139bae99c7f6daeafab85ab",
+      "evidenceHash": "4883e01ba59b3920a3ed0a281ef9f07e724f6ee14c7a0b7b822f94b1a389b861",
       "leads": 7
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "b4ed1ae14f4f12284bdda57b48f69fca123c471c04f4e5b6b38a332bccbfc338",
-      "leads": 6
+      "evidenceHash": "31acc0365ca1033ac416bf46e577c70d301f22b174c7e81a0d71659b869599b4",
+      "leads": 7
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/vmedia1_rapport-intentions-de-vote-14-septembre-2026-finale/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "2b6dcc53712450640182b87b276e07bd909414dec415f13d54dc8c8c35ba2635",
       "leads": 0
@@ -6241,17 +6865,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/in-the-news-quebec-voting-intentions-caq-falls-to-third-pcq-reaches-17-percent/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "22d23d50178653a2579cfa1517d71311c74c2aa8b0eb521f550e70267f1e0088",
+      "evidenceHash": "89eb0cc567c6db44347d6f2c35c22eb8d60bf3cca85899fb7bb4e3aa485083f2",
       "leads": 9
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/wp-content/uploads/2026/03/Leger_PolitiqueQC_V1_4mars2026.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "ce41fcf709968a7ee09e8265774a076421234722c40ba074167796a26aacda84",
       "leads": 0
@@ -6259,17 +6883,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/quebec-politique-volonte-changement-baisse-appui-a-la-souverainete/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "90db25bbfb0c94ff2c1c794a4724b69bdd25d13a74b0e2fa462be3522b61fcfd",
+      "evidenceHash": "0e038fbc5ac67aa929f9c86f34d19e75a230a18c9a11dca5e83600d6f6bc8289",
       "leads": 12
     },
     {
       "sourceId": "leger",
       "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/6.%20%C3%89tudes%20M%C3%A9diatiques%20Juin%202026/Qu%C3%A9bec%20Polls/Rapport%20-%20Leger-%20Intentions%20de%20vote%20(16%20juin%202026).pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "5ae1a7f6f312d402af168aea26e40ec0770b76a386909836b39d277f8d88cd32",
       "leads": 0
@@ -6277,17 +6901,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-le-pq-reste-en-tete-mais-rien-nest-encore-joue/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "00044c9abc251eb95c66aa6298205940b3ceb82f095c62489de939510da9e369",
+      "evidenceHash": "81d0a30608b2dfc8e4b45f7720f532e5041e2e7e87462e4494b3a18bffae3342",
       "leads": 12
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/wp-content/uploads/2026/01/Rapport-Intentions-de-vote-29-janvier-2026.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "79d59a10d98a4fa909aa312f57a3fe98a1bb6e4b9fbbdd7f4e361577b27b15bc",
       "leads": 0
@@ -6295,17 +6919,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-vote-quebec-janvier-2026/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "55fbbf339ee1c564e513e57ae3dafe7b482d861b0232ff3a75d61e018a95615d",
+      "evidenceHash": "37fdd563cf4bcff903f493f0bea8ba17423a8cfcbac8101b32c5c8abbc9025d9",
       "leads": 11
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/rapport-intentions-de-vote-7-septembre-2026-vf/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "afa6b798d3d4c4c36066b415b45e6bb5e21bc64bb69409c22b4a472b9e3c094d",
       "leads": 0
@@ -6313,8 +6937,8 @@
     {
       "sourceId": "leger",
       "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/5.%20%C3%89tudes%20M%C3%A9diatiques%20Mai/Leger%20-%20Rapport%20-%20Intentions%20de%20vote%20Quebec%2019%20mai%202026.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "fdb300f94f5da1ca05e3c02cfde7d26d3910ffba14a372148bb5af5b48ed2a8f",
       "leads": 0
@@ -6322,17 +6946,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-lutte-a-trois-mai-2026/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "79640ee83bf097b0356f6ebffae3796e6462339525292e43c4d73eb4ef5a122d",
+      "evidenceHash": "880f53ae2706148992dd95d6ed52627ae189df4f6319191d95bf48b8bb6dcf62",
       "leads": 13
     },
     {
       "sourceId": "leger",
       "url": "https://leger360.com/wp-content/uploads/2026/08/Rapport-intentions-de-vote-31-aout-2026-VF.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "bc3d119bc1750f47e875e358457b9f8ee45b15a36ccb1005989cd6699cb03e5f",
       "leads": 0
@@ -6340,17 +6964,17 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/dernieres-nouvelles-intentions-de-vote-au-quebec-pq-en-tete-caq-deuxieme-rang/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "985dd16b61169e5f62c2709463de9c4c46d4a5adedd52cf51f386159510c8dd9",
+      "evidenceHash": "8f11a4997cc3ba42f3402a673edf382bd3f083899d362e71ea222fe950024ba0",
       "leads": 11
     },
     {
       "sourceId": "leger",
       "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20Final%20-%20L%C3%A9ger%20Intentions%20de%20vote%20(11%20ao%C3%BBt%202026).pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "fc97a47252449cc2f51b882d61d8a3cc3fb11d111a109483dbacd739bd31b863",
       "leads": 0
@@ -6358,44 +6982,44 @@
     {
       "sourceId": "leger",
       "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-11-aout-2026/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "cab1bba7d5ca0317cfa099b27e40a27c6825be86c451fced98a9e97acabb2ed4",
+      "evidenceHash": "56431561bb38038b06db386e0b445abf0a1301078d7a02d003e467a2d3e7e56a",
       "leads": 10
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "160eaa227ad0083d92477374610ba452f027e99730bc5870402785e7539c3093",
+      "evidenceHash": "bb14b042b65eda1128edb71a3c1ca40839ac396d31a32e3b7fbef7c60e1eabf8",
       "leads": 3
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/fr/2026/09/07/pallas-quebec-poll-pq-29-caq-24-plq-20-pcq-15-qs-11/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "b1aee17c2e485fd0ace0bd7ba3840a530c5235c00dce06be2b16b2fff6d5a692",
-      "leads": 11
+      "evidenceHash": "4e59d9097cce26eca7cadbc10ffc3a2fa17df3bdd72d0f1cf705fcc3b15c8106",
+      "leads": 12
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/fr/2026/01/21/sondage-pallas-quebec-pq-34-plq-27-pcq-15-caq-11-qs-8/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "f96ba57535744e67861804715ea9a25d11097ef44a0bdba5901d8ee496337fcc",
+      "evidenceHash": "e4b1cc0a6a35e58d0da0d666925de1f2d4bd5ee75e7c288a1ecc99086abb7942",
       "leads": 6
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/wp-content/uploads/2026/01/PallasData-Quebec-QC125-11janvier2025.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "2a3429380206ef6e55c875aa1b69c280235eea6bac34d08ac9d229dd251ec057",
       "leads": 0
@@ -6403,17 +7027,17 @@
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/2026/01/21/pallas-quebec-poll-pq-34-plq-24-qs-11-jan-2026/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "ae17ecf4213156baf51214aff7631acdc99fc486e4cf699876e9d909b87810d2",
+      "evidenceHash": "2288d921d95b2da53c156ee1bf7a5c8bdd96ed003bccbad4ca98baf88ebd0277",
       "leads": 11
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/wp-content/uploads/2026/02/PallasData-QC125-Quebec-22fevrier2026.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "0ce1fe5a9cc443729ddf59d17adbf30e10eea4e26d2e156c5cc1120ca6375a26",
       "leads": 0
@@ -6421,17 +7045,17 @@
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/2026/02/27/quebec-poll-pq-lead-narrows-liberals-surge-february-2026/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "f4bd4424948ee16da53bb5df84e80870ef9bac0d6985d3f23a7f4a22231766e2",
+      "evidenceHash": "0e5b82f2b9a5d14a4971c9e48a8185776462b9e56c356b4c1188530b948a9571",
       "leads": 11
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/wp-content/uploads/2026/08/PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "a3da80d13a28dea431208160e76236046649a1799ea384974b180454c2b447df",
       "leads": 0
@@ -6439,26 +7063,26 @@
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "50ef2bbd12cbbd6e3efd675254be1d46e8a1415bfd01c124887180042d162b63",
+      "evidenceHash": "5a6c4329280f91e4cfbbb4cea089023ffb0e76c6317034eaab8b90f2e844bbe5",
       "leads": 11
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "f2ceef9c9dcbb400fdb3f4b17f43fc09ac457c34ff853066c33e3451451cdfa8",
+      "evidenceHash": "bb99e1c82d29bd3a09c002ba71a5cffc268409389a31c58a1fbd298e8d2d1b6e",
       "leads": 11
     },
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine2-06septembre2026.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "683b0a66ac86184631771a88009a1139589b15316ec760fe37fe897bd52d28a1",
       "leads": 0
@@ -6466,8 +7090,8 @@
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/wp-content/uploads/2026/09/PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "2a244a423fd1cf487939c705ff201fad345e9627fade72bfc82ba62743445009",
       "leads": 0
@@ -6475,44 +7099,44 @@
     {
       "sourceId": "pallas",
       "url": "https://pallas-data.ca/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "fb262d2eead5bb8f1c72c11e649fccff6c931f174f85447f312330b9f84a923f",
-      "leads": 9
+      "evidenceHash": "1514c6d2b0750c0d1b45515d353748144f2508813b23f4611c71d8eb8a958d58",
+      "leads": 10
     },
     {
       "sourceId": "liaison",
       "url": "https://press.liaisonstrategies.ca/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "082013ba5949e23beac55bb75f972a335d1220395edbed401a763b6c9fe12d9c",
-      "leads": 69
+      "evidenceHash": "bfbe94515ded8d0c5ad93b571d2496a945a874dae8acd55cf25981b66e67b096",
+      "leads": 67
     },
     {
       "sourceId": "liaison",
       "url": "https://press.liaisonstrategies.ca/quebec-le-pq-et-les-liberaux-sont-coude-a-coude-la-caq-gagne-du-terrain/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "1b9a48c93a8b0e9ef93fbed384ad90a1a7721bbb0a36203a25362e1eb0f0df27",
+      "evidenceHash": "20d2ae4c86c4d553cf9d7c411891e8d43380653c74e008a65f14c24f6ee721eb",
       "leads": 3
     },
     {
       "sourceId": "innovative",
       "url": "https://innovativeresearch.ca/insights-news/public-affairs-research/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "bccc06c1fcfb87d874e90e1ca4ff2bed473d6f9134c5f0c605eac79174ad7038",
+      "evidenceHash": "5b7b364a8f2e31dd271ca7a8df67de34f1611787d3d78c5a06e79cbb0324e603",
       "leads": 0
     },
     {
       "sourceId": "innovative",
       "url": "https://innovativeresearch.ca/wp-content/uploads/2026/05/CTM2601-Legault-RELEASE.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "ec36e02c517d9f237482db25329ff0ec295d6a51bc54a9297f8bc9f7973a0c77",
       "leads": 0
@@ -6520,17 +7144,17 @@
     {
       "sourceId": "innovative",
       "url": "https://innovativeresearch.ca/legaults-resignation-fails-to-deliver-new-life-for-the-caq/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "42d3e31dff7009114b865365c837f4644d6be7b10d15485f8d88dcbbe23ecf3a",
+      "evidenceHash": "269c0bbd5bef1201b730fee8851491341ce8c450d5189f288fb0e5579bb53576",
       "leads": 1
     },
     {
       "sourceId": "mainstreet",
       "url": "https://www.mainstreetresearch.ca/polling",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "780725725c84d09072aff2e0cffae7d1e5913568cce1926b7a4e80ba3006278e",
       "leads": 10
@@ -6538,16 +7162,16 @@
     {
       "sourceId": "ipsos",
       "url": "https://www.ipsos.com/en-ca/support-independence-alberta-reaches-levels-similar-quebec",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "a5682ed68aa8b6516e04f218eb7284a97492d0467a4b9ebc85722672923f5aed",
-      "leads": 15
+      "evidenceHash": "908c394e640ca1600a96868c8ee1488040b346e77bc29049f19dbbcab20408d0",
+      "leads": 14
     },
     {
       "sourceId": "angus-reid",
       "url": "https://angusreid.org/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
       "lastSuccessAt": null,
       "status": "failed",
       "error": "Source crawl delay requires deferred scheduling"
@@ -6555,25 +7179,25 @@
     {
       "sourceId": "qc125",
       "url": "https://qc125.com/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "bae6c578983a4d72351ad8401fcc1d8d4fa7775859ddc0fc846cc1750afc743e",
-      "leads": 8
+      "evidenceHash": "d5123c84d2278916ddf2c4df7b8af8250adff08315f8cacf336d750125d6a644",
+      "leads": 9
     },
     {
       "sourceId": "lequebecvote",
       "url": "https://lequebecvote.ca/sondages",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "c2f71eb181e019ca42650e941288ba4148259d688afdcc35e203b0174cb5ec36",
-      "leads": 35
+      "evidenceHash": "3eb269a5c8756caf2eea5a98d565b41a53394f4fdf11ec1c3a601b530aedef9d",
+      "leads": 36
     },
     {
       "sourceId": "poliwave",
       "url": "https://www.poliwave.com/ca/qc/polls/pollsters?lang=en",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
       "lastSuccessAt": null,
       "status": "failed",
       "error": "HTTP 429"
@@ -6581,26 +7205,26 @@
     {
       "sourceId": "nanos",
       "url": "https://nanos.co/noovo-crave-nanos-quebec-election-survey-pq-27-9-liberals-23-7-caq-21-6-conservatives-16-4-and-quebec-solidaire-8-7/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "fb1a0ca735920fcdd65680e34eb6e100aa38374eb798b409da13bee8d15cc1b8",
+      "evidenceHash": "f3cb7c1bfce1e294af78e86186fa427c90e6aa400c2dae39fc3d1246c8cbe297",
       "leads": 11
     },
     {
       "sourceId": "nanos",
       "url": "https://nanos.co/category/qc-election/",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
-      "evidenceHash": "e1a25115bf05cc528b06f411b083112f3a56b41ba6d14bf584194d8017d88a39",
+      "evidenceHash": "172f6967c26a53951c79a9aac79abfe24b9d3c527a2e68f142f47128c2c7b41e",
       "leads": 9
     },
     {
       "sourceId": "nanos",
       "url": "https://nanos.co/wp-content/uploads/2026/09/2026-3132-Noovo-Crave-QC-Election-Populated-report-FINAL.pdf",
-      "lastCheckedAt": "2026-09-21T12:17:39.914Z",
-      "lastSuccessAt": "2026-09-21T12:17:39.914Z",
+      "lastCheckedAt": "2026-09-24T05:06:18.918Z",
+      "lastSuccessAt": "2026-09-24T05:06:18.918Z",
       "status": "ok",
       "evidenceHash": "358a1a977dace2cd184b518b253b85d8846a587abfbd6a3f0cd874d994072cb2",
       "leads": 0
@@ -6670,7 +7294,15 @@
       "status": "partial",
       "successfulSources": 42,
       "failedSources": 2
+    },
+    {
+      "startedAt": "2026-09-24T05:06:18.917Z",
+      "finishedAt": "2026-09-24T05:07:41.547Z",
+      "date": "2026-09-24",
+      "status": "partial",
+      "successfulSources": 42,
+      "failedSources": 2
     }
   ],
-  "lastVerifiedUpdateAt": "2026-09-21T10:46:50.072Z"
+  "lastVerifiedUpdateAt": "2026-09-24T05:11:11.478Z"
 }

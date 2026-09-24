@@ -1,0 +1,64 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-09-22",
+  "basis": "decided-leaning",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "pollster": "Léger",
+  "sponsor": "Sondage Léger/Le Journal/TVA",
+  "publicationDateBasis": "Visible 22 September 2026 primary French release date, distinct from September 21 report cover.",
+  "fieldStart": "2026-09-18",
+  "fieldEnd": "2026-09-21",
+  "sampleSize": 1001,
+  "mode": "Online panel (LEO)",
+  "population": "Québec residents aged 18 and over eligible to vote",
+  "undecided": 8,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability online panel. Probability-sample comparison margin is not an actual sampling margin."
+  },
+  "notes": [
+    "Undecided is the Ne sait pas row; non-voting and refusal responses are separate.",
+    "Total decided column includes leaning follow-up; other columns excluded."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "leger-table-1",
+    "locator": "PDF page 7 total decided column visually verified; page 2 methodology; primary French release visible date."
+  },
+  "sources": [
+    {
+      "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/9.%20%C3%89tudes%20m%C3%A9diatiques%20septembre%202026/QC%20Pol%2021%20September/Rapport%20intentions%20de%20vote%20-%2021%20septembre%202026.pdf",
+      "role": "primary",
+      "evidenceHash": "2eeaf9076bec6fa48fbb1e0481aa96a11ed1bdaac1941bd5518648625fbdf4d3"
+    },
+    {
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-climat-de-changement/",
+      "role": "primary",
+      "evidenceHash": "9ca67026e9af00cad4b3f46b918b977e52e262281a53b45904909c2a69bf51be"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 903,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "29%",
+        "CAQ": "20%",
+        "PLQ": "23%",
+        "PCQ": "17%",
+        "QS": "10%",
+        "OTHER": "1%"
+      }
+    }
+  ]
+}
