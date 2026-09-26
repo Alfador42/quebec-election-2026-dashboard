@@ -1,0 +1,12 @@
+{
+  "url": "https://lequebecvote.ca/sondages",
+  "finalUrl": "https://lequebecvote.ca/sondages",
+  "sourceId": "lequebecvote",
+  "role": "secondary",
+  "retrievedAt": "2026-09-26T12:16:12.080Z",
+  "sha256": "38c260c4cd5e845d24bad3552a469c0c276903198e299bbc5f8b2863c5f4deb0",
+  "contentType": "text/html; charset=utf-8",
+  "byteLength": 671332,
+  "file": "data/evidence/38c260c4cd5e845d24bad3552a469c0c276903198e299bbc5f8b2863c5f4deb0.html",
+  "status": 200
+}
