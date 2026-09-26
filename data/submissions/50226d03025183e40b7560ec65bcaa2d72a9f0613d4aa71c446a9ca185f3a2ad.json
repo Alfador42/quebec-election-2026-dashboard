@@ -1,0 +1,65 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-04-11",
+  "basis": "decided-leaning",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "pollster": "Léger",
+  "sponsor": "Sondage Léger/Québecor",
+  "publicationDateBasis": "Primary French release visible April 11 date and article:published_time 2026-04-11T12:55:00+00:00. PDF cover is April 12; retained separately, not substituted for publication.",
+  "fieldStart": "2026-04-02",
+  "fieldEnd": "2026-04-06",
+  "sampleSize": 1036,
+  "mode": "Online panel (LEO)",
+  "population": "Québec residents aged 18 and over eligible to vote",
+  "undecided": 10,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability online panel. Probability-sample comparison margin is not an actual sampling margin."
+  },
+  "notes": [
+    "Fieldwork April 2-6 explicitly agrees in primary release and PDF methodology, despite April 12 report label.",
+    "Original total decided VOTEP figures include leaning; hypothetical leadership and subgroup results excluded.",
+    "Undecided is Ne sait pas, excluding refusals and non-voting responses."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "leger-table-1",
+    "locator": "PDF page 7 total decided column visually verified; page 3 methodology; original release visible date and metadata."
+  },
+  "sources": [
+    {
+      "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/4.%20%C3%89M%20-%20Avril%202026/04062026%20-%20Intentions%20de%20vote/leger-politique-quebec-intentions-vote-12-avril-2026-V2.pdf",
+      "role": "primary",
+      "evidenceHash": "faa4661da926e58530255bb145f587db5d5a481432c767a9aa012fcd4f1a3d34"
+    },
+    {
+      "url": "https://leger360.com/fr/dernieres-nouvelles-politique-quebecoise-lutte-a-deux-entre-pq-plq-caq-peine-a-mobiliser-leger-avril-2026/",
+      "role": "primary",
+      "evidenceHash": "e203a04d0f0b860b98676ecc931f8b6cf030f58c364b7dba0be24cdf6ae9d222"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 858,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "32%",
+        "CAQ": "13%",
+        "PLQ": "33%",
+        "PCQ": "12%",
+        "QS": "8%",
+        "OTHER": "2%"
+      }
+    }
+  ]
+}
