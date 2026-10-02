@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-01",
+  "acceptedEventIds": [
+    "6cd09891dff3e346bbc59452",
+    "178799ac7ae3011757771bfb"
+  ],
+  "leads": [
+    {
+      "pollster": "Synopsis Recherche",
+      "url": "https://qc125.com/proj/2026-09-26-synopsis.pdf",
+      "evidenceHash": "a5839a54ce0314cf0344671c4fc95b81d155b3a4e5a887982d97f9a4c80fd3ee",
+      "primaryRelease": "https://www.lapresse.ca/elections-quebecoises/2026-09-27/sondage-synopsis-la-presse/la-caq-s-effondre-le-pq-en-zone-majoritaire.php",
+      "status": "pending-primary-publication-verification",
+      "notes": "Primary release could not be opened; mirrored report cover date alone is not publication evidence. No values ingested."
+    },
+    {
+      "pollster": "Research Co.",
+      "url": "https://researchco.ca/wp-content/uploads/2026/09/Tables_Politics_QU_15Sep2026.pdf",
+      "discoveredFrom": "https://geostrat.info/sondages/",
+      "status": "pending-archive-metadata-and-visual-review",
+      "notes": "Original provincial ballot table found; publication date, field dates and methodology still require reconciliation. No values accepted."
+    },
+    {
+      "pollster": "Synopsis Recherche",
+      "url": "https://divers.lpcdn.ca/redact/lapresse/actualites/LAP.21%20-%20Rapport%20-%20volet%20indicateurs%20politiques.pdf",
+      "discoveredFrom": "https://geostrat.info/sondages/",
+      "status": "pending-primary-mirror-comparison",
+      "notes": "Publisher attachment for earlier September wave found. Compare with existing mirror before accepting."
+    }
+  ],
+  "run": {
+    "startedAt": "2026-10-02T03:38:38.441Z",
+    "finishedAt": "2026-10-02T03:40:19.048Z",
+    "date": "2026-10-01",
+    "status": "partial",
+    "successfulSources": 50,
+    "failedSources": 3
+  },
+  "pendingReviews": 50
+}

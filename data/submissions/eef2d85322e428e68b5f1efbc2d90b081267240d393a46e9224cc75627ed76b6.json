@@ -1,0 +1,64 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "publicationDate": "2026-09-28",
+  "basis": "decided-leaning",
+  "question": "Provincial party voting intention if an election were held today, including a leaner follow-up.",
+  "pollster": "Léger",
+  "sponsor": "Sondage Léger/Le Journal/TVA",
+  "publicationDateBasis": "Visible September 28 primary release date.",
+  "fieldStart": "2026-09-25",
+  "fieldEnd": "2026-09-27",
+  "sampleSize": 1001,
+  "mode": "Online panel (LEO)",
+  "population": "Québec residents aged 18 and over eligible to vote",
+  "undecided": 6,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-applicable",
+    "note": "Non-probability online panel. Probability-sample comparison margin is not an actual sampling margin."
+  },
+  "notes": [
+    "Undecided is the Ne sait pas row; non-voting and refusal responses are separate.",
+    "Total decided column includes leaning follow-up; other columns excluded."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "leger-table-1",
+    "locator": "PDF page 7 total decided column visually verified; page 2 methodology; primary French release visible date."
+  },
+  "sources": [
+    {
+      "url": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/9.%20%C3%89tudes%20m%C3%A9diatiques%20septembre%202026/QC%20Pol%2028%20Sept/Rapport%20intentions%20de%20vote%20-%2028%20septembre%202026.pdf",
+      "role": "primary",
+      "evidenceHash": "b860a06d410a377f04b1c78b554fbc79baa0f8f9ca486dce97df751f8306d7bf"
+    },
+    {
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-la-caq-recule/",
+      "role": "primary",
+      "evidenceHash": "7e8049a56a40cd013dd71a6ddd0c421fc7e4a9132483d7123f8b0b75f4b33d5d"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Total column, not a regional subgroup"
+      },
+      "dimensions": [],
+      "baseN": 873,
+      "basis": "decided-leaning",
+      "reportedValues": {
+        "PQ": "30%",
+        "CAQ": "16%",
+        "PLQ": "26%",
+        "PCQ": "18%",
+        "QS": "9%",
+        "OTHER": "1%"
+      }
+    }
+  ]
+}
