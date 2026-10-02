@@ -30,3 +30,7 @@ September 15 primary release found and archived. Its explicitly linked public PD
 ## Follow-up source research — 24 September 2026
 
 Le Journal de Montréal was registered as a commissioning-media primary source after following the original Léger March release link. The March 28 article establishes an earlier publication lead than the March 30 pollster page, but archival retrieval returned HTTP 403; the historical extraction remains pending. Segma Recherche was detected through secondary discovery and an original-format PDF mirror on qc125.com. Its provincial Other value is a less-than bound, not a numeric estimate; primary publication and representation checks remain open. See the morning research audit and update log.
+
+## Research Co. added 2 October 2026
+
+Verified original September 15 release at https://researchco.ca/2026/09/15/quebec-2026/ and its linked tables and PDF release. Registered publisher host researchco.ca for subsequent checks. Provincial decided column is separate from all respondents, regions and prior election vote groups. Reported margins are preserved in notes; probability recruitment is not established by the online methodology. Other combines other parties and independents.

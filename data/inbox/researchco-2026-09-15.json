@@ -1,0 +1,71 @@
+{
+  "jurisdiction": "CA-QC",
+  "scenario": "actual",
+  "pollster": "Research Co.",
+  "sponsor": null,
+  "publicationDate": "2026-09-15",
+  "publicationDateBasis": "Dated original HTML and PDF press release, September 15, 2026.",
+  "fieldStart": "2026-09-10",
+  "fieldEnd": "2026-09-13",
+  "sampleSize": 705,
+  "mode": "Online survey; recruitment method not specified in release",
+  "population": "Quebec adults",
+  "basis": "decided",
+  "question": "If the provincial election were held today, which party’s candidate would you vote for in your constituency?",
+  "undecided": 12,
+  "marginOfError": {
+    "value": null,
+    "confidence": null,
+    "applicability": "not-established",
+    "note": "Publisher reports +/-3.7 points full sample and +/-3.9 decided, nineteen times out of twenty. Online recruitment design is not specified; these reported margins are preserved here but not treated as verified probability-sampling margins."
+  },
+  "notes": [
+    "Decided voters base 613 is explicitly stated in the original release; no leaning follow-up specified.",
+    "Other is the combined original category Another party / An independent candidate; neither component is separately reported.",
+    "Sponsor not identified. Original release contains an unrelated approval-rating discrepancy; approval ratings are not ingested.",
+    "Undecided 12% is from all respondents in original table page 3."
+  ],
+  "extraction": {
+    "method": "reviewed-pdf-table",
+    "version": "manual-1",
+    "locator": "Original tables PDF page 3 Quebec column under Decided Voters visually verified. Original press release page 1 confirms fieldwork, full and decided sample, publication and values."
+  },
+  "sources": [
+    {
+      "url": "https://researchco.ca/wp-content/uploads/2026/09/Tables_Politics_QU_15Sep2026.pdf",
+      "role": "primary",
+      "evidenceHash": "74f345ba37674f9844bd9a8d2fda13b4934cb5bfb19a2e20a467946dc690de22"
+    },
+    {
+      "url": "https://researchco.ca/2026/09/15/quebec-2026/",
+      "role": "primary",
+      "evidenceHash": "e391053c67d04d2867aa9facac50b23ad1137d317d1bf137decf1c21d953b90d"
+    },
+    {
+      "url": "https://researchco.ca/wp-content/uploads/2026/09/Release_Politics_QU_15Sep2026.pdf",
+      "role": "primary",
+      "evidenceHash": "8a95e64c7d5eaeb772857dd953595604812cfcc090fe5f954c1590699434c98e"
+    }
+  ],
+  "blocks": [
+    {
+      "questionType": "voting-intention",
+      "geography": {
+        "level": "province",
+        "label": "Québec",
+        "definition": "Entire province; Quebec column"
+      },
+      "dimensions": [],
+      "baseN": 613,
+      "basis": "decided",
+      "reportedValues": {
+        "PQ": "28%",
+        "CAQ": "23%",
+        "PLQ": "22%",
+        "PCQ": "16%",
+        "QS": "10%",
+        "OTHER": "1%"
+      }
+    }
+  ]
+}

@@ -61,5 +61,13 @@
     "aliases": [
       "Nanos"
     ]
+  },
+  {
+    "id": "researchco",
+    "name": "Research Co.",
+    "aliases": [
+      "Research Co",
+      "ResearchCo"
+    ]
   }
 ]

@@ -186,5 +186,19 @@
       "www.journaldemontreal.com"
     ],
     "notes": "Commissioning media publication evidence linked by original Léger release. Respect publisher robots and access restrictions."
+  },
+  {
+    "id": "researchco",
+    "publisher": "Research Co.",
+    "role": "primary",
+    "adapter": "links",
+    "enabled": true,
+    "urls": [
+      "https://researchco.ca/2026/09/15/quebec-2026/"
+    ],
+    "hosts": [
+      "researchco.ca"
+    ],
+    "notes": "Primary dated release and provincial tables; online method and reported sampling margins must be distinguished. Review required."
   }
 ]
