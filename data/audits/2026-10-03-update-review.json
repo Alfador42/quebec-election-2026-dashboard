@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-03",
+  "run": {
+    "startedAt": "2026-10-04T03:06:11.051Z",
+    "finishedAt": "2026-10-04T03:08:08.757Z",
+    "date": "2026-10-03",
+    "status": "partial",
+    "successfulSources": 57,
+    "failedSources": 3
+  },
+  "acceptedEvent": "b4426534053b8afa8d7b946d",
+  "previousEventsUnchanged": 23,
+  "originalPdfChecks": 23,
+  "originalPdfMismatches": [],
+  "pendingReviews": 93,
+  "discoveryAssessment": [
+    {
+      "url": "https://leger360.com/fr/intentions-de-vote-au-quebec-une-course-qui-demeure-serree/",
+      "title": "Intentions de vote au Québec : une course qui demeure serrée"
+    },
+    {
+      "url": "https://leger360.com/quebec-voting-intentions-a-close-race/",
+      "title": "Quebec Voting Intentions: A Close Race"
+    },
+    {
+      "url": "https://pallas-data.ca/fr/2026/10/03/pallas-mississauga-poll-parrish-34-crombie-25-tedjo-21-damerla-14/",
+      "title": "En savoir plus"
+    },
+    {
+      "url": "https://pallas-data.ca/2026/10/03/pallas-mississauga-poll-parrish-34-crombie-25-tedjo-21-damerla-14/",
+      "title": "Read More"
+    },
+    {
+      "url": "https://qc125.com/20261001-leg.htm",
+      "title": "Léger"
+    },
+    {
+      "url": "https://researchco.ca/2022/09/23/quebec-election-2022/",
+      "title": "the 2022 electoral campaign"
+    },
+    {
+      "url": "https://researchco.ca/2026/09/15/quebec-2026/",
+      "title": "Scroll to Top"
+    },
+    {
+      "url": "https://researchco.ca/2026/09/15/quebec-2026/?share=facebook",
+      "title": "Share on Facebook (Opens in new window) Facebook"
+    },
+    {
+      "url": "https://researchco.ca/2026/09/15/quebec-2026/?share=linkedin",
+      "title": "Share on LinkedIn (Opens in new window) LinkedIn"
+    },
+    {
+      "url": "https://researchco.ca/2026/09/15/quebec-2026/?share=twitter",
+      "title": "Share on X (Opens in new window) X"
+    },
+    {
+      "url": "https://researchco.ca/news/",
+      "title": "Polls"
+    },
+    {
+      "url": "https://researchco.ca/tag/quebec/",
+      "title": "Quebec"
+    },
+    {
+      "url": "https://researchco.ca/wp-content/uploads/2026/09/Release_Politics_QU_15Sep2026.pdf",
+      "title": "press release here"
+    },
+    {
+      "url": "https://researchco.ca/wp-content/uploads/2026/09/Tables_Politics_QU_15Sep2026.pdf",
+      "title": "data tables here"
+    }
+  ],
+  "notes": [
+    "New Leger release and translated/reference links resolve to one reviewed event. Pallas October 3 links concern Mississauga municipal election and are ineligible. Research Co links are existing accepted poll, sharing/navigation or 2022 history.",
+    "Source HTML changes remain conservatively pending. No prior accepted numerical revision established."
+  ]
+}

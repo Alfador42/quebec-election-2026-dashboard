@@ -1,0 +1,12 @@
+{
+  "url": "https://pallas-data.ca/",
+  "finalUrl": "https://pallas-data.ca/",
+  "sourceId": "pallas",
+  "role": "primary",
+  "retrievedAt": "2026-10-04T03:06:11.051Z",
+  "sha256": "9b05e13711d13244ed951782f2fca6f3ab24e6c2e5ca17c986d1d45a17ea714c",
+  "contentType": "text/html; charset=UTF-8",
+  "byteLength": 470612,
+  "file": "data/evidence/9b05e13711d13244ed951782f2fca6f3ab24e6c2e5ca17c986d1d45a17ea714c.html",
+  "status": 200
+}
